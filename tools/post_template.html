@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:Archivo;font-weight:800;src:url({{FONT_DIR}}/archivo-latin-800-normal.woff2)}
+@font-face{font-family:Archivo;font-weight:900;src:url({{FONT_DIR}}/archivo-latin-900-normal.woff2)}
+body{margin:0}
+#post{width:{{W}}px;height:{{H}}px;background:#fff;font-family:Inter,sans-serif;color:#0F172A;display:flex;flex-direction:column}
+.top{height:{{TOP_H}}px;background:{{BG}};position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 40px;box-sizing:border-box}
+.ktext{font-family:Archivo;font-weight:900;font-size:200px;line-height:1;color:{{KACHEL_FARBE}};white-space:nowrap}
+.ksub{font-family:Archivo;font-weight:800;font-size:56px;color:#fff;margin-top:24px}
+.badge{position:absolute;top:40px;right:40px;width:120px;height:120px;border-radius:30px;background:#0F172A;border:3px solid rgba(255,255,255,.25);box-sizing:border-box}
+.badge .r{position:absolute;left:20px;top:12px;font-family:Archivo;font-size:86px;font-weight:900;line-height:1;color:#fff;letter-spacing:-3px}
+.badge .d{position:absolute;top:14px;right:14px;width:20px;height:20px;border-radius:10px;background:#F97316}
+.badge .n{position:absolute;right:10px;bottom:12px;font-family:Archivo;font-size:18px;font-weight:800;line-height:1;color:#fff}
+.bottom{flex:1;box-sizing:border-box;padding:56px 64px 48px;display:flex;flex-direction:column;gap:24px}
+.meta{display:flex;align-items:center;gap:16px}
+.ort{display:flex;align-items:center;gap:8px;font-size:26px;font-weight:600;letter-spacing:2px;text-transform:uppercase}
+.kat{font-size:22px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:#C2410C;border-radius:8px;padding:6px 14px}
+h2{margin:0;font-family:Archivo;font-size:64px;line-height:1.08;font-weight:900;letter-spacing:-1.5px}
+.foot{margin-top:auto;border-top:2px solid #E2E8F0;padding-top:24px;display:flex;justify-content:space-between;align-items:center}
+.foot .u{font-family:Archivo;font-size:28px;font-weight:800}
+.foot .c{font-size:24px;font-weight:600;color:#475569}
+</style>
+</head>
+<body>
+<div id="post">
+<div class="top">
+<div class="ktext">{{KACHEL_TEXT}}</div>
+<div class="ksub">{{KACHEL_SUB}}</div>
+<div class="badge"><span class="r">R</span><span class="d"></span><span class="n">56</span></div>
+</div>
+<div class="bottom">
+<div class="meta"><span class="ort"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#0F172A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>{{ORT}}</span><span class="kat">{{KATEGORIE}}</span></div>
+<h2>{{TITEL}}</h2>
+<div class="foot"><span class="u">radius56.de</span><span class="c">{{FOOTER}}</span></div>
+</div>
+</div>
+</body>
+</html>

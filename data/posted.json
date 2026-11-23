@@ -1,0 +1,9 @@
+{
+  "items": [
+    {"id": "hof-advent-2026", "quelle": "News Koblenz", "url": "https://news-koblenz.de/gemuetlicher-hoefe-advent-bei-naturgenuss-erzeugern_57630.html", "postedAt": "2026-11-24T18:58:00+01:00", "format": "feed"},
+    {"id": "stromsteuer-swn-2027", "quelle": "Stadtwerke Neuwied", "url": "https://www.lebendiges-neuwied.de/", "postedAt": "2026-11-25T18:23:00+01:00", "format": "feed"},
+    {"id": "neuwied-365-freiheitsrechte", "quelle": "Stadt Neuwied", "url": "https://www.nr-kurier.de/artikel/178196-365-jahre-freiheitsrechte--neuwied-plant-grosses-jubilaeumsjahr", "postedAt": "2026-11-26T10:52:00+01:00", "format": "feed"},
+    {"id": "wochenende-2026-11-28", "quelle": "Veranstalterangaben", "url": "", "postedAt": "2026-11-27T07:08:00+01:00", "format": "feed"}
+  ],
+  "feedCount": {"2026-11-24": 1, "2026-11-25": 1, "2026-11-26": 1, "2026-11-27": 1}
+}
