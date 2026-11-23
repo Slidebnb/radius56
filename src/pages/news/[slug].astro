@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import Kachel from '../../components/Kachel.astro';
+import Meta from '../../components/Meta.astro';
+import { getPosts } from '../../lib/posts.js';
+
+export function getStaticPaths() {
+  return getPosts().map((post) => ({ params: { slug: post.slug }, props: { post } }));
+}
+const { post } = Astro.props;
+const { Content } = post;
+---
+<Base title={`${post.title} | Radius56`} description={post.teaser}>
+  <article class="article">
+    <Kachel text={post.kachelText} sub={post.kachelSub} farbe={post.kachelFarbe} />
+    <div class="article-body">
+      <Meta ort={post.ort} kategorie={post.kategorie} date={post.date} />
+      <h1>{post.title}</h1>
+      <p class="lead">{post.teaser}</p>
+      <div class="prose"><Content /></div>
+      {post.quelle && (
+        <p class="source">
+          Quelle: {post.quelleUrl ? <a href={post.quelleUrl} rel="noopener">{post.quelle}</a> : post.quelle}
+        </p>
+      )}
+      <p><a href="/">← Alle News</a></p>
+    </div>
+  </article>
+</Base>

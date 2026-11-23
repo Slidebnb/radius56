@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+const mail = 'werbung@radius56.de';
+const betreff = encodeURIComponent('Werbeanfrage Radius56');
+---
+<Base title="Werben | Radius56" description="Erreiche Menschen in Neuwied, Koblenz und 30 km Umkreis – mit Posts, Stories und Immobilien-Anzeigen bei Radius56.">
+  <section class="page">
+    <h1>Werben im Umkreis</h1>
+    <p class="lead">Radius56 erreicht Menschen genau dort, wo dein Geschäft ist: in Neuwied, Koblenz, Andernach und 30 km drumherum.</p>
+
+    <div class="price-grid">
+      <div class="price"><strong>Gesponserter Post</strong><p>Dein Angebot im Radius56-Look, als „Anzeige“ gekennzeichnet.</p><p><b>[PREIS]</b></p></div>
+      <div class="price"><strong>Story-Paket</strong><p>3 Stories mit Link, ideal für Aktionen und Events.</p><p><b>[PREIS]</b></p></div>
+      <div class="price"><strong>Immo-Objekt</strong><p>Haus oder Wohnung in der Rubrik Immo, auf Instagram und hier.</p><p><b>[PREIS]</b></p></div>
+      <div class="price"><strong>Event-Partner</strong><p>Dein Termin im Wochenend-Tipp und als eigener Post.</p><p><b>[PREIS]</b></p></div>
+    </div>
+
+    <h2>Unsere Reichweite</h2>
+    <p class="placeholder">[REICHWEITE: Follower, Aufrufe pro Monat – hier eintragen, sobald die ersten Zahlen da sind]</p>
+
+    <p style="margin-top:24px"><a class="button orange" href={`mailto:${mail}?subject=${betreff}`}>Angebot anfragen</a></p>
+  </section>
+</Base>

@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+import Kachel from '../components/Kachel.astro';
+import Meta from '../components/Meta.astro';
+import { getPosts, KATEGORIEN } from '../lib/posts.js';
+
+const posts = getPosts();
+const [aufmacher, ...rest] = posts;
+---
+<Base>
+  {aufmacher ? (
+    <a class="hero" href={`/news/${aufmacher.slug}`}>
+      <Kachel text={aufmacher.kachelText} sub={aufmacher.kachelSub} farbe={aufmacher.kachelFarbe} />
+      <div class="hero-body">
+        <Meta ort={aufmacher.ort} kategorie={aufmacher.kategorie} date={aufmacher.date} />
+        <h2>{aufmacher.title}</h2>
+        <p>{aufmacher.teaser}</p>
+      </div>
+    </a>
+  ) : (
+    <div class="empty" style="margin-top:28px">
+      <h2>Hier erscheinen bald die ersten News</h2>
+      <p>Du weißt, was in deinem Ort los ist? Schick uns deinen Tipp.</p>
+      <a class="button orange" href="/mitmachen">Tipp senden</a>
+    </div>
+  )}
+
+  <nav class="chips" aria-label="Kategorien">
+    <a class="chip active" href="/">Alle</a>
+    {KATEGORIEN.map((k) => <a class="chip" href={`/kategorie/${k.slug}`}>{k.name}</a>)}
+  </nav>
+
+  {rest.length > 0 && (
+    <>
+      <div class="section-title"><h2>Neu im Umkreis</h2></div>
+      <div class="grid">
+        {rest.map((post) => <PostCard post={post} />)}
+      </div>
+    </>
+  )}
+</Base>

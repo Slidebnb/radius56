@@ -1,0 +1,10 @@
+---
+// Das Radius56-App-Monogramm: R + orangener Punkt + 56
+const { size = 44, outline = true } = Astro.props;
+---
+<svg width={size} height={size} viewBox="0 0 120 120" role="img" aria-label="Radius56 Logo">
+  <rect x="2" y="2" width="116" height="116" rx="27" fill="#0F172A" stroke={outline ? "rgba(255,255,255,0.28)" : "none"} stroke-width="4" />
+  <path d="M26 24h33c13.5 0 22.5 7.9 22.5 19.9 0 8.6-4.7 15-12.4 18L84 92H66L52.8 64.8H42.2V92H26V24zm16.2 13.5v14.3h15.4c5.3 0 8.3-2.6 8.3-7.2s-3-7.1-8.3-7.1H42.2z" fill="#FFFFFF" />
+  <circle cx="94" cy="24" r="9" fill="#F97316" />
+  <text x="100" y="104" text-anchor="end" font-family="Archivo, sans-serif" font-weight="800" font-size="20" fill="#FFFFFF">56</text>
+</svg>

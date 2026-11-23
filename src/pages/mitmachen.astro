@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+const mail = 'redaktion@radius56.de';
+const betreff = encodeURIComponent('Tipp für Radius56');
+---
+<Base title="Mitmachen | Radius56" description="Schick uns deinen Tipp, dein Foto oder deinen Termin aus Neuwied, Koblenz und Umgebung.">
+  <section class="page">
+    <h1>Du weißt, was los ist?</h1>
+    <p class="lead">Ob Baustelle, Neueröffnung, Vereinsfest oder Blaulicht vor deiner Haustür: Schick uns deinen Tipp. Wir prüfen ihn und machen eine Meldung daraus.</p>
+
+    <h2>So erreichst du uns</h2>
+    <p style="display:flex;gap:12px;flex-wrap:wrap">
+      <a class="button orange" href={`mailto:${mail}?subject=${betreff}`}>Per E-Mail senden</a>
+      <a class="button" href="https://ig.me/m/radius56.de" rel="noopener">Instagram-Nachricht</a>
+    </p>
+
+    <h2>Was wir brauchen</h2>
+    <ul>
+      <li><strong>Was</strong> ist passiert oder geplant?</li>
+      <li><strong>Wo</strong> genau (Ort, Straße)?</li>
+      <li><strong>Wann</strong> (Datum, Uhrzeit)?</li>
+      <li>Optional ein <strong>Foto</strong>, das du selbst gemacht hast.</li>
+    </ul>
+
+    <h2>Wichtig bei Fotos</h2>
+    <p>Schick nur Fotos, die du selbst aufgenommen hast. Mit dem Senden erlaubst du uns, das Foto mit Namensnennung zu veröffentlichen. Auf Fotos von Unfällen und Einsätzen sollen keine Personen erkennbar sein.</p>
+  </section>
+</Base>

@@ -1,0 +1,13 @@
+---
+import Kachel from './Kachel.astro';
+import Meta from './Meta.astro';
+const { post } = Astro.props;
+---
+<a class="card" href={`/news/${post.slug}`}>
+  <Kachel text={post.kachelText} sub={post.kachelSub} farbe={post.kachelFarbe} logo={false} />
+  <div class="card-body">
+    <Meta ort={post.ort} kategorie={post.kategorie} date={post.date} />
+    <h3>{post.title}</h3>
+    <p>{post.teaser}</p>
+  </div>
+</a>

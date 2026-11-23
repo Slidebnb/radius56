@@ -1,0 +1,10 @@
+---
+// Bildersatz im Stil der Instagram-Posts (große Zahl/Wort auf Markenfarbe)
+import Logo from './Logo.astro';
+const { text, sub, farbe = 'navy', logo = true } = Astro.props;
+---
+<div class={`kachel ${farbe}`} aria-hidden="true">
+  {logo && <span class="mini-logo"><Logo size={40} /></span>}
+  <div class="kachel-text">{text}</div>
+  {sub && <div class="kachel-sub">{sub}</div>}
+</div>
