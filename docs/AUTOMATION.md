@@ -47,3 +47,27 @@ Buffer: Organisation „My organization“, Kanal „radius56.de“ (Instagram, 
 Feed: `metadata.instagram.type = "post"`, Story: `type = "story"`, `shouldShareToFeed: true`,
 `schedulingType: "automatic"`, `mode: "shareNow"` (Feed nur, wenn kein anderer Feed-Post in den
 letzten 2 Stunden; sonst `customScheduled` auf die nächste freie Lücke).
+
+## Wachstum (Follower gewinnen) – gilt für jeden Lauf
+
+Ziel in der Startphase: Community aufbauen, nicht Geld verdienen. Deshalb:
+
+1. **Interaktion vor Menge:** Jede Feed-Caption endet mit einer konkreten Frage an die Leser
+   („Wart ihr schon da?“, „Was meint ihr?“) oder einer Bitte zum Teilen/Markieren
+   („Markiere jemanden aus Neuwied, der das wissen muss“).
+2. **Feste Formate (zusätzlich zu den News, zählen zum Feed-Limit von 4):**
+   - **Montag, ca. 18 Uhr – Frage der Woche:** eine lokale Frage, bei der jeder mitreden kann
+     (z. B. „Bester Döner in Neuwied?“, „Schönster Weihnachtsmarkt im Umkreis?“).
+     Kachel: farbe "blau", Kachel-Text „Frage der Woche“. Antworten werden im Rückblick aufgegriffen.
+   - **Freitag, ca. 7 Uhr – Dein Wochenende:** 4–6 Termine fürs Wochenende im Umkreis.
+   - **Sonntag, ca. 19 Uhr – Wochenrückblick:** die 3–5 wichtigsten Meldungen der Woche,
+     dazu die beliebteste Antwort auf die Frage der Woche (ohne Nachnamen).
+   Vor dem Anlegen eines festen Formats in data/posted.json prüfen, ob es diese Woche schon lief
+   (id z. B. `frage-der-woche-2026-w48`).
+3. **Story-Hinweis auf neue Feed-Posts:** Nach jedem Feed-Post zusätzlich eine Story mit derselben
+   Grafik im Story-Format (format "story"), damit auch Story-Gucker den Post finden.
+4. **Lokale Hashtags:** immer 1–2 Ortshashtags (#neuwied, #koblenz, #andernach, #bendorf …)
+   plus #radius56; keine generischen Massen-Hashtags.
+5. **Folgen-Aufforderung sparsam:** höchstens einmal pro Tag „Folg @radius56.de für alles aus
+   deinem Umkreis“ am Ende einer Caption.
+6. **Nachtruhe:** zwischen 22 und 6 Uhr nichts veröffentlichen.
