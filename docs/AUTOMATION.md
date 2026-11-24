@@ -21,6 +21,12 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
 ## Regeln
 
 1. Nur Meldungen aus dem Gebiet, nicht älter als 24 Stunden (Termine: kommende 7 Tage).
+   **Themen sind bewusst breit (Entscheidung Wladi, 24.11.2026):** neben Blaulicht alles, was
+   für Leute im Umkreis nützlich oder interessant ist und bald ansteht: Weihnachtsmärkte, Feste,
+   Märkte, Konzerte, Eröffnungen/Schließungen, Baustellen, Fahrplan- und Müllabfuhr-Änderungen,
+   Öffnungszeiten an Feiertagen, Stadtrat-Beschlüsse, Fristen (Anträge, Anmeldungen), Vereine,
+   Sport, Wetter, Service-Tipps. Wenn es keine frische Eilmeldung gibt, aktiv nach solchen
+   allgemeinen Themen der kommenden Tage suchen und daraus posten (Feed-Limit und Abstand gelten).
 2. Keine Doppelten: jede Meldung bekommt eine `id`, abgleichen mit `data/posted.json`.
 3. **Feed:** maximal 4 Posts pro Kalendertag (Zähler `feedCount`), mindestens 2 Stunden Abstand.
    Wichtigste Meldungen in den Feed (Sperrungen, große Einsätze, Service-Infos, Events).

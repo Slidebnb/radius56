@@ -34,10 +34,17 @@
       "url": "https://www.presseportal.de/blaulicht/pm/117709/6396468",
       "postedAt": "2026-11-23T23:45:00+01:00",
       "format": "feed"
+    },
+    {
+      "id": "weihnachtsmaerkte-offen-2026",
+      "quelle": "Koblenzer Weihnachtsmarkt / Veranstalterangaben",
+      "url": "https://www.koblenzer-weihnachtsmarkt.de/en/opening-hours",
+      "postedAt": "2026-11-24T12:08:00+01:00",
+      "format": "feed"
     }
   ],
   "feedCount": {
-    "2026-11-24": 1,
+    "2026-11-24": 2,
     "2026-11-25": 1,
     "2026-11-26": 1,
     "2026-11-27": 1,
