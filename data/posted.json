@@ -104,10 +104,24 @@
       "url": "https://www.nr-kurier.de/artikel/178678-neue-hausarztpraxis-in-strassenhaus-erhaelt-foerderung",
       "postedAt": "2026-11-24T17:10:00+01:00",
       "format": "feed+story"
+    },
+    {
+      "id": "dwd-glaette-nacht-2026-11-25",
+      "quelle": "Deutscher Wetterdienst (via dpa/AK-Kurier)",
+      "url": "https://www.ak-kurier.de/akkurier/www/artikel/178669-kaeltewelle-in-rheinland-pfalz--glaette-moeglich",
+      "postedAt": "2026-11-24T18:15:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "hzako-6396714-zoll-pakete-blackfriday",
+      "quelle": "Hauptzollamt Koblenz",
+      "url": "https://www.presseportal.de/blaulicht/pm/121250/6396714",
+      "postedAt": "2026-11-24T18:15:00+01:00",
+      "format": "feed+story"
     }
   ],
   "feedCount": {
-    "2026-11-24": 7,
+    "2026-11-24": 9,
     "2026-11-25": 1,
     "2026-11-26": 1,
     "2026-11-27": 1,
