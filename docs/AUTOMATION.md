@@ -26,12 +26,13 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
    Märkte, Konzerte, Eröffnungen/Schließungen, Baustellen, Fahrplan- und Müllabfuhr-Änderungen,
    Öffnungszeiten an Feiertagen, Stadtrat-Beschlüsse, Fristen (Anträge, Anmeldungen), Vereine,
    Sport, Wetter, Service-Tipps. Wenn es keine frische Eilmeldung gibt, aktiv nach solchen
-   allgemeinen Themen der kommenden Tage suchen und daraus posten (Feed-Limit und Abstand gelten).
+   allgemeinen Themen der kommenden Tage suchen und daraus posten.
 2. Keine Doppelten: jede Meldung bekommt eine `id`, abgleichen mit `data/posted.json`.
-3. **Feed:** maximal 4 Posts pro Kalendertag (Zähler `feedCount`). **Sofort veröffentlichen, nichts
-   einplanen (Entscheidung Wladi, 24.11.2026):** neue Meldungen gehen direkt mit `shareNow` raus.
-   Wichtigste Meldungen in den Feed (Sperrungen, große Einsätze, Service-Infos, Events).
-4. **Story:** alles Weitere, das relevant ist (kleinere Polizeimeldungen, Termine, Hinweise).
+3. **Feed UND Story, kein Limit (Entscheidung Wladi, 24.11.2026, ersetzt das frühere 4er-Limit):**
+   Jede geeignete Meldung wird IMMER zweimal veröffentlicht – als Feed-Beitrag (format "feed")
+   und als Story (format "story"). Keine Obergrenze pro Tag; `feedCount` wird nur noch gezählt,
+   nicht begrenzt. **Sofort veröffentlichen, nichts einplanen:** alles direkt mit `shareNow`.
+4. In `data/posted.json` pro Meldung ein Eintrag mit `"format": "feed+story"`.
 5. Keine Namen, Kennzeichen, Hausnummern oder Fotos von Betroffenen. Bei Unfällen keine
    Spekulation über Schuld. Bei Vermisstenfahndungen nur aktive Fahndungen der Polizei, mit Link.
 6. Kein Material von Bildagenturen, Zeitungen, Polizei-/Feuerwehr-/Pressefotos oder fremden
@@ -84,7 +85,7 @@ Ziel in der Startphase: Community aufbauen, nicht Geld verdienen. Deshalb:
 1. **Interaktion vor Menge:** Jede Feed-Caption endet mit einer konkreten Frage an die Leser
    („Wart ihr schon da?“, „Was meint ihr?“) oder einer Bitte zum Teilen/Markieren
    („Markiere jemanden aus Neuwied, der das wissen muss“).
-2. **Feste Formate (zusätzlich zu den News, zählen zum Feed-Limit von 4):**
+2. **Feste Formate (zusätzlich zu den News):**
    - **Montag, ca. 18 Uhr – Frage der Woche:** eine lokale Frage, bei der jeder mitreden kann
      (z. B. „Bester Döner in Neuwied?“, „Schönster Weihnachtsmarkt im Umkreis?“).
      Kachel: farbe "blau", Kachel-Text „Frage der Woche“. Antworten werden im Rückblick aufgegriffen.
@@ -93,8 +94,8 @@ Ziel in der Startphase: Community aufbauen, nicht Geld verdienen. Deshalb:
      dazu die beliebteste Antwort auf die Frage der Woche (ohne Nachnamen).
    Vor dem Anlegen eines festen Formats in data/posted.json prüfen, ob es diese Woche schon lief
    (id z. B. `frage-der-woche-2026-w48`).
-3. **Story-Hinweis auf neue Feed-Posts:** Nach jedem Feed-Post zusätzlich eine Story mit derselben
-   Grafik im Story-Format (format "story"), damit auch Story-Gucker den Post finden.
+3. **Feed + Story immer zusammen:** Zu jedem Feed-Post dieselbe Meldung als Story (format "story")
+   und umgekehrt – siehe Regel 3 oben.
 4. **Lokale Hashtags:** immer 1–2 Ortshashtags (#neuwied, #koblenz, #andernach, #bendorf …)
    plus #radius56; keine generischen Massen-Hashtags.
 5. **Folgen-Aufforderung sparsam:** höchstens einmal pro Tag „Folg @radius56.de für alles aus
