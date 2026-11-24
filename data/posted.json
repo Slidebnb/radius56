@@ -90,10 +90,24 @@
       "url": "https://www.presseportal.de/blaulicht/pm/117712/6397188",
       "postedAt": "2026-11-24T16:10:00+01:00",
       "format": "feed+story"
+    },
+    {
+      "id": "neuwied-schulbezirke-heddesdorf-2029",
+      "quelle": "Stadt Neuwied (Pressemitteilung, via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178694-neuwied-will-schulbezirke-in-heddesdorf-ab-2029-neu-ordnen",
+      "postedAt": "2026-11-24T17:10:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "vg-rengsdorf-hausarztpraxis-strassenhaus",
+      "quelle": "VG Rengsdorf-Waldbreitbach (Pressemitteilung, via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178678-neue-hausarztpraxis-in-strassenhaus-erhaelt-foerderung",
+      "postedAt": "2026-11-24T17:10:00+01:00",
+      "format": "feed+story"
     }
   ],
   "feedCount": {
-    "2026-11-24": 5,
+    "2026-11-24": 7,
     "2026-11-25": 1,
     "2026-11-26": 1,
     "2026-11-27": 1,
