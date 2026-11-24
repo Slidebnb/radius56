@@ -118,10 +118,17 @@
       "url": "https://www.presseportal.de/blaulicht/pm/121250/6396714",
       "postedAt": "2026-11-24T18:15:00+01:00",
       "format": "feed+story"
+    },
+    {
+      "id": "koblenz-taschendiebstahl-praevention-2026-12-02",
+      "quelle": "Stadt Koblenz / Polizei (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-sicher-durch-die-adventszeit-koblenz-setzt-zeichen-gegen-taschendiebstahl/",
+      "postedAt": "2026-11-24T19:20:00+01:00",
+      "format": "feed+story"
     }
   ],
   "feedCount": {
-    "2026-11-24": 9,
+    "2026-11-24": 10,
     "2026-11-25": 1,
     "2026-11-26": 1,
     "2026-11-27": 1,
