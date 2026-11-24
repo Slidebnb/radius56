@@ -28,7 +28,8 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
    Sport, Wetter, Service-Tipps. Wenn es keine frische Eilmeldung gibt, aktiv nach solchen
    allgemeinen Themen der kommenden Tage suchen und daraus posten (Feed-Limit und Abstand gelten).
 2. Keine Doppelten: jede Meldung bekommt eine `id`, abgleichen mit `data/posted.json`.
-3. **Feed:** maximal 4 Posts pro Kalendertag (Zähler `feedCount`), mindestens 2 Stunden Abstand.
+3. **Feed:** maximal 4 Posts pro Kalendertag (Zähler `feedCount`). **Sofort veröffentlichen, nichts
+   einplanen (Entscheidung Wladi, 24.11.2026):** neue Meldungen gehen direkt mit `shareNow` raus.
    Wichtigste Meldungen in den Feed (Sperrungen, große Einsätze, Service-Infos, Events).
 4. **Story:** alles Weitere, das relevant ist (kleinere Polizeimeldungen, Termine, Hinweise).
 5. Keine Namen, Kennzeichen, Hausnummern oder Fotos von Betroffenen. Bei Unfällen keine
@@ -51,8 +52,7 @@ Bild-URL für Buffer: `https://raw.githubusercontent.com/Slidebnb/radius56/main/
 
 Buffer: Organisation „My organization“, Kanal „radius56.de“ (Instagram, Business).
 Feed: `metadata.instagram.type = "post"`, Story: `type = "story"`, `shouldShareToFeed: true`,
-`schedulingType: "automatic"`, `mode: "shareNow"` (Feed nur, wenn kein anderer Feed-Post in den
-letzten 2 Stunden; sonst `customScheduled` auf die nächste freie Lücke).
+`schedulingType: "automatic"`, `mode: "shareNow"` für Feed und Story – kein `customScheduled`.
 
 ## Wachstum (Follower gewinnen) – gilt für jeden Lauf
 
