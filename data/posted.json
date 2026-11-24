@@ -48,10 +48,17 @@
       "url": "https://www.kreis-neuwied.de/aktuelles/wichtige-hinweise/aktuelle-strassensperrungen-im-landkreis-neuwied/",
       "postedAt": "2026-11-24T08:12:00+01:00",
       "format": "feed"
+    },
+    {
+      "id": "a48-nachtsperrung-bendorf-koblenznord-2026-11-24",
+      "quelle": "Verkehrsinformation (Baustellendaten, Stand 23.11.2026)",
+      "url": "https://www.news.de/auto/860213512/verkehrsmeldung-nw-bendorf-koblenz-mayen-koblenz-zur-verkehrsstoerung-wegen-sperrung-baustelle-von-24-11-2026-bis-25-11-2026-einschraenkungen-im-verkehr-rheinland-pfalz-staugefahr-in-bubenheim-auf-a48/1/",
+      "postedAt": "2026-11-24T09:12:00+01:00",
+      "format": "feed"
     }
   ],
   "feedCount": {
-    "2026-11-24": 3,
+    "2026-11-24": 4,
     "2026-11-25": 1,
     "2026-11-26": 1,
     "2026-11-27": 1,
