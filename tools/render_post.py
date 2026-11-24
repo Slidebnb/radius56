@@ -14,7 +14,9 @@ post.json:
   "kachelSub": "Raiffeisenbrücke, nachts",
   "farbe": "navy",            # navy | blau | orange (orange nur für Blaulicht)
   "footer": "Alle Infos in der Caption →",
-  "format": "feed"            # feed | story
+  "format": "feed",           # feed | story
+  "bild": "public/social/fotos/pfaffendorfer-bruecke.jpg",   # optional: lizenzfreies Hintergrundfoto (Pfad im Repo)
+  "bildCredit": "Foto: Max Muster, CC BY-SA 4.0, Wikimedia Commons"  # Pflicht, wenn "bild" gesetzt
 }
 
 Ergebnis: public/social/<slug>.png bzw. public/social/<slug>-story.png
@@ -49,7 +51,25 @@ def main():
     width, height = (1080, 1920) if fmt == "story" else (1080, 1350)
     top_h = 1170 if fmt == "story" else 820
 
+    top_style, top_class, credit_html = "", "", ""
+    if data.get("bild"):
+        bild = (ROOT / data["bild"]).resolve()
+        if not bild.exists():
+            sys.exit(f"Bild nicht gefunden: {bild}")
+        if not data.get("bildCredit"):
+            sys.exit("bildCredit fehlt (Urheber + Lizenz sind Pflicht, wenn ein Foto genutzt wird)")
+        top_style = (
+            "background-image:linear-gradient(rgba(15,23,42,.55),rgba(15,23,42,.75)),"
+            f"url('{bild.as_uri()}');background-size:cover;background-position:"
+            + data.get("bildPosition", "center")
+        )
+        top_class = "foto"
+        credit_html = f'<div class="credit">{html.escape(data["bildCredit"])}</div>'
+
     werte = {
+        "TOP_STYLE": top_style,
+        "TOP_CLASS": top_class,
+        "CREDIT_HTML": credit_html,
         "FONT_DIR": (ROOT / "node_modules" / "@fontsource" / "archivo" / "files").as_uri(),
         "W": str(width),
         "H": str(height),

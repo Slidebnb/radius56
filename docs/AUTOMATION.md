@@ -34,11 +34,34 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
 4. **Story:** alles Weitere, das relevant ist (kleinere Polizeimeldungen, Termine, Hinweise).
 5. Keine Namen, Kennzeichen, Hausnummern oder Fotos von Betroffenen. Bei Unfällen keine
    Spekulation über Schuld. Bei Vermisstenfahndungen nur aktive Fahndungen der Polizei, mit Link.
-6. Kein Material von Bildagenturen oder fremden Instagram-Accounts. Grafiken nur über
-   `tools/render_post.py` erzeugen.
+6. Kein Material von Bildagenturen, Zeitungen, Polizei-/Feuerwehr-/Pressefotos oder fremden
+   Instagram-Accounts. Grafiken immer über `tools/render_post.py` erzeugen – optional mit einem
+   lizenzfreien Hintergrundfoto (siehe „Lizenzfreie Fotos“).
 7. Caption: kurze Meldung in eigenen Worten, Quelle nennen („Quelle: Polizeipräsidium Koblenz“),
    3–5 Hashtags, immer `#radius56`. Ohne Gewähr bei Terminen.
 8. Im Zweifel nicht posten.
+
+## Lizenzfreie Fotos (Entscheidung Wladi, 24.11.2026)
+
+Bei jedem Post kurz recherchieren, ob es ein passendes, sauber lizenziertes Foto gibt. Wenn ja,
+als Hintergrund der Kachel nutzen; wenn nein, normale Kachel ohne Foto (kein Zwang).
+
+- **Quellen:** zuerst Wikimedia Commons (commons.wikimedia.org), dann Unsplash oder Pexels.
+- **Erlaubte Lizenzen:** CC0 / Public Domain, CC BY, CC BY-SA (Commons), Unsplash-/Pexels-Lizenz.
+  Nicht erlaubt: CC …-NC, CC …-ND, „alle Rechte vorbehalten“, unklare Lizenz.
+  Die Lizenz auf der Dateiseite selbst prüfen (bei Commons: Abschnitt „Lizenz“), nicht raten.
+- **Motive:** Orte, Gebäude, Brücken, Straßen, Landschaft, Symbolbilder (z. B. Weihnachtsmarkt,
+  Baustellenschild). Niemals: Unfälle, Brände, Einsätze, erkennbare Personen, Kennzeichen,
+  Wohnhäuser von Betroffenen. Bei Blaulicht-Meldungen höchstens ein neutrales Ortsbild – im
+  Zweifel ohne Foto.
+- **Ablage:** Datei nach `public/social/fotos/<sprechender-name>.jpg` (max. ~2000 px Breite,
+  ggf. verkleinern), damit Herkunft nachvollziehbar bleibt. Bereits abgelegte Fotos wiederverwenden.
+- **post.json:** `"bild": "public/social/fotos/<datei>.jpg"`, `"bildCredit": "Foto: <Urheber>,
+  <Lizenz>, <Quelle>"` (Pflicht – der Renderer bricht ohne ab), optional
+  `"bildPosition": "center top"`. Der Credit steht klein unten links im Bild.
+- **Caption:** bei CC BY / CC BY-SA zusätzlich „Foto: <Urheber> / <Lizenz> via Wikimedia Commons“.
+- **posted.json:** beim Eintrag `"foto": {"datei", "urheber", "lizenz", "url"}` ergänzen.
+- Bild nach dem Rendern ansehen: Text muss gut lesbar sein, Foto darf nichts Sensibles zeigen.
 
 ## Technik
 

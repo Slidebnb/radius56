@@ -19,6 +19,8 @@ body{margin:0}
 .ort{display:flex;align-items:center;gap:8px;font-size:26px;font-weight:600;letter-spacing:2px;text-transform:uppercase}
 .kat{font-size:22px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:#C2410C;border-radius:8px;padding:6px 14px}
 h2{margin:0;font-family:Archivo;font-size:64px;line-height:1.08;font-weight:900;letter-spacing:-1.5px}
+.credit{position:absolute;left:24px;bottom:16px;max-width:calc(100% - 48px);font-size:20px;font-weight:500;color:rgba(255,255,255,.85);text-align:left;text-shadow:0 1px 3px rgba(0,0,0,.8);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top.foto .ktext,.top.foto .ksub{text-shadow:0 4px 24px rgba(0,0,0,.6)}
 .foot{margin-top:auto;border-top:2px solid #E2E8F0;padding-top:24px;display:flex;justify-content:space-between;align-items:center}
 .foot .u{font-family:Archivo;font-size:28px;font-weight:800}
 .foot .c{font-size:24px;font-weight:600;color:#475569}
@@ -26,9 +28,10 @@ h2{margin:0;font-family:Archivo;font-size:64px;line-height:1.08;font-weight:900;
 </head>
 <body>
 <div id="post">
-<div class="top">
+<div class="top {{TOP_CLASS}}" style="{{TOP_STYLE}}">
 <div class="ktext">{{KACHEL_TEXT}}</div>
 <div class="ksub">{{KACHEL_SUB}}</div>
+{{CREDIT_HTML}}
 <div class="badge"><span class="r">R</span><span class="d"></span><span class="n">56</span></div>
 </div>
 <div class="bottom">
