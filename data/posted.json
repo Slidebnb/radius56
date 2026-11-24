@@ -55,6 +55,20 @@
       "url": "https://www.news.de/auto/860213512/verkehrsmeldung-nw-bendorf-koblenz-mayen-koblenz-zur-verkehrsstoerung-wegen-sperrung-baustelle-von-24-11-2026-bis-25-11-2026-einschraenkungen-im-verkehr-rheinland-pfalz-staugefahr-in-bubenheim-auf-a48/1/",
       "postedAt": "2026-11-24T09:12:00+01:00",
       "format": "feed"
+    },
+    {
+      "id": "neuwied-orange-day-2026-11-25",
+      "quelle": "Stadt Neuwied / Runder Tisch gegen Gewalt (PM 23.11.2026)",
+      "url": "https://www.nr-kurier.de/artikel/178650-neuwied-setzt-am-orange-day-ein-zeichen-gegen-gewalt-an-frauen",
+      "postedAt": "2026-11-24T11:15:00+01:00",
+      "format": "story"
+    },
+    {
+      "id": "koblenz-gruenschnitt-geschlossen-2026-11-26",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261120-gruenschnittkompostieranlage-am-26-november-geschlossen/",
+      "postedAt": "2026-11-24T11:15:00+01:00",
+      "format": "story"
     }
   ],
   "feedCount": {
