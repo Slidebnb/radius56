@@ -337,11 +337,45 @@
         "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause.png",
         "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause-story.png"
       ]
+    },
+    {
+      "id": "koblenz-christmas-garden-ehrenbreitstein-2026",
+      "quelle": "News Koblenz (23.11.2026)",
+      "url": "https://news-koblenz.de/christmas-garden-koblenz-startet-mit-premierenfeier-in-die-sechste-saison_57661.html",
+      "postedAt": "2026-11-25T18:15:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/festung-ehrenbreitstein-koblenz.jpg",
+        "urheber": "Dmitry Tonkonog and Ksenia Fedosova",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:20130826_Festung_Ehrenbreitstein_02.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-25-christmas-garden-ehrenbreitstein.png",
+        "public/social/2026-11-25-christmas-garden-ehrenbreitstein-story.png"
+      ]
+    },
+    {
+      "id": "waldbreitbach-weihnachtsdorf-start-2026-11-27",
+      "quelle": "Lebendiges Neuwied (25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Weihnachten-in-Waldbreitbach-kann-kommen-item-9351.html",
+      "postedAt": "2026-11-25T18:15:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/waldbreitbach-kreuzkapelle.jpg",
+        "urheber": "RomkeHoekstra",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Waldbreitbach_(D%C3%BAtsl%C3%A2n),_Kr%C3%BAskapel_1.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-27-waldbreitbach-weihnachtsdorf.png",
+        "public/social/2026-11-27-waldbreitbach-weihnachtsdorf-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 15,
+    "2026-11-25": 17,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
