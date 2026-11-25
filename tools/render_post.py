@@ -17,10 +17,17 @@ post.json:
   "format": "feed",           # feed | story
   "bild": "public/social/fotos/pfaffendorfer-bruecke.jpg",   # optional: lizenzfreies Hintergrundfoto (Pfad im Repo)
   "bildCredit": "Foto: Max Muster, CC BY-SA 4.0, Wikimedia Commons",  # Pflicht, wenn "bild" gesetzt
-  "ki": false                 # true bei Higgsfield-Bild -> Credit wird automatisch "Symbolbild (KI)"
+  "ki": false,                # true bei Higgsfield-Bild -> Credit wird automatisch "Symbolbild (KI)"
+  "quelle": "Polizeipräsidium Koblenz",   # steht unten auf der letzten Wisch-Folie
+  "slides": [                 # nur Feed: 2-3 Wisch-Folien mit den Details (Karussell)
+    {"titel": "Was ist passiert?", "punkte": ["…", "…", "…"]},
+    {"titel": "Was heißt das für euch?", "text": "…"}
+  ]
 }
 
-Ergebnis: public/social/<slug>.png bzw. public/social/<slug>-story.png
+Ergebnis: public/social/<slug>.png bzw. public/social/<slug>-story.png,
+bei "slides" zusätzlich public/social/<slug>-2.png, <slug>-3.png, … (nur Feed).
+Das Skript gibt alle erzeugten Dateien in Karussell-Reihenfolge aus.
 Voraussetzung: npm install (für die Schriften) und Playwright mit Chrome.
 """
 import html
@@ -32,6 +39,7 @@ from playwright.sync_api import sync_playwright
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TEMPLATE = ROOT / "tools" / "post_template.html"
+SLIDE_TEMPLATE = ROOT / "tools" / "slide_template.html"
 OUT_DIR = ROOT / "public" / "social"
 
 FARBEN = {"navy": "#0F172A", "blau": "#1D4ED8", "orange": "#C2410C"}
@@ -85,7 +93,8 @@ def main():
         "ORT": html.escape(data["ort"]),
         "KATEGORIE": html.escape(data["kategorie"]),
         "TITEL": html.escape(data["titel"]),
-        "FOOTER": html.escape(data.get("footer", "Alle Infos in der Caption →")),
+        "FOOTER": html.escape(data.get("footer") or (
+            "Wischen für Details →" if fmt == "feed" and data.get("slides") else "Alle Infos in der Caption →")),
     }
     seite = TEMPLATE.read_text(encoding="utf-8")
     for k, v in werte.items():
@@ -115,9 +124,61 @@ def main():
           while (k.scrollWidth > k.parentElement.clientWidth - 80 && ks > 60) { ks -= 4; k.style.fontSize = ks + 'px'; }
         }""")
         page.locator("#post").screenshot(path=str(ziel))
+        print(ziel.relative_to(ROOT))
+        if fmt == "feed" and data.get("slides"):
+            render_slides(data, page, tmp)
         browser.close()
     tmp.unlink(missing_ok=True)
-    print(ziel.relative_to(ROOT))
+
+
+def render_slides(data, page, tmp):
+    """Wisch-Folien (Karussell) mit den Details zur Meldung, 1080x1350."""
+    slides = data["slides"]
+    if len(slides) > 4:
+        sys.exit("Höchstens 4 Wisch-Folien (empfohlen 2-3)")
+    farbe = data.get("farbe", "navy")
+    gesamt = len(slides) + 1
+    for i, sl in enumerate(slides, start=2):
+        if sl.get("punkte"):
+            inhalt = "<ul>" + "".join(f"<li>{html.escape(x)}</li>" for x in sl["punkte"]) + "</ul>"
+        else:
+            inhalt = f"<p>{html.escape(sl.get('text', ''))}</p>"
+        letzte = i == gesamt
+        footer = (f"Quelle: {data['quelle']}" if data.get("quelle") else "") if letzte else "Weiter wischen →"
+        werte = {
+            "FONT_DIR": (ROOT / "node_modules" / "@fontsource" / "archivo" / "files").as_uri(),
+            "BG": FARBEN.get(farbe, FARBEN["navy"]),
+            "FARBE": farbe,
+            "PUNKT": "#C2410C" if farbe == "orange" else "#F97316",
+            "ORT": html.escape(data["ort"]),
+            "KATEGORIE": html.escape(data["kategorie"]),
+            "TITEL": html.escape(sl["titel"]),
+            "INHALT": inhalt,
+            "FOOTER": html.escape(footer),
+            "NR": f"{i}/{gesamt}",
+        }
+        seite = SLIDE_TEMPLATE.read_text(encoding="utf-8")
+        for k, v in werte.items():
+            seite = seite.replace("{{" + k + "}}", v)
+        tmp.write_text(seite, encoding="utf-8")
+        page.set_viewport_size({"width": 1080, "height": 1350})
+        page.goto(tmp.as_uri())
+        page.wait_for_timeout(500)
+        # Text automatisch verkleinern, bis alles auf die Folie passt
+        zu_lang = page.evaluate("""() => {
+          const b = document.querySelector('.body');
+          const els = [...b.querySelectorAll('li,p')];
+          let s = 42;
+          while (b.scrollHeight > b.clientHeight + 2 && s > 30) {
+            s -= 2; els.forEach(e => e.style.fontSize = s + 'px');
+          }
+          return b.scrollHeight > b.clientHeight + 2;
+        }""")
+        if zu_lang:
+            sys.exit(f"Folie {i} hat zu viel Text – kürzen oder auf zwei Folien verteilen")
+        ziel = OUT_DIR / f"{data['slug']}-{i}.png"
+        page.locator("#post").screenshot(path=str(ziel))
+        print(ziel.relative_to(ROOT))
 
 
 if __name__ == "__main__":

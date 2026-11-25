@@ -130,6 +130,25 @@ Ziel: möglichst jeder Post mit Bild. Reihenfolge:
    ob die Kachel-Schrift klar lesbar ist. Mit `"bildPosition": "center 30%"` o. ä. den
    Ausschnitt verschieben.
 
+## Kurze Caption + Wisch-Folien (Entscheidung Wladi, 25.11.2026)
+
+Gilt ab sofort für jeden Feed-Beitrag und ersetzt lange Beschreibungen in der Caption:
+
+- **Feed = Karussell:** Titelkachel (wie bisher) + **2–3 Wisch-Folien** mit den Details.
+  In post.json `"slides"` setzen (je Folie `"titel"` + `"punkte"` (2–4 kurze Stichpunkte) oder
+  `"text"` (2–3 Sätze)) und `"quelle"` (steht auf der letzten Folie). Der Renderer erzeugt
+  `<slug>.png`, `<slug>-2.png`, `<slug>-3.png` … und setzt auf der Titelkachel automatisch
+  „Wischen für Details →“. Passt der Text nicht, bricht er ab → kürzen oder aufteilen.
+- **Typische Folien:** „Was ist passiert?“ / „Das erwartet euch“ (Fakten: wo, wann, was),
+  „Gut zu wissen“ / „Was heißt das für euch?“ (Umleitung, Anreise, Öffnungszeiten, Hinweise der
+  Polizei, Zeugenaufruf mit Telefonnummer der Dienststelle). Eigene Worte, keine Namen/Kennzeichen.
+- **Caption kurz:** 1–2 Sätze (max. ~250 Zeichen) + „Mehr Infos: wischen 👉“, dann Quelle,
+  ggf. Foto-Credit, die Frage an die Leser und 3–5 Hashtags. Keine langen Absätze mehr.
+- **Buffer Feed:** alle Folien als `assets` in Reihenfolge (Titelkachel zuerst), jeweils mit
+  `altText`; `metadata.instagram.type = "post"` → Instagram macht daraus ein Karussell.
+- **Story:** bleibt ein einzelnes Bild (Titelkachel im Story-Format), keine Folien.
+- **posted.json:** in `"bilder"` alle erzeugten Dateien eintragen.
+
 ## Technik
 
 ```bash

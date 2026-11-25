@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:Archivo;font-weight:800;src:url({{FONT_DIR}}/archivo-latin-800-normal.woff2)}
+@font-face{font-family:Archivo;font-weight:900;src:url({{FONT_DIR}}/archivo-latin-900-normal.woff2)}
+body{margin:0}
+#post{width:1080px;height:1350px;background:#fff;font-family:Inter,sans-serif;color:#0F172A;display:flex;flex-direction:column;box-sizing:border-box}
+.band{height:180px;flex:none;background:{{BG}};position:relative;display:flex;align-items:center;padding:0 64px;box-sizing:border-box}
+.band .meta{display:flex;align-items:center;gap:16px;color:#fff}
+.ort{font-size:28px;font-weight:700;letter-spacing:2px;text-transform:uppercase}
+.kat{font-size:22px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:#C2410C;border-radius:8px;padding:6px 14px}
+.band.orange .kat{background:#0F172A}
+.badge{position:absolute;top:30px;right:40px;width:120px;height:120px;border-radius:30px;background:#0F172A;border:3px solid rgba(255,255,255,.25);box-sizing:border-box}
+.badge .r{position:absolute;left:20px;top:12px;font-family:Archivo;font-size:86px;font-weight:900;line-height:1;color:#fff;letter-spacing:-3px}
+.badge .d{position:absolute;top:14px;right:14px;width:20px;height:20px;border-radius:10px;background:#F97316}
+.badge .n{position:absolute;right:10px;bottom:12px;font-family:Archivo;font-size:18px;font-weight:800;line-height:1;color:#fff}
+.body{flex:1;padding:72px 72px 0;display:flex;flex-direction:column;gap:40px;overflow:hidden}
+h2{margin:0;font-family:Archivo;font-size:72px;line-height:1.05;font-weight:900;letter-spacing:-1.5px}
+h2::after{content:"";display:block;width:120px;height:10px;border-radius:5px;background:#F97316;margin-top:28px}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:30px}
+li{position:relative;padding-left:52px;font-size:42px;line-height:1.3;font-weight:500}
+li::before{content:"";position:absolute;left:0;top:16px;width:22px;height:22px;border-radius:11px;background:{{PUNKT}}}
+p{margin:0;font-size:42px;line-height:1.35;font-weight:500}
+.foot{flex:none;margin:0 64px;border-top:2px solid #E2E8F0;padding:24px 0 44px;display:flex;justify-content:space-between;align-items:center;gap:24px}
+.foot .u{font-family:Archivo;font-size:28px;font-weight:800;white-space:nowrap}
+.foot .c{font-size:24px;font-weight:600;color:#475569;text-align:right;flex:1}
+.nr{font-family:Archivo;font-size:28px;font-weight:800;color:#F97316;white-space:nowrap}
+</style>
+</head>
+<body>
+<div id="post">
+<div class="band {{FARBE}}">
+<div class="meta"><span class="ort">{{ORT}}</span><span class="kat">{{KATEGORIE}}</span></div>
+<div class="badge"><span class="r">R</span><span class="d"></span><span class="n">56</span></div>
+</div>
+<div class="body">
+<h2>{{TITEL}}</h2>
+{{INHALT}}
+</div>
+<div class="foot"><span class="u">radius56.de</span><span class="c">{{FOOTER}}</span><span class="nr">{{NR}}</span></div>
+</div>
+</body>
+</html>
