@@ -201,11 +201,62 @@
         "public/social/2026-11-25-stadtradeln-koblenz-ergebnis.png",
         "public/social/2026-11-25-stadtradeln-koblenz-ergebnis-story.png"
       ]
+    },
+    {
+      "id": "bendorf-horchemsweg-sperrung-2026-11-26",
+      "quelle": "Stadt Bendorf (25.11.2026)",
+      "url": "https://www.bendorf.de/stadt-buerger/aktuelles/hubschrauberfluege-am-bikepark-horchemsweg-am-26-november-gesperrt/",
+      "postedAt": "2026-11-25T12:55:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/symbol-forstweg.jpg",
+        "urheber": "Lugrund",
+        "lizenz": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:2024_Luttergrund_P20303.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-26-bendorf-horchemsweg-gesperrt.png",
+        "public/social/2026-11-26-bendorf-horchemsweg-gesperrt-story.png"
+      ]
+    },
+    {
+      "id": "andernach-hochwasserschutzwand-probe-2026-12-01",
+      "quelle": "Stadt Andernach (24.11.2026)",
+      "url": "https://www.andernach.de/aktuelles/aktuelle-meldungen/probeaufbau-hochwasserschutzwand-2026/",
+      "postedAt": "2026-11-25T12:55:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/andernach-rheinanlagen-konrad-adenauer-allee.jpg",
+        "urheber": "Frank Vincentz",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Andernach_-_Konrad-Adenauer-Allee_-_Rheinanlagen_04_ies.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-01-andernach-hochwasserschutzwand-probe.png",
+        "public/social/2026-12-01-andernach-hochwasserschutzwand-probe-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-late-night-shopping-2026-11-27",
+      "quelle": "Stadt Koblenz / Koblenz-Stadtmarketing",
+      "url": "https://www.koblenz.de/aktuelles/late-night-shopping-2026/",
+      "postedAt": "2026-11-25T12:55:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/koblenz-innenstadt-einkaufsstrasse.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Evakuierung_03_Koblenz_2011.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-27-koblenz-late-night-shopping.png",
+        "public/social/2026-11-27-koblenz-late-night-shopping-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 7,
+    "2026-11-25": 10,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
