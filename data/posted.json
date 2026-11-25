@@ -143,11 +143,18 @@
       "url": "https://www.presseportal.de/blaulicht/pm/117712/6397289",
       "postedAt": "2026-11-25T07:20:00+01:00",
       "format": "feed+story"
+    },
+    {
+      "id": "rueckruf-globus-kartoffeln-les-rouges-2026-11",
+      "quelle": "Globus Markthallen / lebensmittelwarnung.de",
+      "url": "https://www.food-monitor.de/2026/11/rueckruf-glykoalkaloide-globus-gold-les-rouges/",
+      "postedAt": "2026-11-25T08:12:00+01:00",
+      "format": "feed+story"
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 3,
+    "2026-11-25": 4,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
