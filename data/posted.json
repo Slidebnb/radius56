@@ -405,11 +405,22 @@
         "public/social/2026-12-02-regiohub-bendorf.png",
         "public/social/2026-12-02-regiohub-bendorf-story.png"
       ]
+    },
+    {
+      "id": "pdnr-6398058-ueberholmanoever-l266-urbach",
+      "quelle": "Polizeidirektion Neuwied (25.11.2026)",
+      "url": "https://www.presseportal.de/blaulicht/pm/117709/6398058",
+      "postedAt": "2026-11-25T21:15:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-25-urbach-l266-ueberholmanoever.png",
+        "public/social/2026-11-25-urbach-l266-ueberholmanoever-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 19,
+    "2026-11-25": 20,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
