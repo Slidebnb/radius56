@@ -136,11 +136,18 @@
         "public/social/2026-11-28-stadtgespraech-neuwied.png",
         "public/social/2026-11-28-stadtgespraech-neuwied-story.png"
       ]
+    },
+    {
+      "id": "pdko-6397289-unfallflucht-andernach-aktienstrasse",
+      "quelle": "Polizeidirektion Koblenz / PI Andernach",
+      "url": "https://www.presseportal.de/blaulicht/pm/117712/6397289",
+      "postedAt": "2026-11-25T07:20:00+01:00",
+      "format": "feed+story"
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 2,
+    "2026-11-25": 3,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
