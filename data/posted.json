@@ -252,11 +252,28 @@
         "public/social/2026-11-27-koblenz-late-night-shopping.png",
         "public/social/2026-11-27-koblenz-late-night-shopping-story.png"
       ]
+    },
+    {
+      "id": "koblenz-heiligenweg-vollsperrung-2026-12-07",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-vollsperrung-im-heiligenweg-wegen-einhub-einer-hilfsbruecke-der-bahn/",
+      "postedAt": "2026-11-25T13:08:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/koblenz-moselweiss-bahnhalt.jpg",
+        "urheber": "Christian Liebscher",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Clp_20140821_2862_Hp_Koblenz-Moselwei%C3%9F_Bstg.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung.png",
+        "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 10,
+    "2026-11-25": 11,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
