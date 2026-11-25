@@ -150,11 +150,28 @@
       "url": "https://www.food-monitor.de/2026/11/rueckruf-glykoalkaloide-globus-gold-les-rouges/",
       "postedAt": "2026-11-25T08:12:00+01:00",
       "format": "feed+story"
+    },
+    {
+      "id": "k23-rheinbreitbach-b42-badhoenningen-brueckenpruefung-2026-11-26",
+      "quelle": "Verkehrswarndienst RLP / Landesbetrieb Mobilität (via verkehrslage.de, NR-Kurier)",
+      "url": "https://www.verkehrslage.de/ort/rheinbreitbach",
+      "postedAt": "2026-11-25T09:30:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung.png",
+        "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 4,
+    "2026-11-25": 5,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
