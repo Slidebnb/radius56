@@ -416,11 +416,24 @@
         "public/social/2026-11-25-urbach-l266-ueberholmanoever.png",
         "public/social/2026-11-25-urbach-l266-ueberholmanoever-story.png"
       ]
+    },
+    {
+      "id": "koblenz-adventskalender-rathausdach-2026",
+      "quelle": "Stadt Koblenz via Lebendiges Neuwied (06.11.2026)",
+      "url": "https://lebendiges-neuwied.de/News-vierundzwanzig-leuchtende-Tuerchen-am-Rathausdach-item-9245.html",
+      "postedAt": "2026-11-25T22:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach.png",
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach-2.png",
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach-3.png",
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 20,
+    "2026-11-25": 21,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
