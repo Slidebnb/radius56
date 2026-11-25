@@ -167,11 +167,45 @@
         "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung.png",
         "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung-story.png"
       ]
+    },
+    {
+      "id": "koblenz-drei-fragezeichen-lesung-2026-12-01",
+      "quelle": "Stadt Koblenz (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-christoph-dittert-liest-aus-die-drei-in-der-stadtbibliothek/",
+      "postedAt": "2026-11-25T11:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-01-drei-fragezeichen-lesung-koblenz.png",
+        "public/social/2026-12-01-drei-fragezeichen-lesung-koblenz-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-stadtradeln-ergebnis-2026",
+      "quelle": "Stadt Koblenz (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261224-stadtradeln-2026-koblenz-zeichnet-die-erfolgreichsten-teams-aus/",
+      "postedAt": "2026-11-25T11:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-fahrrad-ufer.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-11-25-stadtradeln-koblenz-ergebnis.png",
+        "public/social/2026-11-25-stadtradeln-koblenz-ergebnis-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 5,
+    "2026-11-25": 7,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
