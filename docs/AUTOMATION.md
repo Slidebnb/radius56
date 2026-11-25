@@ -63,6 +63,28 @@ als Hintergrund der Kachel nutzen; wenn nein, normale Kachel ohne Foto (kein Zwa
 - **Caption:** bei CC BY / CC BY-SA zusätzlich „Foto: <Urheber> / <Lizenz> via Wikimedia Commons“.
 - **posted.json:** beim Eintrag `"foto": {"datei", "urheber", "lizenz", "url"}` ergänzen.
 - Bild nach dem Rendern ansehen: Text muss gut lesbar sein, Foto darf nichts Sensibles zeigen.
+- **Pflicht, nicht optional:** Die Fotosuche wird bei JEDEM Post wirklich durchgeführt.
+  Motiv muss zur Meldung passen (z. B. bei Kartoffel-Rückruf Knollen, nicht Blüten oder Acker).
+
+## Bilder mit Higgsfield (Entscheidung Wladi, 25.11.2026)
+
+Ziel: möglichst jeder Post mit Bild. Reihenfolge:
+
+1. Passendes lizenzfreies Foto suchen (siehe oben). Das Foto darf mit Higgsfield bearbeitet
+   werden (z. B. Zuschnitt, Look, Hintergrund erweitern), Credit bleibt Pflicht
+   („Foto: <Urheber>, <Lizenz>, bearbeitet“). Bei CC BY-SA Bearbeitung in der Caption nennen.
+2. Gibt es kein passendes freies Foto: mit Higgsfield (`generate_image`) ein **neutrales
+   Symbolbild** erzeugen, z. B. Kartoffeln, Glühweintasse, Baustellenschild, Rheinufer
+   allgemein. Nach `public/social/fotos/ki-<name>.jpg` speichern, `bildCredit`:
+   „Symbolbild (KI)“.
+3. Niemals: Fotos oder Bilder ohne freie Lizenz als Vorlage (auch nicht „verändert“ –
+   eine Bearbeitung macht ein geschütztes Bild nicht frei), KI-Bilder von echten Personen,
+   Unfällen, Bränden, Einsätzen, Tatorten oder erkennbaren echten Gebäuden/Orten, die
+   eine echte Situation vortäuschen.
+4. KI-Bilder: in Buffer `metadata.instagram.isAiGenerated: true` setzen und Credit
+   „Symbolbild (KI)“ im Bild – Meta verlangt die Kennzeichnung fotorealistischer KI-Bilder,
+   und ein Nachrichtenkanal darf keine KI-Bilder als echte Fotos ausgeben.
+5. Higgsfield-Credits sparsam: pro Meldung ein Bild, für Feed und Story wiederverwenden.
 
 ## Technik
 
