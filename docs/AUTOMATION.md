@@ -52,6 +52,8 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
 7. Caption: kurze Meldung in eigenen Worten, Quelle nennen („Quelle: Polizeipräsidium Koblenz“),
    3–5 Hashtags, immer `#radius56`. Ohne Gewähr bei Terminen.
 8. Im Zweifel nicht posten.
+9. **Grenzgebiet weglassen (Entscheidung Wladi, 25.11.2026):** Meldungen aus Orten am Rand oder
+   außerhalb des 30-km-Gebiets (z. B. Kreis Altenkirchen wie Rettersen/B 8) nicht posten.
 
 ## Lizenzfreie Fotos (Entscheidung Wladi, 24.11.2026)
 
