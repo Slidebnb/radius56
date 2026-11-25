@@ -158,7 +158,9 @@ python3 tools/render_post.py post.json   # erzeugt public/social/<slug>.png (fee
 git add public/social data/posted.json && git commit && git push   # Bild wird öffentlich
 ```
 
-Bild-URL für Buffer: `https://raw.githubusercontent.com/Slidebnb/radius56/main/public/social/<datei>.png`
+Bild-URL für Buffer: `https://raw.githubusercontent.com/Slidebnb/radius56/<commit-sha>/public/social/<datei>.png`
+(SHA = `git rev-parse HEAD` nach dem Push). **Nicht `main` verwenden:** der Cache liefert dort nach
+einem Neu-Rendern minutenlang die alte Version aus.
 
 Buffer: Organisation „My organization“, Kanal „radius56.de“ (Instagram, Business).
 Feed: `metadata.instagram.type = "post"`, Story: `type = "story"`, `shouldShareToFeed: true`,
