@@ -57,8 +57,9 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
 
 ## Lizenzfreie Fotos (Entscheidung Wladi, 24.11.2026)
 
-Bei jedem Post kurz recherchieren, ob es ein passendes, sauber lizenziertes Foto gibt. Wenn ja,
-als Hintergrund der Kachel nutzen; wenn nein, normale Kachel ohne Foto (kein Zwang).
+**Immer mit Foto (Entscheidung Wladi, 25.11.2026):** Kein Beitrag ohne Hintergrundbild. Reihenfolge:
+vorhandenes Foto aus `public/social/fotos/` → lizenzfreies Foto → Higgsfield-Symbolbild (siehe unten).
+Kachel ohne Bild nur, wenn auch Higgsfield nicht geht – dann lieber nicht posten und melden.
 
 - **Quellen:** zuerst Wikimedia Commons (commons.wikimedia.org), dann Unsplash oder Pexels.
 - **Erlaubte Lizenzen:** CC0 / Public Domain, CC BY, CC BY-SA (Commons), Unsplash-/Pexels-Lizenz.

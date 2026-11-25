@@ -428,7 +428,13 @@
         "public/social/2026-12-01-koblenz-adventskalender-rathausdach-2.png",
         "public/social/2026-12-01-koblenz-adventskalender-rathausdach-3.png",
         "public/social/2026-12-01-koblenz-adventskalender-rathausdach-story.png"
-      ]
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      }
     }
   ],
   "feedCount": {
