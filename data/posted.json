@@ -371,11 +371,45 @@
         "public/social/2026-11-27-waldbreitbach-weihnachtsdorf.png",
         "public/social/2026-11-27-waldbreitbach-weihnachtsdorf-story.png"
       ]
+    },
+    {
+      "id": "neuwied-engers-nussknackermarkt-2026-11-28",
+      "quelle": "NR-Kurier (25.11.2026)",
+      "url": "https://www.nr-kurier.de/artikel/178750-nussknackermarkt-in-engers--vorfreude-und-verkehrsaenderungen",
+      "postedAt": "2026-11-25T19:40:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/schloss-engers-tor.jpg",
+        "urheber": "GFreihalter",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Engers_Schloss_76.JPG"
+      },
+      "bilder": [
+        "public/social/2026-11-28-nussknackermarkt-engers.png",
+        "public/social/2026-11-28-nussknackermarkt-engers-story.png"
+      ]
+    },
+    {
+      "id": "bendorf-regiohub-eroeffnung-2026-12-02",
+      "quelle": "Stadt Bendorf (19.11.2026)",
+      "url": "https://www.bendorf.de/stadt-buerger/aktuelles/regiohub-bendorf-oeffnet-seine-tueren/",
+      "postedAt": "2026-11-25T19:40:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/bendorf-st-medardus.jpg",
+        "urheber": "Chris06",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:St._Medardus_(Bendorf)2.JPG"
+      },
+      "bilder": [
+        "public/social/2026-12-02-regiohub-bendorf.png",
+        "public/social/2026-12-02-regiohub-bendorf-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 17,
+    "2026-11-25": 19,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
