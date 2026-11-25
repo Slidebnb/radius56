@@ -16,7 +16,8 @@ post.json:
   "footer": "Alle Infos in der Caption →",
   "format": "feed",           # feed | story
   "bild": "public/social/fotos/pfaffendorfer-bruecke.jpg",   # optional: lizenzfreies Hintergrundfoto (Pfad im Repo)
-  "bildCredit": "Foto: Max Muster, CC BY-SA 4.0, Wikimedia Commons"  # Pflicht, wenn "bild" gesetzt
+  "bildCredit": "Foto: Max Muster, CC BY-SA 4.0, Wikimedia Commons",  # Pflicht, wenn "bild" gesetzt
+  "ki": false                 # true bei Higgsfield-Bild -> Credit wird automatisch "Symbolbild (KI)"
 }
 
 Ergebnis: public/social/<slug>.png bzw. public/social/<slug>-story.png
@@ -52,6 +53,9 @@ def main():
     top_h = 1170 if fmt == "story" else 820
 
     top_style, top_class, credit_html = "", "", ""
+    if data.get("bild") and data.get("ki"):
+        # KI-Symbolbild (Higgsfield): Kennzeichnung ist Pflicht, siehe docs/AUTOMATION.md
+        data["bildCredit"] = "Symbolbild (KI)"
     if data.get("bild"):
         bild = (ROOT / data["bild"]).resolve()
         if not bild.exists():
@@ -59,7 +63,7 @@ def main():
         if not data.get("bildCredit"):
             sys.exit("bildCredit fehlt (Urheber + Lizenz sind Pflicht, wenn ein Foto genutzt wird)")
         top_style = (
-            "background-image:linear-gradient(rgba(15,23,42,.55),rgba(15,23,42,.75)),"
+            "background-image:linear-gradient(rgba(15,23,42,.30),rgba(15,23,42,.55) 45%,rgba(15,23,42,.80)),"
             f"url('{bild.as_uri()}');background-size:cover;background-position:"
             + data.get("bildPosition", "center")
         )

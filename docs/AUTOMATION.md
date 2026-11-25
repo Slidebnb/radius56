@@ -86,6 +86,37 @@ Ziel: möglichst jeder Post mit Bild. Reihenfolge:
    und ein Nachrichtenkanal darf keine KI-Bilder als echte Fotos ausgeben.
 5. Higgsfield-Credits sparsam: pro Meldung ein Bild, für Feed und Story wiederverwenden.
 
+### Bild-Ablauf Schritt für Schritt (gilt für jeden Post)
+
+1. **Erst schauen, ob es schon passt:** `ls public/social/fotos/` – vorhandene Fotos wiederverwenden.
+2. **Foto suchen** (englische Begriffe, konkret: „red potatoes“, „christmas market night“,
+   „road closed sign“, „Koblenz Deutsches Eck“):
+   ```bash
+   python3 tools/find_photo.py search "red potatoes"
+   ```
+   Durchsucht Commons (Fallback Openverse/Flickr), filtert NC/ND/unklare Lizenzen und Bilder
+   unter 1000 px raus und erzeugt `tools/.photo_sheet.jpg` mit nummerierten Vorschaubildern.
+   **Den Kontaktbogen mit dem Read-Tool ansehen** und nur ein Motiv nehmen, das wirklich zur
+   Meldung passt (keine Personen, Kennzeichen, Unfälle). Ggf. 1–2 andere Suchbegriffe probieren.
+3. **Übernehmen:** `python3 tools/find_photo.py pick <nr> <sprechender-name>` – lädt das Bild
+   (1920-px-Standardgröße, vermeidet Wikimedia-Sperren) und gibt `bild`, `bildCredit`,
+   `foto` (für posted.json) und ggf. den Caption-Hinweis aus. Bei HTTP 429 kurz warten,
+   das Skript versucht es selbst erneut.
+4. **Kein passendes Foto → Higgsfield:** `generate_image` mit `model: "gpt_image_2_6"`,
+   `aspect_ratio: "4:5"`, `use_unlim: false` (ca. 0,75 Credits). Prompt-Vorlage:
+   „Neutral editorial stock photo: <Motiv>, soft natural light, subject in the lower/right
+   part of the frame, calm dark negative space in the upper center for text overlay.
+   No people, no hands, no text, no logos, no brand packaging, no license plates.“
+   Dann `jobs_wait` bis `completed`, `result_url` per curl laden, mit PIL als
+   `public/social/fotos/ki-<name>.jpg` speichern (JPEG, Qualität 85) und in post.json
+   `"bild": "...", "ki": true` setzen (Credit „Symbolbild (KI)“ setzt der Renderer selbst).
+   In Buffer `metadata.instagram.isAiGenerated: true`. Ergebnis ansehen – sieht es aus wie ein
+   echter Ort oder ein echtes Ereignis, verwerfen und neutraler generieren.
+5. **Rendern und ansehen** (Feed + Story). Der Renderer legt einen Verlauf übers Foto
+   (oben heller, unten dunkler); bei sehr hellen Fotos `"farbe": "navy"` lassen und prüfen,
+   ob die Kachel-Schrift klar lesbar ist. Mit `"bildPosition": "center 30%"` o. ä. den
+   Ausschnitt verschieben.
+
 ## Technik
 
 ```bash

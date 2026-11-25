@@ -3,3 +3,6 @@ dist/
 .astro/
 .DS_Store
 .env
+tools/.photo_candidates.json
+tools/.photo_sheet.jpg
+tools/.render.html
