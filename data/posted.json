@@ -269,11 +269,79 @@
         "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung.png",
         "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung-story.png"
       ]
+    },
+    {
+      "id": "pfaffendorfer-bruecke-stahlbau-geschlossen-2026-11-24",
+      "quelle": "Lebendiges Neuwied (Bericht 25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Pfaffendorfer-Bruecke-Die-letzten-Stahlbauteile-sind-eingehoben-item-9354.html",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/pfaffendorfer-bruecke-koblenz-2014.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Pfaffendorfer_Br%C3%BCcke_01_Koblenz_2014.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-25-pfaffendorfer-bruecke-stahlbau-komplett.png",
+        "public/social/2026-11-25-pfaffendorfer-bruecke-stahlbau-komplett-story.png"
+      ]
+    },
+    {
+      "id": "oberbieber-weihnachtsmarkt-schwanenteich-2026-12-05",
+      "quelle": "Lebendiges Neuwied (25.11.2026)",
+      "url": "https://lebendiges-neuwied.de/News-vier-dot-Oberbieberer-Weihnachtsmarkt-am-Schwanenteich-zwei-Tage-voller-Weihnachtsza-item-9348.html",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-12-05-oberbieber-weihnachtsmarkt-schwanenteich.png",
+        "public/social/2026-12-05-oberbieber-weihnachtsmarkt-schwanenteich-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-gulisastrasse-guels-vollsperrung-2026-12-07",
+      "quelle": "Stadt Koblenz (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-ausbau-der-gulisastrasse-in-guels-baubeginn-des-vierten-bauabschnittes-steht-bevor/",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-12-07-koblenz-gulisastrasse-vollsperrung.png",
+        "public/social/2026-12-07-koblenz-gulisastrasse-vollsperrung-story.png"
+      ]
+    },
+    {
+      "id": "neuwied-buergerbus-weihnachtspause-2026",
+      "quelle": "Lebendiges Neuwied (25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Neuwieder-Buergerbus-legt-Weihnachtspause-ein-item-9355.html",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-bushaltestelle-winter.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause.png",
+        "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
-    "2026-11-25": 11,
+    "2026-11-25": 15,
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-23": 1
