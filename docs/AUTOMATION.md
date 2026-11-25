@@ -14,6 +14,17 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
 - Landesbetrieb Mobilität (Sperrungen, Baustellen), Deutscher Wetterdienst (Unwetterwarnungen)
 - Veranstaltungskalender der Städte, Koblenz-Touristik, Rhein-Mosel-Halle
 
+**Geprüfte, lesbare Direkt-URLs (Stand 25.11.2026) – bei jedem Lauf abklappern:**
+- Polizei: presseportal.de/blaulicht/nr/117712 (PD Koblenz), /nr/117715 (PP Koblenz),
+  /nr/117709 (PD Neuwied), presseportal.de/regional/Neuwied, /blaulicht/r/Montabaur
+- Städte/Kreise: neuwied.de/aktuelles, koblenz.de (Startseite „Aktuelles“), andernach.de,
+  bendorf.de, kreis-neuwied.de, westerwaldkreis.de
+- Verkehr: lbm.rlp.de (Presse/Aktuelles), koveb.de (Verkehrs-Infos)
+- Nur Fakten (neu formulieren): news-koblenz.de, nr-kurier.de, ww-kurier.de, ak-kurier.de,
+  lebendiges-neuwied.de, blick-aktuell.de, antenne-koblenz.de
+- Nicht direkt lesbar: kreis-myk.de, stadtwerke-neuwied.de, dwd.de (dann per Websuche bzw.
+  über Berichte prüfen)
+
 **Nur Fakten, immer komplett neu formuliert, nie Text oder Fotos übernehmen:**
 - NR-Kurier, WW-Kurier, News-Koblenz, Lebendiges Neuwied, Blick aktuell
 - Rhein-Zeitung und Merkurist: höchstens zur Bestätigung von Fakten
