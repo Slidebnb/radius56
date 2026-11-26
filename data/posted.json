@@ -512,12 +512,32 @@
         "public/social/2026-12-11-huettenzauber-sayner-huette-4.png",
         "public/social/2026-12-11-huettenzauber-sayner-huette-story.png"
       ]
+    },
+    {
+      "id": "neuwied-feldkirchen-fahr-advent-2026-11-28",
+      "quelle": "Antenne Koblenz (Angaben treffpunkt-feldkirchen.de)",
+      "url": "https://antenne-koblenz.de/feldkirchen-leuchtet-adventsmarkt-mit-lichterumzug-am-28-november/",
+      "postedAt": "2026-11-26T09:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-advent-feldkirchen-fahr.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-2.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-3.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-4.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 4,
+    "2026-11-26": 5,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
