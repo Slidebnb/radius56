@@ -454,12 +454,50 @@
         "public/social/2027-01-10-bunter-nachmittag-koblenz-3.png",
         "public/social/2027-01-10-bunter-nachmittag-koblenz-story.png"
       ]
+    },
+    {
+      "id": "koblenz-poetikdozentur-brandt-2026-12-03",
+      "quelle": "Stadt Koblenz (PM 25.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-matthias-brandt-ist-joseph-breitbach-poetikdozent-2026/",
+      "postedAt": "2026-11-26T07:30:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/theater-koblenz-laternen.jpg",
+        "urheber": "Thomas Hummel",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Theater_(Koblenz)_01.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-03-poetikdozentur-koblenz.png",
+        "public/social/2026-12-03-poetikdozentur-koblenz-2.png",
+        "public/social/2026-12-03-poetikdozentur-koblenz-3.png",
+        "public/social/2026-12-03-poetikdozentur-koblenz-story.png"
+      ]
+    },
+    {
+      "id": "ihk-bestenehrung-kreis-neuwied-2026",
+      "quelle": "IHK Koblenz via Lebendiges Neuwied (25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-einunddreissig-Spitzen-Azubis-aus-dem-Landkreis-Neuwied-ausgezeichnet-item-9349.html",
+      "postedAt": "2026-11-26T07:30:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied.png",
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-2.png",
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-3.png",
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 1,
+    "2026-11-26": 3,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
