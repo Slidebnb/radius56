@@ -572,12 +572,32 @@
         "lizenz": "CC BY-SA 4.0",
         "url": "https://commons.wikimedia.org/wiki/File:Roentgen-Museum_Neuwied.jpg"
       }
+    },
+    {
+      "id": "sgdnord-weihnachtsmarkt-gaskontrolle-2026",
+      "quelle": "SGD Nord (via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178790-weihnachtsmarkt-kontrollen--maengel-in-koblenz--gutes-ergebnis-in-neuwied",
+      "postedAt": "2026-11-26T13:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-2.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-3.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-4.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 7,
+    "2026-11-26": 8,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
