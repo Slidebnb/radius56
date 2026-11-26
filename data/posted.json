@@ -671,12 +671,31 @@
         "public/social/2026-12-04-bendorfer-weihnachtsmarkt-4.png",
         "public/social/2026-12-04-bendorfer-weihnachtsmarkt-story.png"
       ]
+    },
+    {
+      "id": "koblenz-kulturehrennadel-2026",
+      "quelle": "Stadt Koblenz, Pressemitteilung (25.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-kulturehrennadel-2026/",
+      "postedAt": "2026-11-26T18:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-26-koblenz-kulturehrennadel.png",
+        "public/social/2026-11-26-koblenz-kulturehrennadel-2.png",
+        "public/social/2026-11-26-koblenz-kulturehrennadel-3.png",
+        "public/social/2026-11-26-koblenz-kulturehrennadel-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 12,
+    "2026-11-26": 13,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
