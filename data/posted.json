@@ -729,12 +729,33 @@
         "public/social/2026-11-28-vallendarer-weihnachtsmarkt-3.png",
         "public/social/2026-11-28-vallendarer-weihnachtsmarkt-story.png"
       ]
+    },
+    {
+      "id": "ppko-6398824-vermisst-neuwied-75-jaehrige",
+      "quelle": "Polizeipräsidium Koblenz",
+      "url": "https://www.presseportal.de/blaulicht/pm/117715/6398824",
+      "postedAt": "2026-11-26T21:15:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-2.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-3.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-4.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/neuwied-bahnhof.jpg",
+        "urheber": "Tohma",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Neuwied_Bahnhof.jpg"
+      },
+      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen"
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 15,
+    "2026-11-26": 16,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
