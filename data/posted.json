@@ -611,12 +611,31 @@
         "lizenz": "CC BY 2.0",
         "url": "https://commons.wikimedia.org/wiki/File:Autumn_at_Nagog_Hill_Orchard.jpg"
       }
+    },
+    {
+      "id": "koblenz-guels-blaeserklasse-erwachsene-info-2026-11-28",
+      "quelle": "Musikverein St. Servatius Güls / Stadt Koblenz (via Antenne Koblenz, 06.11.2026)",
+      "url": "https://antenne-koblenz.de/trompete-posaune-klarinette-guels-startet-blaeserklasse-fuer-erwachsene/",
+      "postedAt": "2026-11-26T15:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/blechblas-instrumente.jpg",
+        "urheber": "Garry Knight from London, England",
+        "lizenz": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Where_There%27s_Brass_(photo_by_Garry_Knight).jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene.png",
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene-2.png",
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene-3.png",
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 9,
+    "2026-11-26": 10,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
