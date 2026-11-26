@@ -532,12 +532,52 @@
         "lizenz": "KI-generiert",
         "url": ""
       }
+    },
+    {
+      "id": "andernach-burg-namedy-weihnachtszauber-2026-11-28",
+      "quelle": "Schloss Burg Namedy (via Lebendiges Neuwied)",
+      "url": "https://lebendiges-neuwied.de/News-Weihnachtszauber-in-und-um-das-Schloss-Burg-Namedy-herum-item-9279.html",
+      "postedAt": "2026-11-26T10:17:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-2.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-3.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-4.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/andernach-burg-namedy.jpg",
+        "urheber": "Frank Vincentz",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Andernach_-_Schlossstra%C3%9Fe_-_Schloss%2BPark_Burg_Namedy_02_ies.jpg"
+      }
+    },
+    {
+      "id": "neuwied-roentgen-museum-80-jahreskunstausstellung-2026-11-28",
+      "quelle": "Kreis Neuwied / Roentgen-Museum (via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178578-80-jahre-kunst-im-roentgen-museum-neuwied",
+      "postedAt": "2026-11-26T10:17:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-2.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-3.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-4.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/neuwied-roentgen-museum.jpg",
+        "urheber": "tohma (Photo), Olaf Höhnen (Well)",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Roentgen-Museum_Neuwied.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 5,
+    "2026-11-26": 7,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
