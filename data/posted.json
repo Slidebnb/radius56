@@ -435,6 +435,25 @@
         "lizenz": "KI-generiert",
         "url": ""
       }
+    },
+    {
+      "id": "koblenz-bunter-nachmittag-karneval-2027-01-10",
+      "quelle": "Stadt Koblenz (PM 25.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-bunter-nachmittag-fuer-alt-und-jung/",
+      "postedAt": "2026-11-26T06:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2027-01-10-bunter-nachmittag-koblenz.png",
+        "public/social/2027-01-10-bunter-nachmittag-koblenz-2.png",
+        "public/social/2027-01-10-bunter-nachmittag-koblenz-3.png",
+        "public/social/2027-01-10-bunter-nachmittag-koblenz-story.png"
+      ]
     }
   ],
   "feedCount": {
