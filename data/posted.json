@@ -734,7 +734,7 @@
       "id": "ppko-6398824-vermisst-neuwied-75-jaehrige",
       "quelle": "Polizeipräsidium Koblenz",
       "url": "https://www.presseportal.de/blaulicht/pm/117715/6398824",
-      "postedAt": "2026-11-26T21:15:00+01:00",
+      "postedAt": "2026-11-26T21:10:00+01:00",
       "format": "feed+story",
       "bilder": [
         "public/social/2026-11-26-vermisst-neuwied-75-jaehrige.png",
@@ -749,7 +749,11 @@
         "lizenz": "CC BY-SA 4.0",
         "url": "https://commons.wikimedia.org/wiki/File:Neuwied_Bahnhof.jpg"
       },
-      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen"
+      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen",
+      "bufferIds": {
+        "feed": "6b089217f0a96d0f2189449b",
+        "story": "6b0892223accdac92cf8f5c2"
+      }
     }
   ],
   "feedCount": {
