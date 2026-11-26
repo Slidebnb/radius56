@@ -492,12 +492,32 @@
         "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-3.png",
         "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-story.png"
       ]
+    },
+    {
+      "id": "bendorf-huettenzauber-sayner-huette-2026-12-11",
+      "quelle": "Stiftung Sayner Hütte via news-koblenz.de (25.11.2026)",
+      "url": "https://news-koblenz.de/weihnachtlicher-huettenzauber-verzaubert-wieder-die-sayner-huette_57705.html",
+      "postedAt": "2026-11-26T08:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/sayner-huette-giesshalle-innen.jpg",
+        "urheber": "Marion Halft",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:2019_Giesshalle_Sayner_H%C3%BCtte_(02).jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-11-huettenzauber-sayner-huette.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-2.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-3.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-4.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 3,
+    "2026-11-26": 4,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
