@@ -592,12 +592,31 @@
         "lizenz": "KI-generiert",
         "url": ""
       }
+    },
+    {
+      "id": "kreis-nr-baumausgabe-515-obstbaeume-2026",
+      "quelle": "Kreisverwaltung Neuwied (via Lebendiges Neuwied)",
+      "url": "https://www.lebendiges-neuwied.de/News-Baeumchen-Wechsel-Dich-ist-nicht-nur-Kinderspiel-item-9362.html",
+      "postedAt": "2026-11-26T14:25:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied.png",
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied-2.png",
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied-3.png",
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/obstwiese-herbst.jpg",
+        "urheber": "liz west",
+        "lizenz": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Autumn_at_Nagog_Hill_Orchard.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 8,
+    "2026-11-26": 9,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
