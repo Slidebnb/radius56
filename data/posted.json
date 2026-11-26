@@ -651,12 +651,32 @@
         "public/social/2026-11-26-neuwied-familiengrundschulzentren-4.png",
         "public/social/2026-11-26-neuwied-familiengrundschulzentren-story.png"
       ]
+    },
+    {
+      "id": "bendorf-weihnachtsmarkt-2026-12-04",
+      "quelle": "Stadt Bendorf (17.11.2026)",
+      "url": "https://www.bendorf.de/stadt-buerger/aktuelles/bendorfer-weihnachtsmarkt-2026-neue-marktbereiche-vertraute-adventsstimmung/",
+      "postedAt": "2026-11-26T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/bendorf-st-medardus.jpg",
+        "urheber": "Chris06",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:St._Medardus_(Bendorf)2.JPG"
+      },
+      "bilder": [
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-2.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-3.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-4.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 11,
+    "2026-11-26": 12,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
