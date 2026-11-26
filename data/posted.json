@@ -630,12 +630,33 @@
         "public/social/2026-11-28-guels-blaeserklasse-erwachsene-3.png",
         "public/social/2026-11-28-guels-blaeserklasse-erwachsene-story.png"
       ]
+    },
+    {
+      "id": "neuwied-familiengrundschulzentren-2026-11-26",
+      "quelle": "Stadt Neuwied, Pressemitteilung 26.11.2026 (via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178799-neuwied-baut-drei-familiengrundschulzentren-auf",
+      "postedAt": "2026-11-26T16:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/klassenzimmer-grundschule.jpg",
+        "urheber": "Abaddon1337",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Orbe_-_Chantemerle_-_salle_de_classe_2.jpg",
+        "bearbeitet": "links beschnitten (Bildschirm mit Personen entfernt)"
+      },
+      "bilder": [
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-2.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-3.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-4.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-story.png"
+      ]
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
-    "2026-11-26": 10,
+    "2026-11-26": 11,
     "2026-11-27": 1,
     "2026-11-23": 1
   }
