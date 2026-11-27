@@ -1012,7 +1012,11 @@
         "lizenz": "CC BY-SA 2.0",
         "url": "https://commons.wikimedia.org/wiki/File:Genovevaburg_05.jpg"
       },
-      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen bzw. Wladi melden"
+      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen bzw. Wladi melden",
+      "bufferIds": {
+        "feed": "6b09909632c212878fd7a9ea",
+        "story": "6b0990a132c212878fd7af93"
+      }
     }
   ],
   "feedCount": {
