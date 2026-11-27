@@ -992,13 +992,34 @@
         "feed": "6b09827c1fd46e62e7481507",
         "story": "6b098286e94385a8fda8c508"
       }
+    },
+    {
+      "id": "ppko-6399427-vermisst-mayen-89-jaehrige",
+      "quelle": "Polizeipräsidium Koblenz",
+      "url": "https://www.presseportal.de/blaulicht/pm/117715/6399427",
+      "postedAt": "2026-11-27T15:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-2.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-3.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-4.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/mayen-genovevaburg.jpg",
+        "urheber": "onnola",
+        "lizenz": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Genovevaburg_05.jpg"
+      },
+      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen bzw. Wladi melden"
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 11,
+    "2026-11-27": 12,
     "2026-11-23": 1
   }
 }
