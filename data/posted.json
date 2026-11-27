@@ -1105,6 +1105,10 @@
         "urheber": "Symbolbild (KI, Higgsfield)",
         "lizenz": "KI-generiert",
         "url": ""
+      },
+      "bufferIds": {
+        "feed": "6b09bb2a446d2e47aaa5197a",
+        "story": "6b09bb35d5bf252ef53b550e"
       }
     },
     {
@@ -1125,6 +1129,10 @@
         "urheber": "Holger Weinandt",
         "lizenz": "CC BY-SA 3.0 de",
         "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b09bb3ec4601a35669e00e1",
+        "story": "6b09bb49437395ca6eead13e"
       }
     }
   ],
