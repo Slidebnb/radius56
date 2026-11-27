@@ -944,13 +944,33 @@
         "feed": "6b0966ff776ce212760f7e70",
         "story": "6b09670a658222306c08e406"
       }
+    },
+    {
+      "id": "neuwied-minski-dezember-2026",
+      "quelle": "Stadt Neuwied / News Koblenz",
+      "url": "https://news-koblenz.de/noch-fuenf-mal-minski-in-diesem-jahr_57755.html",
+      "postedAt": "2026-11-27T13:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-02-neuwied-minski-dezember.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-2.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-3.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-4.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/kinosaal-vorhang.jpg",
+        "urheber": "Back ache",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Alhambra_Cinema_Keswick_main_auditorium.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 9,
+    "2026-11-27": 10,
     "2026-11-23": 1
   }
 }
