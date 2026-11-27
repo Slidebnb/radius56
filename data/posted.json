@@ -1134,13 +1134,33 @@
         "feed": "6b09bb3ec4601a35669e00e1",
         "story": "6b09bb49437395ca6eead13e"
       }
+    },
+    {
+      "id": "kreisnr-advent-auf-den-hoefen-naturgenuss-2026",
+      "quelle": "Naturgenuss / WFG Kreis Neuwied (via News Koblenz)",
+      "url": "https://news-koblenz.de/gemuetlicher-hoefe-advent-bei-naturgenuss-erzeugern_57630.html",
+      "postedAt": "2026-11-27T20:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-2.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-3.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-4.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/leutesdorf-weinberge-rhein.jpg",
+        "urheber": "Wolkenkratzer",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Leutesdorf_001.JPG"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 17,
+    "2026-11-27": 18,
     "2026-11-23": 1
   }
 }
