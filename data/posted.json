@@ -897,13 +897,52 @@
         "feed": "6b0957451fd46e62e7338d9a",
         "story": "6b09574f776ce21276083eb5"
       }
+    },
+    {
+      "id": "koblenz-lebendiger-advent-schlossstrasse-2026-12-01",
+      "quelle": "Johanniter Mittelrhein (via News Koblenz, 27.11.2026)",
+      "url": "https://news-koblenz.de/lebendiger-advent-in-der-koblenzer-schlossstrasse_57760.html",
+      "postedAt": "2026-11-27T12:50:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-2.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-3.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-4.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-innenstadt-einkaufsstrasse.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Evakuierung_03_Koblenz_2011.jpg"
+      }
+    },
+    {
+      "id": "lahnstein-nikolausmarkt-theatervorplatz-2026-12-04",
+      "quelle": "News Koblenz (23.11.2026)",
+      "url": "https://news-koblenz.de/nikolausmarkt-bringt-weihnachtszauber-auf-den-theatervorplatz-in-lahnstein_57634.html",
+      "postedAt": "2026-11-27T12:50:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-04-nikolausmarkt-lahnstein.png",
+        "public/social/2026-12-04-nikolausmarkt-lahnstein-2.png",
+        "public/social/2026-12-04-nikolausmarkt-lahnstein-3.png",
+        "public/social/2026-12-04-nikolausmarkt-lahnstein-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/lahnstein-altes-rathaus.jpg",
+        "urheber": "Uwe Barghaan",
+        "lizenz": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Oberlahnstein_Rathaus.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 7,
+    "2026-11-27": 9,
     "2026-11-23": 1
   }
 }
