@@ -759,7 +759,7 @@
       "id": "kreisnr-l87-rheinbrohl-vollsperrung-2026-12-04",
       "quelle": "Kreisverwaltung Neuwied (Straßensperrungen)",
       "url": "https://www.kreis-neuwied.de/aktuelles/wichtige-hinweise/aktuelle-strassensperrungen-im-landkreis-neuwied/",
-      "postedAt": "2026-11-27T06:40:00+01:00",
+      "postedAt": "2026-11-27T06:12:00+01:00",
       "format": "feed+story",
       "bilder": [
         "public/social/2026-12-04-l87-rheinbrohl-vollsperrung.png",
@@ -772,6 +772,10 @@
         "urheber": "GeorgDerReisende",
         "lizenz": "CC BY-SA 4.0",
         "url": "https://commons.wikimedia.org/wiki/File:F%C3%A4hrstra%C3%9Fe,_2,_Rheinbrohl,_Landkreis_Neuwied.jpg"
+      },
+      "buffer": {
+        "feed": "6b091143062ed764a8e6b961",
+        "story": "6b09114e658222306ce3f63d"
       }
     }
   ],
