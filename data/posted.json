@@ -753,7 +753,8 @@
       "bufferIds": {
         "feed": "6b089217f0a96d0f2189449b",
         "story": "6b0892223accdac92cf8f5c2"
-      }
+      },
+      "status": "Fahndung beendet (Frau wohlbehalten angetroffen, Polizei-Nachtrag lt. WW-Kurier 27.11.2026 09:55) – Buffer-Löschen nicht möglich (bereits gesendet), Wladi am 27.11. per Push gebeten, auf Instagram manuell zu löschen"
     },
     {
       "id": "kreisnr-l87-rheinbrohl-vollsperrung-2026-12-04",
@@ -849,13 +850,32 @@
         "feed": "6b092df8776ce21276f59572",
         "story": "6b092e04658222306cef63eb"
       }
+    },
+    {
+      "id": "kreisnr-lernpaten-keiner-darf-verloren-gehen-2026-12-18",
+      "quelle": "Kreisverwaltung Neuwied (via Lebendiges Neuwied)",
+      "url": "https://www.lebendiges-neuwied.de/News-Kindern-ein-wenig-Zeit-schenken-item-9366.html",
+      "postedAt": "2026-11-27T10:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-lernpaten-kreis-neuwied.png",
+        "public/social/2026-11-27-lernpaten-kreis-neuwied-2.png",
+        "public/social/2026-11-27-lernpaten-kreis-neuwied-3.png",
+        "public/social/2026-11-27-lernpaten-kreis-neuwied-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/klassenzimmer-grundschule.jpg",
+        "urheber": "Abaddon1337",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Orbe_-_Chantemerle_-_salle_de_classe_2.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 5,
+    "2026-11-27": 6,
     "2026-11-23": 1
   }
 }
