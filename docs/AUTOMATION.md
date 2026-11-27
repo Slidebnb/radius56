@@ -22,6 +22,15 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
 - Verkehr: lbm.rlp.de (Presse/Aktuelles), koveb.de (Verkehrs-Infos)
 - Nur Fakten (neu formulieren): news-koblenz.de, nr-kurier.de, ww-kurier.de, ak-kurier.de,
   lebendiges-neuwied.de, blick-aktuell.de, antenne-koblenz.de
+- **Veranstaltungskalender (Entscheidung Wladi, 27.11.2026 – „Quellen sind das Wichtigste“),
+  vor allem für „Dein Wochenende“ und Termin-Posts; nur Fakten, eigene Worte:**
+  veranstaltungen.meinestadt.de/koblenz/wochenendtipps (gut lesbar, ~30 Termine inkl. Partys,
+  Varieté, Sport, Führungen), visit-koblenz.de/events/veranstaltungskalender (Koblenz-Stadtmarketing/
+  Touristik), neuwied.de/veranstaltungskalender, neuwied.de/knuspermarkt (+ /seite/2 … Bühnenprogramm),
+  romantischer-rhein.de/rheinromantik-und-region/unvergessliche-veranstaltungen/uebersicht-veranstaltungen,
+  regioactive.de (Partys/Konzerte Koblenz/Neuwied – derzeit oft nicht abrufbar, dann per Websuche),
+  eventim.de/city/koblenz-69/this-weekend/ (oft nicht abrufbar). Bars/Clubs/Partys sind erlaubte
+  Wochenend-Tipps. Merkurist und andere Instagram-Accounts bleiben tabu (weder Text noch Bild).
 - Nicht direkt lesbar: kreis-myk.de, stadtwerke-neuwied.de, dwd.de (dann per Websuche bzw.
   über Berichte prüfen)
 
