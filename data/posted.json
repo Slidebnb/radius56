@@ -1045,7 +1045,7 @@
    "id": "koblenz-torhaus-fort-asterstein-2026-12-06",
    "quelle": "Stadt Koblenz",
    "url": "https://www.lebendiges-neuwied.de/News-Torhaus-am-Fort-Asterstein-wird-am-Nikolaussonntag-eroeffnet-item-9372.html",
-   "postedAt": "2026-11-27T17:30:00+01:00",
+   "postedAt": "2026-11-27T17:12:00+01:00",
    "format": "feed+story",
    "bilder": [
     "public/social/2026-12-06-koblenz-torhaus-fort-asterstein.png",
@@ -1058,13 +1058,17 @@
     "urheber": "Xjvolker",
     "lizenz": "CC BY-SA 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:Fort_Asterstein_Reduit.jpg"
+   },
+   "bufferIds": {
+    "feed": "6b09abb8015034238d3ecf26",
+    "story": "6b09abc3bb117e5ba75ee8d4"
    }
   },
   {
    "id": "myk-vallendar-uebung-stromausfall-winter-2026-11",
    "quelle": "Kreisverwaltung Mayen-Koblenz",
    "url": "https://www.lebendiges-neuwied.de/News-UEbung-simuliert-extremen-Winter-und-Stromausfall-item-9371.html",
-   "postedAt": "2026-11-27T17:30:00+01:00",
+   "postedAt": "2026-11-27T17:12:00+01:00",
    "format": "feed+story",
    "bilder": [
     "public/social/2026-11-27-myk-vallendar-uebung-stromausfall.png",
@@ -1078,6 +1082,10 @@
     "urheber": "LigaDue",
     "lizenz": "CC BY-SA 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:Vallendar1.jpg"
+   },
+   "bufferIds": {
+    "feed": "6b09abcbbb117e5ba75ef12c",
+    "story": "6b09abd634d224b14a9a2448"
    }
   }
  ],
