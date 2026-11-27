@@ -177,7 +177,12 @@ Ziel in der Startphase: Community aufbauen, nicht Geld verdienen. Deshalb:
    - **Montag, ca. 18 Uhr – Frage der Woche:** eine lokale Frage, bei der jeder mitreden kann
      (z. B. „Bester Döner in Neuwied?“, „Schönster Weihnachtsmarkt im Umkreis?“).
      Kachel: farbe "blau", Kachel-Text „Frage der Woche“. Antworten werden im Rückblick aufgegriffen.
-   - **Freitag, ca. 7 Uhr – Dein Wochenende:** 4–6 Termine fürs Wochenende im Umkreis.
+   - **Freitag, ca. 7 Uhr – Dein Wochenende (Entscheidung Wladi, 27.11.2026):** mindestens 8,
+     besser 10–12 Tipps fürs Wochenende im Umkreis – 4 Tipps sind zu wenig. Aktiv sammeln:
+     Weihnachtsmärkte, Feste, Konzerte, Ausstellungen, Märkte, Sport, Mitmach-Termine, dazu
+     bereits gepostete Termine aus data/posted.json, die aufs Wochenende fallen. Karussell mit
+     Wisch-Folien je Tag (z. B. „Samstag“, „Sa + So“, „Sonntag“, „Läuft schon“), je 3–4
+     Stichpunkte mit Uhrzeit + Ort; hier sind 4 Folien erlaubt. Kachel z. B. „12 Tipps“.
    - **Sonntag, ca. 19 Uhr – Wochenrückblick:** die 3–5 wichtigsten Meldungen der Woche,
      dazu die beliebteste Antwort auf die Frage der Woche (ohne Nachnamen).
    Vor dem Anlegen eines festen Formats in data/posted.json prüfen, ob es diese Woche schon lief

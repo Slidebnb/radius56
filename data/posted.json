@@ -824,13 +824,34 @@
         "feed": "6b092d00e94385a8fd818ec9",
         "story": "6b092d0b1fd46e62e7204887"
       }
+    },
+    {
+      "id": "wochenende-2026-11-28-12-tipps",
+      "quelle": "Städte, Vereine und Veranstalter (aus bereits gelesenen Quellen)",
+      "url": "",
+      "postedAt": "2026-11-27T08:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-dein-wochenende-12-tipps.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-2.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-3.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-4.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-5.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-rathaus-weihnachtsmarkt.jpg",
+        "urheber": "Corradox",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Koblenz_Rathaus-Weihnachtsmarkt.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 4,
+    "2026-11-27": 5,
     "2026-11-23": 1
   }
 }
