@@ -29,7 +29,14 @@ Linz, Bad Hönningen, Dierdorf, Montabaur, Mayen-Koblenz). Instagram: @radius56.
   Touristik), neuwied.de/veranstaltungskalender, neuwied.de/knuspermarkt (+ /seite/2 … Bühnenprogramm),
   romantischer-rhein.de/rheinromantik-und-region/unvergessliche-veranstaltungen/uebersicht-veranstaltungen,
   regioactive.de (Partys/Konzerte Koblenz/Neuwied – derzeit oft nicht abrufbar, dann per Websuche),
-  eventim.de/city/koblenz-69/this-weekend/ (oft nicht abrufbar). Bars/Clubs/Partys sind erlaubte
+  eventim.de/city/koblenz-69/this-weekend/ (oft nicht abrufbar).
+  **rausgegangen.de** (Event-App mit Koblenzer Bars/Clubs/Partys, z. B. Gecko Lounge, Atlas Bar,
+  Nachtarena, Kurioos; Stadtmarketing-Termine wie Dillemarkt): Übersicht rausgegangen.de/en/koblenz/
+  blockt direkte Abrufe → per WebSearch mit allowed_domains ["rausgegangen.de"] suchen
+  („Koblenz Party <Datum>“, „Koblenz Konzert Wochenende“) und die einzelnen Event-Seiten
+  (rausgegangen.de/en/events/…) abrufen – die laden. Instagram-Accounts (@visit.koblenz der
+  Koblenz-Touristik u. a.) sind nicht direkt lesbar und werden nicht kopiert; ihre Termine kommen
+  über visit-koblenz.de und rausgegangen.de. Bars/Clubs/Partys sind erlaubte
   Wochenend-Tipps. Merkurist und andere Instagram-Accounts bleiben tabu (weder Text noch Bild).
 - Nicht direkt lesbar: kreis-myk.de, stadtwerke-neuwied.de, dwd.de (dann per Websuche bzw.
   über Berichte prüfen)
