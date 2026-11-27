@@ -782,7 +782,7 @@
       "id": "vrm-koblenz-weihnachtsmarkt-gratis-adventssonntage-2026",
       "quelle": "Verkehrsverbund Rhein-Mosel / Stadt Koblenz (Pressemeldung)",
       "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261126-an-und-abreise-zum-koblenzer-weihnachtsmarkt/",
-      "postedAt": "2026-11-27T07:20:00+01:00",
+      "postedAt": "2026-11-27T07:11:00+01:00",
       "format": "feed+story",
       "bilder": [
         "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn.png",
@@ -796,6 +796,10 @@
         "urheber": "Corradox",
         "lizenz": "CC BY-SA 4.0",
         "url": "https://commons.wikimedia.org/wiki/File:Koblenz_Rathaus-Weihnachtsmarkt.jpg"
+      },
+      "buffer": {
+        "feed": "6b091f17062ed764a8ebee69",
+        "story": "6b091f22062ed764a8ebef6d"
       }
     }
   ],
