@@ -902,7 +902,7 @@
       "id": "koblenz-lebendiger-advent-schlossstrasse-2026-12-01",
       "quelle": "Johanniter Mittelrhein (via News Koblenz, 27.11.2026)",
       "url": "https://news-koblenz.de/lebendiger-advent-in-der-koblenzer-schlossstrasse_57760.html",
-      "postedAt": "2026-11-27T12:50:00+01:00",
+      "postedAt": "2026-11-27T12:18:00+01:00",
       "format": "feed+story",
       "bilder": [
         "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz.png",
@@ -916,13 +916,17 @@
         "urheber": "Holger Weinandt",
         "lizenz": "CC BY-SA 3.0 de",
         "url": "https://commons.wikimedia.org/wiki/File:Evakuierung_03_Koblenz_2011.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0966eb049983dcfbb2f574",
+        "story": "6b0966f61fd46e62e73a6ae0"
       }
     },
     {
       "id": "lahnstein-nikolausmarkt-theatervorplatz-2026-12-04",
       "quelle": "News Koblenz (23.11.2026)",
       "url": "https://news-koblenz.de/nikolausmarkt-bringt-weihnachtszauber-auf-den-theatervorplatz-in-lahnstein_57634.html",
-      "postedAt": "2026-11-27T12:50:00+01:00",
+      "postedAt": "2026-11-27T12:18:00+01:00",
       "format": "feed+story",
       "bilder": [
         "public/social/2026-12-04-nikolausmarkt-lahnstein.png",
@@ -935,6 +939,10 @@
         "urheber": "Uwe Barghaan",
         "lizenz": "CC BY 3.0",
         "url": "https://commons.wikimedia.org/wiki/File:Oberlahnstein_Rathaus.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0966ff776ce212760f7e70",
+        "story": "6b09670a658222306c08e406"
       }
     }
   ],
