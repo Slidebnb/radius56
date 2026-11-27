@@ -968,13 +968,33 @@
         "feed": "6b097447e94385a8fda1ae9a",
         "story": "6b097453776ce2127615efe8"
       }
+    },
+    {
+      "id": "wwk-fuehrerschein-umtausch-online-2027-01-19",
+      "quelle": "Kreisverwaltung Westerwaldkreis",
+      "url": "https://www.westerwaldkreis.de/aktuelles/presse/pressemitteilungen/2026/november/fuehrerscheinumtausch-jetzt-bequem-online-betragen/",
+      "postedAt": "2026-11-27T14:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-2.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-3.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-4.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/montabaur-kreisverwaltung.jpg",
+        "urheber": "el_tommo",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kreisverwaltung_Montabaur.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 10,
+    "2026-11-27": 11,
     "2026-11-23": 1
   }
 }
