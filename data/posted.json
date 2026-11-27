@@ -1017,13 +1017,32 @@
         "feed": "6b09909632c212878fd7a9ea",
         "story": "6b0990a132c212878fd7af93"
       }
+    },
+    {
+      "id": "neuwied-irlich-weihnachtsmarkt-2026-12-04",
+      "quelle": "NR-Kurier (27.11.2026)",
+      "url": "https://www.nr-kurier.de/artikel/178843-irlicher-weihnachtsmarkt-laedt-zum-festlichen-beisammensein-ein",
+      "postedAt": "2026-11-27T16:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt.png",
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt-2.png",
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt-3.png",
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/neuwied-irlich-st-peter-paul.jpg",
+        "urheber": "Michielverbeek",
+        "lizenz": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Neuwied-Irlich,_Pfarrkirche_Sankt_Peter_und_Paul_Dm_met_spoorbrug_over_de_Wied_vanaf_Andernach_IMG_2353_2024-06-01_13.08.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 12,
+    "2026-11-27": 13,
     "2026-11-23": 1
   }
 }
