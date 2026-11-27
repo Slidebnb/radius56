@@ -873,13 +873,33 @@
         "feed": "6b094962776ce2127601c38a",
         "story": "6b09496de94385a8fd8e2ee1"
       }
+    },
+    {
+      "id": "pdnr-6399026-bad-hoenningen-kontrolle-polizei-ordnungsamt",
+      "quelle": "Polizeidirektion Neuwied / PI Linz",
+      "url": "https://www.presseportal.de/blaulicht/pm/117709/6399026",
+      "postedAt": "2026-11-27T11:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-2.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-3.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-4.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/bad-hoenningen-rathaus.jpg",
+        "urheber": "Raimond Spekking",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Rathaus_Bad_H%C3%B6nningen-075716.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 6,
+    "2026-11-27": 7,
     "2026-11-23": 1
   }
 }
