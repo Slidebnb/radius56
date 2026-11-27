@@ -801,13 +801,32 @@
         "feed": "6b091f17062ed764a8ebee69",
         "story": "6b091f22062ed764a8ebef6d"
       }
+    },
+    {
+      "id": "kreisnr-rechte-rheinstrecke-oberleitung-strom-2026-11-30",
+      "quelle": "Kreisverwaltung Neuwied (Pressemitteilung) / Deutsche Bahn",
+      "url": "https://www.kreis-neuwied.de/aktuelles/presse/korridorsanierung-rechter-rhein/",
+      "postedAt": "2026-11-27T08:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom.png",
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-2.png",
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-3.png",
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/bahnstrecke-oberleitung-zweigleisig.jpg",
+        "urheber": "Falk2",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:I09_441_Systemtrennstelle.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 3,
+    "2026-11-27": 4,
     "2026-11-23": 1
   }
 }
