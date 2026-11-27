@@ -777,13 +777,33 @@
         "feed": "6b091143062ed764a8e6b961",
         "story": "6b09114e658222306ce3f63d"
       }
+    },
+    {
+      "id": "vrm-koblenz-weihnachtsmarkt-gratis-adventssonntage-2026",
+      "quelle": "Verkehrsverbund Rhein-Mosel / Stadt Koblenz (Pressemeldung)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261126-an-und-abreise-zum-koblenzer-weihnachtsmarkt/",
+      "postedAt": "2026-11-27T07:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-2.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-3.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-4.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-rathaus-weihnachtsmarkt.jpg",
+        "urheber": "Corradox",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Koblenz_Rathaus-Weihnachtsmarkt.jpg"
+      }
     }
   ],
   "feedCount": {
     "2026-11-24": 10,
     "2026-11-25": 21,
     "2026-11-26": 16,
-    "2026-11-27": 2,
+    "2026-11-27": 3,
     "2026-11-23": 1
   }
 }
