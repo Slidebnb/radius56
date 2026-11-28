@@ -1395,6 +1395,26 @@
         "feed": "6b0ab706039273f88fc44e10",
         "story": "6b0ab7118cbf0dfe50d3e7d0"
       }
+    },
+    {
+      "id": "neuwied-knuspermarkt-programm-2026-11-30-bis-12-04",
+      "quelle": "Stadt Neuwied",
+      "url": "https://www.neuwied.de/knuspermarkt",
+      "postedAt": "2026-11-28T13:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-knuspermarkt-programm-woche.png",
+        "public/social/2026-11-28-knuspermarkt-programm-woche-2.png",
+        "public/social/2026-11-28-knuspermarkt-programm-woche-3.png",
+        "public/social/2026-11-28-knuspermarkt-programm-woche-4.png",
+        "public/social/2026-11-28-knuspermarkt-programm-woche-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      }
     }
   ],
   "feedCount": {
@@ -1403,6 +1423,6 @@
     "2026-11-26": 16,
     "2026-11-27": 18,
     "2026-11-23": 1,
-    "2026-11-28": 10
+    "2026-11-28": 11
   }
 }
