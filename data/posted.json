@@ -1016,7 +1016,8 @@
       "bufferIds": {
         "feed": "6b09909632c212878fd7a9ea",
         "story": "6b0990a132c212878fd7af93"
-      }
+      },
+      "status": "Fahndung erledigt (PP Koblenz, Erledigung 27.11.2026 23:06, pm 6399589) – Buffer-Löschen nicht möglich (bereits gesendet), Wladi am 28.11. per Push gebeten, auf Instagram manuell zu löschen"
     },
     {
       "id": "neuwied-irlich-weihnachtsmarkt-2026-12-04",
@@ -1158,6 +1159,46 @@
         "feed": "6b09d613819e60b3bdccb393",
         "story": "6b09d61ee19dcd08fbf380ec"
       }
+    },
+    {
+      "id": "lbm-b49-moselweiss-lay-freigabe-2026-11-30",
+      "quelle": "Landesbetrieb Mobilität Rheinland-Pfalz (27.11.2026)",
+      "url": "https://lbm.rlp.de/service/presse-aktuelles/detail/b-49-sanierung-zwischen-koblenz-moselweiss-und-koblenz-lay-mit-anbau-eines-neuen-rad-und-gehweges-fertiggestellt",
+      "postedAt": "2026-11-28T06:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-2.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-3.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-4.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-mosel-bei-lay.jpg",
+        "urheber": "giggel",
+        "lizenz": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Die_Mosel_bei_Lay_-_Koblenz-G%C3%BCls_%E2%80%93_Karthause_und_Moselwei%C3%9F_(von_vorne)_-_panoramio.jpg"
+      }
+    },
+    {
+      "id": "koblenz-baumstandorte-zuergelbaeume-2026-11",
+      "quelle": "Stadt Koblenz (via Lebendiges Neuwied, 27.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Mehr-Schatten-fuer-Koblenz-Neue-Baumstandorte-schaffen-Lebensqualitaet-item-9377.html",
+      "postedAt": "2026-11-28T06:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-2.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-3.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-4.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/zuergelbaum-celtis.jpg",
+        "urheber": "Friedrich Haag",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bad_D%C3%BCrkheim_Kurpark_Z%C3%BCrgelbaum_001_2021_10_10.jpg"
+      }
     }
   ],
   "feedCount": {
@@ -1165,6 +1206,7 @@
     "2026-11-25": 21,
     "2026-11-26": 16,
     "2026-11-27": 18,
-    "2026-11-23": 1
+    "2026-11-23": 1,
+    "2026-11-28": 2
   }
 }
