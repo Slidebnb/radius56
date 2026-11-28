@@ -1207,6 +1207,25 @@
         "feed": "6b0a63892a2e4f66ca000761",
         "story": "6b0a639441454797eaf1c7b7"
       }
+    },
+    {
+      "id": "koblenz-horchheimer-eisenbahnbruecke-radweg-frei-2026-11-30",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261127-freigabe-des-geh-und-radwegs-auf-der-horchheimer-eisenbahnbruecke/",
+      "postedAt": "2026-11-28T07:25:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei.png",
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-2.png",
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-3.png",
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/horchheimer-eisenbahnbruecke-fussweg.jpg",
+        "urheber": "Naturfreund66",
+        "lizenz": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Horchheimer_Eisenbahnbr%C3%BCcke,_Fu%C3%9Fweg_-_panoramio.jpg"
+      }
     }
   ],
   "feedCount": {
@@ -1215,6 +1234,6 @@
     "2026-11-26": 16,
     "2026-11-27": 18,
     "2026-11-23": 1,
-    "2026-11-28": 2
+    "2026-11-28": 3
   }
 }
