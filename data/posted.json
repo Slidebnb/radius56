@@ -1346,6 +1346,26 @@
         "feed": "6b0a9b8deb08204b2e9c0d9b",
         "story": "6b0a9b999caa4fb9ca979d85"
       }
+    },
+    {
+      "id": "linz-weihnachtszauber-2026-11-28",
+      "quelle": "Rheinsteig / Romantischer Rhein Tourismus",
+      "url": "https://www.rheinsteig.de/en/e-linzer-weihnachtszauber",
+      "postedAt": "2026-11-28T11:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-linzer-weihnachtszauber.png",
+        "public/social/2026-11-28-linzer-weihnachtszauber-2.png",
+        "public/social/2026-11-28-linzer-weihnachtszauber-3.png",
+        "public/social/2026-11-28-linzer-weihnachtszauber-4.png",
+        "public/social/2026-11-28-linzer-weihnachtszauber-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/linz-rathaus-winter.jpg",
+        "urheber": "Image-Improver Bonn",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Linz_am_Rhein_Marktplatz_14_Rathaus.jpg"
+      }
     }
   ],
   "feedCount": {
@@ -1354,6 +1374,6 @@
     "2026-11-26": 16,
     "2026-11-27": 18,
     "2026-11-23": 1,
-    "2026-11-28": 8
+    "2026-11-28": 9
   }
 }
