@@ -1,1282 +1,1290 @@
 {
- "items": [
-  {
-   "id": "hof-advent-2026",
-   "quelle": "News Koblenz",
-   "url": "https://news-koblenz.de/gemuetlicher-hoefe-advent-bei-naturgenuss-erzeugern_57630.html",
-   "postedAt": "2026-11-24T18:58:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "stromsteuer-swn-2027",
-   "quelle": "Stadtwerke Neuwied",
-   "url": "https://www.lebendiges-neuwied.de/",
-   "postedAt": "2026-11-25T18:23:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "neuwied-365-freiheitsrechte",
-   "quelle": "Stadt Neuwied",
-   "url": "https://www.nr-kurier.de/artikel/178196-365-jahre-freiheitsrechte--neuwied-plant-grosses-jubilaeumsjahr",
-   "postedAt": "2026-11-26T10:52:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "wochenende-2026-11-28",
-   "quelle": "Veranstalterangaben",
-   "url": "",
-   "postedAt": "2026-11-27T07:08:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "pdnr-6396468-bronzepferd-funkenhausen",
-   "quelle": "Polizeidirektion Neuwied/Rhein",
-   "url": "https://www.presseportal.de/blaulicht/pm/117709/6396468",
-   "postedAt": "2026-11-23T23:45:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "weihnachtsmaerkte-offen-2026",
-   "quelle": "Koblenzer Weihnachtsmarkt / Veranstalterangaben",
-   "url": "https://www.koblenzer-weihnachtsmarkt.de/en/opening-hours",
-   "postedAt": "2026-11-24T08:00:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "kreis-nr-messzuege-bahnuebergaenge-2026-11-25",
-   "quelle": "Kreisverwaltung Neuwied",
-   "url": "https://www.kreis-neuwied.de/aktuelles/wichtige-hinweise/aktuelle-strassensperrungen-im-landkreis-neuwied/",
-   "postedAt": "2026-11-24T08:12:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "a48-nachtsperrung-bendorf-koblenznord-2026-11-24",
-   "quelle": "Verkehrsinformation (Baustellendaten, Stand 23.11.2026)",
-   "url": "https://www.news.de/auto/860213512/verkehrsmeldung-nw-bendorf-koblenz-mayen-koblenz-zur-verkehrsstoerung-wegen-sperrung-baustelle-von-24-11-2026-bis-25-11-2026-einschraenkungen-im-verkehr-rheinland-pfalz-staugefahr-in-bubenheim-auf-a48/1/",
-   "postedAt": "2026-11-24T09:12:00+01:00",
-   "format": "feed"
-  },
-  {
-   "id": "neuwied-orange-day-2026-11-25",
-   "quelle": "Stadt Neuwied / Runder Tisch gegen Gewalt (PM 23.11.2026)",
-   "url": "https://www.nr-kurier.de/artikel/178650-neuwied-setzt-am-orange-day-ein-zeichen-gegen-gewalt-an-frauen",
-   "postedAt": "2026-11-24T11:15:00+01:00",
-   "format": "story"
-  },
-  {
-   "id": "koblenz-gruenschnitt-geschlossen-2026-11-26",
-   "quelle": "Stadt Koblenz",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261120-gruenschnittkompostieranlage-am-26-november-geschlossen/",
-   "postedAt": "2026-11-24T11:15:00+01:00",
-   "format": "story"
-  },
-  {
-   "id": "pdnr-6397006-raiffeisenbruecke-kontrollen",
-   "quelle": "Polizeidirektion Neuwied/Rhein",
-   "url": "https://www.presseportal.de/blaulicht/pm/117709/6397006",
-   "postedAt": "2026-11-24T13:06:00+01:00",
-   "format": "story"
-  },
-  {
-   "id": "koblenz-pfaffendorfer-bruecke-nachtsperrung-2026-11-26",
-   "quelle": "Stadt Koblenz (PM 23.11.2026)",
-   "url": "https://ben-kurier.de/pfaffendorfer-bruecke-nachts-voll-gesperrt/",
-   "postedAt": "2026-11-24T15:10:34+01:00",
-   "format": "story"
-  },
-  {
-   "id": "pdko-6397188-carportbrand-miesenheim",
-   "quelle": "Polizeidirektion Koblenz / PI Andernach",
-   "url": "https://www.presseportal.de/blaulicht/pm/117712/6397188",
-   "postedAt": "2026-11-24T16:10:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "neuwied-schulbezirke-heddesdorf-2029",
-   "quelle": "Stadt Neuwied (Pressemitteilung, via NR-Kurier)",
-   "url": "https://www.nr-kurier.de/artikel/178694-neuwied-will-schulbezirke-in-heddesdorf-ab-2029-neu-ordnen",
-   "postedAt": "2026-11-24T17:10:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "vg-rengsdorf-hausarztpraxis-strassenhaus",
-   "quelle": "VG Rengsdorf-Waldbreitbach (Pressemitteilung, via NR-Kurier)",
-   "url": "https://www.nr-kurier.de/artikel/178678-neue-hausarztpraxis-in-strassenhaus-erhaelt-foerderung",
-   "postedAt": "2026-11-24T17:10:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "dwd-glaette-nacht-2026-11-25",
-   "quelle": "Deutscher Wetterdienst (via dpa/AK-Kurier)",
-   "url": "https://www.ak-kurier.de/akkurier/www/artikel/178669-kaeltewelle-in-rheinland-pfalz--glaette-moeglich",
-   "postedAt": "2026-11-24T18:15:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "hzako-6396714-zoll-pakete-blackfriday",
-   "quelle": "Hauptzollamt Koblenz",
-   "url": "https://www.presseportal.de/blaulicht/pm/121250/6396714",
-   "postedAt": "2026-11-24T18:15:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "koblenz-taschendiebstahl-praevention-2026-12-02",
-   "quelle": "Stadt Koblenz / Polizei (PM 24.11.2026)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-sicher-durch-die-adventszeit-koblenz-setzt-zeichen-gegen-taschendiebstahl/",
-   "postedAt": "2026-11-24T19:20:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "neuwied-stadtgespraech-demokratie-2026-11-28",
-   "quelle": "Bündnis für Demokratie und Toleranz Neuwied (via NR-Kurier, Fakten neu formuliert)",
-   "url": "https://www.nr-kurier.de/artikel/178665-neuwied-laedt-zum-stadtgespraech-fuer-demokratie-und-toleranz",
-   "postedAt": "2026-11-25T06:09:41+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-stadtgespraech-neuwied.png",
-    "public/social/2026-11-28-stadtgespraech-neuwied-story.png"
-   ]
-  },
-  {
-   "id": "pdko-6397289-unfallflucht-andernach-aktienstrasse",
-   "quelle": "Polizeidirektion Koblenz / PI Andernach",
-   "url": "https://www.presseportal.de/blaulicht/pm/117712/6397289",
-   "postedAt": "2026-11-25T07:20:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "rueckruf-globus-kartoffeln-les-rouges-2026-11",
-   "quelle": "Globus Markthallen / lebensmittelwarnung.de",
-   "url": "https://www.food-monitor.de/2026/11/rueckruf-glykoalkaloide-globus-gold-les-rouges/",
-   "postedAt": "2026-11-25T08:12:00+01:00",
-   "format": "feed+story"
-  },
-  {
-   "id": "k23-rheinbreitbach-b42-badhoenningen-brueckenpruefung-2026-11-26",
-   "quelle": "Verkehrswarndienst RLP / Landesbetrieb Mobilität (via verkehrslage.de, NR-Kurier)",
-   "url": "https://www.verkehrslage.de/ort/rheinbreitbach",
-   "postedAt": "2026-11-25T09:30:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   },
-   "bilder": [
-    "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung.png",
-    "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-drei-fragezeichen-lesung-2026-12-01",
-   "quelle": "Stadt Koblenz (PM 24.11.2026)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-christoph-dittert-liest-aus-die-drei-in-der-stadtbibliothek/",
-   "postedAt": "2026-11-25T11:20:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
-   },
-   "bilder": [
-    "public/social/2026-12-01-drei-fragezeichen-lesung-koblenz.png",
-    "public/social/2026-12-01-drei-fragezeichen-lesung-koblenz-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-stadtradeln-ergebnis-2026",
-   "quelle": "Stadt Koblenz (PM 24.11.2026)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261224-stadtradeln-2026-koblenz-zeichnet-die-erfolgreichsten-teams-aus/",
-   "postedAt": "2026-11-25T11:20:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/ki-fahrrad-ufer.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   },
-   "bilder": [
-    "public/social/2026-11-25-stadtradeln-koblenz-ergebnis.png",
-    "public/social/2026-11-25-stadtradeln-koblenz-ergebnis-story.png"
-   ]
-  },
-  {
-   "id": "bendorf-horchemsweg-sperrung-2026-11-26",
-   "quelle": "Stadt Bendorf (25.11.2026)",
-   "url": "https://www.bendorf.de/stadt-buerger/aktuelles/hubschrauberfluege-am-bikepark-horchemsweg-am-26-november-gesperrt/",
-   "postedAt": "2026-11-25T12:55:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/symbol-forstweg.jpg",
-    "urheber": "Lugrund",
-    "lizenz": "CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:2024_Luttergrund_P20303.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-26-bendorf-horchemsweg-gesperrt.png",
-    "public/social/2026-11-26-bendorf-horchemsweg-gesperrt-story.png"
-   ]
-  },
-  {
-   "id": "andernach-hochwasserschutzwand-probe-2026-12-01",
-   "quelle": "Stadt Andernach (24.11.2026)",
-   "url": "https://www.andernach.de/aktuelles/aktuelle-meldungen/probeaufbau-hochwasserschutzwand-2026/",
-   "postedAt": "2026-11-25T12:55:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/andernach-rheinanlagen-konrad-adenauer-allee.jpg",
-    "urheber": "Frank Vincentz",
-    "lizenz": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Andernach_-_Konrad-Adenauer-Allee_-_Rheinanlagen_04_ies.jpg"
-   },
-   "bilder": [
-    "public/social/2026-12-01-andernach-hochwasserschutzwand-probe.png",
-    "public/social/2026-12-01-andernach-hochwasserschutzwand-probe-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-late-night-shopping-2026-11-27",
-   "quelle": "Stadt Koblenz / Koblenz-Stadtmarketing",
-   "url": "https://www.koblenz.de/aktuelles/late-night-shopping-2026/",
-   "postedAt": "2026-11-25T12:55:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/koblenz-innenstadt-einkaufsstrasse.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Evakuierung_03_Koblenz_2011.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-27-koblenz-late-night-shopping.png",
-    "public/social/2026-11-27-koblenz-late-night-shopping-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-heiligenweg-vollsperrung-2026-12-07",
-   "quelle": "Stadt Koblenz",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-vollsperrung-im-heiligenweg-wegen-einhub-einer-hilfsbruecke-der-bahn/",
-   "postedAt": "2026-11-25T13:08:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/koblenz-moselweiss-bahnhalt.jpg",
-    "urheber": "Christian Liebscher",
-    "lizenz": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Clp_20140821_2862_Hp_Koblenz-Moselwei%C3%9F_Bstg.jpg"
-   },
-   "bilder": [
-    "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung.png",
-    "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung-story.png"
-   ]
-  },
-  {
-   "id": "pfaffendorfer-bruecke-stahlbau-geschlossen-2026-11-24",
-   "quelle": "Lebendiges Neuwied (Bericht 25.11.2026)",
-   "url": "https://www.lebendiges-neuwied.de/News-Pfaffendorfer-Bruecke-Die-letzten-Stahlbauteile-sind-eingehoben-item-9354.html",
-   "postedAt": "2026-11-25T17:25:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/pfaffendorfer-bruecke-koblenz-2014.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Pfaffendorfer_Br%C3%BCcke_01_Koblenz_2014.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-25-pfaffendorfer-bruecke-stahlbau-komplett.png",
-    "public/social/2026-11-25-pfaffendorfer-bruecke-stahlbau-komplett-story.png"
-   ]
-  },
-  {
-   "id": "oberbieber-weihnachtsmarkt-schwanenteich-2026-12-05",
-   "quelle": "Lebendiges Neuwied (25.11.2026)",
-   "url": "https://lebendiges-neuwied.de/News-vier-dot-Oberbieberer-Weihnachtsmarkt-am-Schwanenteich-zwei-Tage-voller-Weihnachtsza-item-9348.html",
-   "postedAt": "2026-11-25T17:25:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   },
-   "bilder": [
-    "public/social/2026-12-05-oberbieber-weihnachtsmarkt-schwanenteich.png",
-    "public/social/2026-12-05-oberbieber-weihnachtsmarkt-schwanenteich-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-gulisastrasse-guels-vollsperrung-2026-12-07",
-   "quelle": "Stadt Koblenz (PM 24.11.2026)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-ausbau-der-gulisastrasse-in-guels-baubeginn-des-vierten-bauabschnittes-steht-bevor/",
-   "postedAt": "2026-11-25T17:25:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   },
-   "bilder": [
-    "public/social/2026-12-07-koblenz-gulisastrasse-vollsperrung.png",
-    "public/social/2026-12-07-koblenz-gulisastrasse-vollsperrung-story.png"
-   ]
-  },
-  {
-   "id": "neuwied-buergerbus-weihnachtspause-2026",
-   "quelle": "Lebendiges Neuwied (25.11.2026)",
-   "url": "https://www.lebendiges-neuwied.de/News-Neuwieder-Buergerbus-legt-Weihnachtspause-ein-item-9355.html",
-   "postedAt": "2026-11-25T17:25:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/ki-bushaltestelle-winter.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   },
-   "bilder": [
-    "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause.png",
-    "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-christmas-garden-ehrenbreitstein-2026",
-   "quelle": "News Koblenz (23.11.2026)",
-   "url": "https://news-koblenz.de/christmas-garden-koblenz-startet-mit-premierenfeier-in-die-sechste-saison_57661.html",
-   "postedAt": "2026-11-25T18:15:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/festung-ehrenbreitstein-koblenz.jpg",
-    "urheber": "Dmitry Tonkonog and Ksenia Fedosova",
-    "lizenz": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:20130826_Festung_Ehrenbreitstein_02.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-25-christmas-garden-ehrenbreitstein.png",
-    "public/social/2026-11-25-christmas-garden-ehrenbreitstein-story.png"
-   ]
-  },
-  {
-   "id": "waldbreitbach-weihnachtsdorf-start-2026-11-27",
-   "quelle": "Lebendiges Neuwied (25.11.2026)",
-   "url": "https://www.lebendiges-neuwied.de/News-Weihnachten-in-Waldbreitbach-kann-kommen-item-9351.html",
-   "postedAt": "2026-11-25T18:15:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/waldbreitbach-kreuzkapelle.jpg",
-    "urheber": "RomkeHoekstra",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Waldbreitbach_(D%C3%BAtsl%C3%A2n),_Kr%C3%BAskapel_1.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-27-waldbreitbach-weihnachtsdorf.png",
-    "public/social/2026-11-27-waldbreitbach-weihnachtsdorf-story.png"
-   ]
-  },
-  {
-   "id": "neuwied-engers-nussknackermarkt-2026-11-28",
-   "quelle": "NR-Kurier (25.11.2026)",
-   "url": "https://www.nr-kurier.de/artikel/178750-nussknackermarkt-in-engers--vorfreude-und-verkehrsaenderungen",
-   "postedAt": "2026-11-25T19:40:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/schloss-engers-tor.jpg",
-    "urheber": "GFreihalter",
-    "lizenz": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Engers_Schloss_76.JPG"
-   },
-   "bilder": [
-    "public/social/2026-11-28-nussknackermarkt-engers.png",
-    "public/social/2026-11-28-nussknackermarkt-engers-story.png"
-   ]
-  },
-  {
-   "id": "bendorf-regiohub-eroeffnung-2026-12-02",
-   "quelle": "Stadt Bendorf (19.11.2026)",
-   "url": "https://www.bendorf.de/stadt-buerger/aktuelles/regiohub-bendorf-oeffnet-seine-tueren/",
-   "postedAt": "2026-11-25T19:40:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/bendorf-st-medardus.jpg",
-    "urheber": "Chris06",
-    "lizenz": "CC0",
-    "url": "https://commons.wikimedia.org/wiki/File:St._Medardus_(Bendorf)2.JPG"
-   },
-   "bilder": [
-    "public/social/2026-12-02-regiohub-bendorf.png",
-    "public/social/2026-12-02-regiohub-bendorf-story.png"
-   ]
-  },
-  {
-   "id": "pdnr-6398058-ueberholmanoever-l266-urbach",
-   "quelle": "Polizeidirektion Neuwied (25.11.2026)",
-   "url": "https://www.presseportal.de/blaulicht/pm/117709/6398058",
-   "postedAt": "2026-11-25T21:15:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-25-urbach-l266-ueberholmanoever.png",
-    "public/social/2026-11-25-urbach-l266-ueberholmanoever-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-adventskalender-rathausdach-2026",
-   "quelle": "Stadt Koblenz via Lebendiges Neuwied (06.11.2026)",
-   "url": "https://lebendiges-neuwied.de/News-vierundzwanzig-leuchtende-Tuerchen-am-Rathausdach-item-9245.html",
-   "postedAt": "2026-11-25T22:40:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-01-koblenz-adventskalender-rathausdach.png",
-    "public/social/2026-12-01-koblenz-adventskalender-rathausdach-2.png",
-    "public/social/2026-12-01-koblenz-adventskalender-rathausdach-3.png",
-    "public/social/2026-12-01-koblenz-adventskalender-rathausdach-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   }
-  },
-  {
-   "id": "koblenz-bunter-nachmittag-karneval-2027-01-10",
-   "quelle": "Stadt Koblenz (PM 25.11.2026)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-bunter-nachmittag-fuer-alt-und-jung/",
-   "postedAt": "2026-11-26T06:20:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
-   },
-   "bilder": [
-    "public/social/2027-01-10-bunter-nachmittag-koblenz.png",
-    "public/social/2027-01-10-bunter-nachmittag-koblenz-2.png",
-    "public/social/2027-01-10-bunter-nachmittag-koblenz-3.png",
-    "public/social/2027-01-10-bunter-nachmittag-koblenz-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-poetikdozentur-brandt-2026-12-03",
-   "quelle": "Stadt Koblenz (PM 25.11.2026)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-matthias-brandt-ist-joseph-breitbach-poetikdozent-2026/",
-   "postedAt": "2026-11-26T07:30:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/theater-koblenz-laternen.jpg",
-    "urheber": "Thomas Hummel",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Theater_(Koblenz)_01.jpg"
-   },
-   "bilder": [
-    "public/social/2026-12-03-poetikdozentur-koblenz.png",
-    "public/social/2026-12-03-poetikdozentur-koblenz-2.png",
-    "public/social/2026-12-03-poetikdozentur-koblenz-3.png",
-    "public/social/2026-12-03-poetikdozentur-koblenz-story.png"
-   ]
-  },
-  {
-   "id": "ihk-bestenehrung-kreis-neuwied-2026",
-   "quelle": "IHK Koblenz via Lebendiges Neuwied (25.11.2026)",
-   "url": "https://www.lebendiges-neuwied.de/News-einunddreissig-Spitzen-Azubis-aus-dem-Landkreis-Neuwied-ausgezeichnet-item-9349.html",
-   "postedAt": "2026-11-26T07:30:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied.png",
-    "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-2.png",
-    "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-3.png",
-    "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-story.png"
-   ]
-  },
-  {
-   "id": "bendorf-huettenzauber-sayner-huette-2026-12-11",
-   "quelle": "Stiftung Sayner Hütte via news-koblenz.de (25.11.2026)",
-   "url": "https://news-koblenz.de/weihnachtlicher-huettenzauber-verzaubert-wieder-die-sayner-huette_57705.html",
-   "postedAt": "2026-11-26T08:25:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/sayner-huette-giesshalle-innen.jpg",
-    "urheber": "Marion Halft",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:2019_Giesshalle_Sayner_H%C3%BCtte_(02).jpg"
-   },
-   "bilder": [
-    "public/social/2026-12-11-huettenzauber-sayner-huette.png",
-    "public/social/2026-12-11-huettenzauber-sayner-huette-2.png",
-    "public/social/2026-12-11-huettenzauber-sayner-huette-3.png",
-    "public/social/2026-12-11-huettenzauber-sayner-huette-4.png",
-    "public/social/2026-12-11-huettenzauber-sayner-huette-story.png"
-   ]
-  },
-  {
-   "id": "neuwied-feldkirchen-fahr-advent-2026-11-28",
-   "quelle": "Antenne Koblenz (Angaben treffpunkt-feldkirchen.de)",
-   "url": "https://antenne-koblenz.de/feldkirchen-leuchtet-adventsmarkt-mit-lichterumzug-am-28-november/",
-   "postedAt": "2026-11-26T09:20:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-advent-feldkirchen-fahr.png",
-    "public/social/2026-11-28-advent-feldkirchen-fahr-2.png",
-    "public/social/2026-11-28-advent-feldkirchen-fahr-3.png",
-    "public/social/2026-11-28-advent-feldkirchen-fahr-4.png",
-    "public/social/2026-11-28-advent-feldkirchen-fahr-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   }
-  },
-  {
-   "id": "andernach-burg-namedy-weihnachtszauber-2026-11-28",
-   "quelle": "Schloss Burg Namedy (via Lebendiges Neuwied)",
-   "url": "https://lebendiges-neuwied.de/News-Weihnachtszauber-in-und-um-das-Schloss-Burg-Namedy-herum-item-9279.html",
-   "postedAt": "2026-11-26T10:17:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-burg-namedy-weihnachtszauber.png",
-    "public/social/2026-11-28-burg-namedy-weihnachtszauber-2.png",
-    "public/social/2026-11-28-burg-namedy-weihnachtszauber-3.png",
-    "public/social/2026-11-28-burg-namedy-weihnachtszauber-4.png",
-    "public/social/2026-11-28-burg-namedy-weihnachtszauber-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/andernach-burg-namedy.jpg",
-    "urheber": "Frank Vincentz",
-    "lizenz": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Andernach_-_Schlossstra%C3%9Fe_-_Schloss%2BPark_Burg_Namedy_02_ies.jpg"
-   }
-  },
-  {
-   "id": "neuwied-roentgen-museum-80-jahreskunstausstellung-2026-11-28",
-   "quelle": "Kreis Neuwied / Roentgen-Museum (via NR-Kurier)",
-   "url": "https://www.nr-kurier.de/artikel/178578-80-jahre-kunst-im-roentgen-museum-neuwied",
-   "postedAt": "2026-11-26T10:17:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung.png",
-    "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-2.png",
-    "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-3.png",
-    "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-4.png",
-    "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/neuwied-roentgen-museum.jpg",
-    "urheber": "tohma (Photo), Olaf Höhnen (Well)",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Roentgen-Museum_Neuwied.jpg"
-   }
-  },
-  {
-   "id": "sgdnord-weihnachtsmarkt-gaskontrolle-2026",
-   "quelle": "SGD Nord (via NR-Kurier)",
-   "url": "https://www.nr-kurier.de/artikel/178790-weihnachtsmarkt-kontrollen--maengel-in-koblenz--gutes-ergebnis-in-neuwied",
-   "postedAt": "2026-11-26T13:20:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle.png",
-    "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-2.png",
-    "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-3.png",
-    "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-4.png",
-    "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   }
-  },
-  {
-   "id": "kreis-nr-baumausgabe-515-obstbaeume-2026",
-   "quelle": "Kreisverwaltung Neuwied (via Lebendiges Neuwied)",
-   "url": "https://www.lebendiges-neuwied.de/News-Baeumchen-Wechsel-Dich-ist-nicht-nur-Kinderspiel-item-9362.html",
-   "postedAt": "2026-11-26T14:25:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-26-baumausgabe-kreis-neuwied.png",
-    "public/social/2026-11-26-baumausgabe-kreis-neuwied-2.png",
-    "public/social/2026-11-26-baumausgabe-kreis-neuwied-3.png",
-    "public/social/2026-11-26-baumausgabe-kreis-neuwied-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/obstwiese-herbst.jpg",
-    "urheber": "liz west",
-    "lizenz": "CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Autumn_at_Nagog_Hill_Orchard.jpg"
-   }
-  },
-  {
-   "id": "koblenz-guels-blaeserklasse-erwachsene-info-2026-11-28",
-   "quelle": "Musikverein St. Servatius Güls / Stadt Koblenz (via Antenne Koblenz, 06.11.2026)",
-   "url": "https://antenne-koblenz.de/trompete-posaune-klarinette-guels-startet-blaeserklasse-fuer-erwachsene/",
-   "postedAt": "2026-11-26T15:20:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/blechblas-instrumente.jpg",
-    "urheber": "Garry Knight from London, England",
-    "lizenz": "CC BY-SA 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Where_There%27s_Brass_(photo_by_Garry_Knight).jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-28-guels-blaeserklasse-erwachsene.png",
-    "public/social/2026-11-28-guels-blaeserklasse-erwachsene-2.png",
-    "public/social/2026-11-28-guels-blaeserklasse-erwachsene-3.png",
-    "public/social/2026-11-28-guels-blaeserklasse-erwachsene-story.png"
-   ]
-  },
-  {
-   "id": "neuwied-familiengrundschulzentren-2026-11-26",
-   "quelle": "Stadt Neuwied, Pressemitteilung 26.11.2026 (via NR-Kurier)",
-   "url": "https://www.nr-kurier.de/artikel/178799-neuwied-baut-drei-familiengrundschulzentren-auf",
-   "postedAt": "2026-11-26T16:10:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/klassenzimmer-grundschule.jpg",
-    "urheber": "Abaddon1337",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Orbe_-_Chantemerle_-_salle_de_classe_2.jpg",
-    "bearbeitet": "links beschnitten (Bildschirm mit Personen entfernt)"
-   },
-   "bilder": [
-    "public/social/2026-11-26-neuwied-familiengrundschulzentren.png",
-    "public/social/2026-11-26-neuwied-familiengrundschulzentren-2.png",
-    "public/social/2026-11-26-neuwied-familiengrundschulzentren-3.png",
-    "public/social/2026-11-26-neuwied-familiengrundschulzentren-4.png",
-    "public/social/2026-11-26-neuwied-familiengrundschulzentren-story.png"
-   ]
-  },
-  {
-   "id": "bendorf-weihnachtsmarkt-2026-12-04",
-   "quelle": "Stadt Bendorf (17.11.2026)",
-   "url": "https://www.bendorf.de/stadt-buerger/aktuelles/bendorfer-weihnachtsmarkt-2026-neue-marktbereiche-vertraute-adventsstimmung/",
-   "postedAt": "2026-11-26T17:25:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/bendorf-st-medardus.jpg",
-    "urheber": "Chris06",
-    "lizenz": "CC0",
-    "url": "https://commons.wikimedia.org/wiki/File:St._Medardus_(Bendorf)2.JPG"
-   },
-   "bilder": [
-    "public/social/2026-12-04-bendorfer-weihnachtsmarkt.png",
-    "public/social/2026-12-04-bendorfer-weihnachtsmarkt-2.png",
-    "public/social/2026-12-04-bendorfer-weihnachtsmarkt-3.png",
-    "public/social/2026-12-04-bendorfer-weihnachtsmarkt-4.png",
-    "public/social/2026-12-04-bendorfer-weihnachtsmarkt-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-kulturehrennadel-2026",
-   "quelle": "Stadt Koblenz, Pressemitteilung (25.11.2026)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-kulturehrennadel-2026/",
-   "postedAt": "2026-11-26T18:11:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-26-koblenz-kulturehrennadel.png",
-    "public/social/2026-11-26-koblenz-kulturehrennadel-2.png",
-    "public/social/2026-11-26-koblenz-kulturehrennadel-3.png",
-    "public/social/2026-11-26-koblenz-kulturehrennadel-story.png"
-   ]
-  },
-  {
-   "id": "koblenz-ehrenbreitstein-daehler-nikolausmarkt-2026-11-28",
-   "quelle": "Antenne Koblenz (19.11.2026)",
-   "url": "https://antenne-koblenz.de/daehler-nikolausmarkt-auf-dem-kapuzinerplatz-advent-in-ehrenbreitstein/",
-   "postedAt": "2026-11-26T19:11:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/festung-ehrenbreitstein-koblenz.jpg",
-    "urheber": "Dmitry Tonkonog and Ksenia Fedosova",
-    "lizenz": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:20130826_Festung_Ehrenbreitstein_02.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-28-daehler-nikolausmarkt.png",
-    "public/social/2026-11-28-daehler-nikolausmarkt-2.png",
-    "public/social/2026-11-28-daehler-nikolausmarkt-3.png",
-    "public/social/2026-11-28-daehler-nikolausmarkt-4.png",
-    "public/social/2026-11-28-daehler-nikolausmarkt-story.png"
-   ]
-  },
-  {
-   "id": "vallendar-weihnachtsmarkt-2026-11-28",
-   "quelle": "Antenne Koblenz (14.11.2026)",
-   "url": "https://antenne-koblenz.de/vallendar-laedt-zum-weihnachtsmarkt-rund-um-rathausplatz-und-hellenstrasse/",
-   "postedAt": "2026-11-26T20:11:00+01:00",
-   "format": "feed+story",
-   "foto": {
-    "datei": "public/social/fotos/vallendar-rheinufer.jpg",
-    "urheber": "LigaDue",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Vallendar1.jpg"
-   },
-   "bilder": [
-    "public/social/2026-11-28-vallendarer-weihnachtsmarkt.png",
-    "public/social/2026-11-28-vallendarer-weihnachtsmarkt-2.png",
-    "public/social/2026-11-28-vallendarer-weihnachtsmarkt-3.png",
-    "public/social/2026-11-28-vallendarer-weihnachtsmarkt-story.png"
-   ]
-  },
-  {
-   "id": "ppko-6398824-vermisst-neuwied-75-jaehrige",
-   "quelle": "Polizeipräsidium Koblenz",
-   "url": "https://www.presseportal.de/blaulicht/pm/117715/6398824",
-   "postedAt": "2026-11-26T21:10:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-26-vermisst-neuwied-75-jaehrige.png",
-    "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-2.png",
-    "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-3.png",
-    "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-4.png",
-    "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/neuwied-bahnhof.jpg",
-    "urheber": "Tohma",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Neuwied_Bahnhof.jpg"
-   },
-   "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen",
-   "bufferIds": {
-    "feed": "6b089217f0a96d0f2189449b",
-    "story": "6b0892223accdac92cf8f5c2"
-   },
-   "status": "Fahndung beendet (Frau wohlbehalten angetroffen, Polizei-Nachtrag lt. WW-Kurier 27.11.2026 09:55) – Buffer-Löschen nicht möglich (bereits gesendet), Wladi am 27.11. per Push gebeten, auf Instagram manuell zu löschen"
-  },
-  {
-   "id": "kreisnr-l87-rheinbrohl-vollsperrung-2026-12-04",
-   "quelle": "Kreisverwaltung Neuwied (Straßensperrungen)",
-   "url": "https://www.kreis-neuwied.de/aktuelles/wichtige-hinweise/aktuelle-strassensperrungen-im-landkreis-neuwied/",
-   "postedAt": "2026-11-27T06:12:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-04-l87-rheinbrohl-vollsperrung.png",
-    "public/social/2026-12-04-l87-rheinbrohl-vollsperrung-2.png",
-    "public/social/2026-12-04-l87-rheinbrohl-vollsperrung-3.png",
-    "public/social/2026-12-04-l87-rheinbrohl-vollsperrung-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/rheinbrohl-faehrstrasse-unterfuehrung.jpg",
-    "urheber": "GeorgDerReisende",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:F%C3%A4hrstra%C3%9Fe,_2,_Rheinbrohl,_Landkreis_Neuwied.jpg"
-   },
-   "buffer": {
-    "feed": "6b091143062ed764a8e6b961",
-    "story": "6b09114e658222306ce3f63d"
-   }
-  },
-  {
-   "id": "vrm-koblenz-weihnachtsmarkt-gratis-adventssonntage-2026",
-   "quelle": "Verkehrsverbund Rhein-Mosel / Stadt Koblenz (Pressemeldung)",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261126-an-und-abreise-zum-koblenzer-weihnachtsmarkt/",
-   "postedAt": "2026-11-27T07:11:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn.png",
-    "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-2.png",
-    "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-3.png",
-    "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-4.png",
-    "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/koblenz-rathaus-weihnachtsmarkt.jpg",
-    "urheber": "Corradox",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Koblenz_Rathaus-Weihnachtsmarkt.jpg"
-   },
-   "buffer": {
-    "feed": "6b091f17062ed764a8ebee69",
-    "story": "6b091f22062ed764a8ebef6d"
-   }
-  },
-  {
-   "id": "kreisnr-rechte-rheinstrecke-oberleitung-strom-2026-11-30",
-   "quelle": "Kreisverwaltung Neuwied (Pressemitteilung) / Deutsche Bahn",
-   "url": "https://www.kreis-neuwied.de/aktuelles/presse/korridorsanierung-rechter-rhein/",
-   "postedAt": "2026-11-27T08:20:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom.png",
-    "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-2.png",
-    "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-3.png",
-    "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/bahnstrecke-oberleitung-zweigleisig.jpg",
-    "urheber": "Falk2",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:I09_441_Systemtrennstelle.jpg"
-   },
-   "buffer": {
-    "feed": "6b092d00e94385a8fd818ec9",
-    "story": "6b092d0b1fd46e62e7204887"
-   }
-  },
-  {
-   "id": "wochenende-2026-11-28-12-tipps",
-   "quelle": "Städte, Vereine und Veranstalter (aus bereits gelesenen Quellen)",
-   "url": "",
-   "postedAt": "2026-11-27T08:45:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-dein-wochenende-12-tipps.png",
-    "public/social/2026-11-28-dein-wochenende-12-tipps-2.png",
-    "public/social/2026-11-28-dein-wochenende-12-tipps-3.png",
-    "public/social/2026-11-28-dein-wochenende-12-tipps-4.png",
-    "public/social/2026-11-28-dein-wochenende-12-tipps-5.png",
-    "public/social/2026-11-28-dein-wochenende-12-tipps-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/koblenz-rathaus-weihnachtsmarkt.jpg",
-    "urheber": "Corradox",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Koblenz_Rathaus-Weihnachtsmarkt.jpg"
-   },
-   "buffer": {
-    "feed": "6b092df8776ce21276f59572",
-    "story": "6b092e04658222306cef63eb"
-   }
-  },
-  {
-   "id": "kreisnr-lernpaten-keiner-darf-verloren-gehen-2026-12-18",
-   "quelle": "Kreisverwaltung Neuwied (via Lebendiges Neuwied)",
-   "url": "https://www.lebendiges-neuwied.de/News-Kindern-ein-wenig-Zeit-schenken-item-9366.html",
-   "postedAt": "2026-11-27T10:40:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-27-lernpaten-kreis-neuwied.png",
-    "public/social/2026-11-27-lernpaten-kreis-neuwied-2.png",
-    "public/social/2026-11-27-lernpaten-kreis-neuwied-3.png",
-    "public/social/2026-11-27-lernpaten-kreis-neuwied-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/klassenzimmer-grundschule.jpg",
-    "urheber": "Abaddon1337",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Orbe_-_Chantemerle_-_salle_de_classe_2.jpg"
-   },
-   "buffer": {
-    "feed": "6b094962776ce2127601c38a",
-    "story": "6b09496de94385a8fd8e2ee1"
-   }
-  },
-  {
-   "id": "pdnr-6399026-bad-hoenningen-kontrolle-polizei-ordnungsamt",
-   "quelle": "Polizeidirektion Neuwied / PI Linz",
-   "url": "https://www.presseportal.de/blaulicht/pm/117709/6399026",
-   "postedAt": "2026-11-27T11:35:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt.png",
-    "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-2.png",
-    "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-3.png",
-    "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-4.png",
-    "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/bad-hoenningen-rathaus.jpg",
-    "urheber": "Raimond Spekking",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Rathaus_Bad_H%C3%B6nningen-075716.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b0957451fd46e62e7338d9a",
-    "story": "6b09574f776ce21276083eb5"
-   }
-  },
-  {
-   "id": "koblenz-lebendiger-advent-schlossstrasse-2026-12-01",
-   "quelle": "Johanniter Mittelrhein (via News Koblenz, 27.11.2026)",
-   "url": "https://news-koblenz.de/lebendiger-advent-in-der-koblenzer-schlossstrasse_57760.html",
-   "postedAt": "2026-11-27T12:18:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz.png",
-    "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-2.png",
-    "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-3.png",
-    "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-4.png",
-    "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/koblenz-innenstadt-einkaufsstrasse.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Evakuierung_03_Koblenz_2011.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b0966eb049983dcfbb2f574",
-    "story": "6b0966f61fd46e62e73a6ae0"
-   }
-  },
-  {
-   "id": "lahnstein-nikolausmarkt-theatervorplatz-2026-12-04",
-   "quelle": "News Koblenz (23.11.2026)",
-   "url": "https://news-koblenz.de/nikolausmarkt-bringt-weihnachtszauber-auf-den-theatervorplatz-in-lahnstein_57634.html",
-   "postedAt": "2026-11-27T12:18:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-04-nikolausmarkt-lahnstein.png",
-    "public/social/2026-12-04-nikolausmarkt-lahnstein-2.png",
-    "public/social/2026-12-04-nikolausmarkt-lahnstein-3.png",
-    "public/social/2026-12-04-nikolausmarkt-lahnstein-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/lahnstein-altes-rathaus.jpg",
-    "urheber": "Uwe Barghaan",
-    "lizenz": "CC BY 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Oberlahnstein_Rathaus.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b0966ff776ce212760f7e70",
-    "story": "6b09670a658222306c08e406"
-   }
-  },
-  {
-   "id": "neuwied-minski-dezember-2026",
-   "quelle": "Stadt Neuwied / News Koblenz",
-   "url": "https://news-koblenz.de/noch-fuenf-mal-minski-in-diesem-jahr_57755.html",
-   "postedAt": "2026-11-27T13:45:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-02-neuwied-minski-dezember.png",
-    "public/social/2026-12-02-neuwied-minski-dezember-2.png",
-    "public/social/2026-12-02-neuwied-minski-dezember-3.png",
-    "public/social/2026-12-02-neuwied-minski-dezember-4.png",
-    "public/social/2026-12-02-neuwied-minski-dezember-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/kinosaal-vorhang.jpg",
-    "urheber": "Back ache",
-    "lizenz": "CC0",
-    "url": "https://commons.wikimedia.org/wiki/File:Alhambra_Cinema_Keswick_main_auditorium.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b097447e94385a8fda1ae9a",
-    "story": "6b097453776ce2127615efe8"
-   }
-  },
-  {
-   "id": "wwk-fuehrerschein-umtausch-online-2027-01-19",
-   "quelle": "Kreisverwaltung Westerwaldkreis",
-   "url": "https://www.westerwaldkreis.de/aktuelles/presse/pressemitteilungen/2026/november/fuehrerscheinumtausch-jetzt-bequem-online-betragen/",
-   "postedAt": "2026-11-27T14:35:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online.png",
-    "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-2.png",
-    "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-3.png",
-    "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-4.png",
-    "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/montabaur-kreisverwaltung.jpg",
-    "urheber": "el_tommo",
-    "lizenz": "CC0",
-    "url": "https://commons.wikimedia.org/wiki/File:Kreisverwaltung_Montabaur.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b09827c1fd46e62e7481507",
-    "story": "6b098286e94385a8fda8c508"
-   }
-  },
-  {
-   "id": "ppko-6399427-vermisst-mayen-89-jaehrige",
-   "quelle": "Polizeipräsidium Koblenz",
-   "url": "https://www.presseportal.de/blaulicht/pm/117715/6399427",
-   "postedAt": "2026-11-27T15:40:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-27-vermisst-mayen-89-jaehrige.png",
-    "public/social/2026-11-27-vermisst-mayen-89-jaehrige-2.png",
-    "public/social/2026-11-27-vermisst-mayen-89-jaehrige-3.png",
-    "public/social/2026-11-27-vermisst-mayen-89-jaehrige-4.png",
-    "public/social/2026-11-27-vermisst-mayen-89-jaehrige-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/mayen-genovevaburg.jpg",
-    "urheber": "onnola",
-    "lizenz": "CC BY-SA 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Genovevaburg_05.jpg"
-   },
-   "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen bzw. Wladi melden",
-   "bufferIds": {
-    "feed": "6b09909632c212878fd7a9ea",
-    "story": "6b0990a132c212878fd7af93"
-   },
-   "status": "Fahndung erledigt (PP Koblenz, Erledigung 27.11.2026 23:06, pm 6399589) – Buffer-Löschen nicht möglich (bereits gesendet), Wladi am 28.11. per Push gebeten, auf Instagram manuell zu löschen"
-  },
-  {
-   "id": "neuwied-irlich-weihnachtsmarkt-2026-12-04",
-   "quelle": "NR-Kurier (27.11.2026)",
-   "url": "https://www.nr-kurier.de/artikel/178843-irlicher-weihnachtsmarkt-laedt-zum-festlichen-beisammensein-ein",
-   "postedAt": "2026-11-27T16:20:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-04-irlicher-weihnachtsmarkt.png",
-    "public/social/2026-12-04-irlicher-weihnachtsmarkt-2.png",
-    "public/social/2026-12-04-irlicher-weihnachtsmarkt-3.png",
-    "public/social/2026-12-04-irlicher-weihnachtsmarkt-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/neuwied-irlich-st-peter-paul.jpg",
-    "urheber": "Michielverbeek",
-    "lizenz": "CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Neuwied-Irlich,_Pfarrkirche_Sankt_Peter_und_Paul_Dm_met_spoorbrug_over_de_Wied_vanaf_Andernach_IMG_2353_2024-06-01_13.08.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b099dc434d224b14a931f49",
-    "story": "6b099dcf015034238d37efe8"
-   }
-  },
-  {
-   "id": "koblenz-torhaus-fort-asterstein-2026-12-06",
-   "quelle": "Stadt Koblenz",
-   "url": "https://www.lebendiges-neuwied.de/News-Torhaus-am-Fort-Asterstein-wird-am-Nikolaussonntag-eroeffnet-item-9372.html",
-   "postedAt": "2026-11-27T17:12:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-06-koblenz-torhaus-fort-asterstein.png",
-    "public/social/2026-12-06-koblenz-torhaus-fort-asterstein-2.png",
-    "public/social/2026-12-06-koblenz-torhaus-fort-asterstein-3.png",
-    "public/social/2026-12-06-koblenz-torhaus-fort-asterstein-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/koblenz-fort-asterstein.jpg",
-    "urheber": "Xjvolker",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Fort_Asterstein_Reduit.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b09abb8015034238d3ecf26",
-    "story": "6b09abc3bb117e5ba75ee8d4"
-   }
-  },
-  {
-   "id": "myk-vallendar-uebung-stromausfall-winter-2026-11",
-   "quelle": "Kreisverwaltung Mayen-Koblenz",
-   "url": "https://www.lebendiges-neuwied.de/News-UEbung-simuliert-extremen-Winter-und-Stromausfall-item-9371.html",
-   "postedAt": "2026-11-27T17:12:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-27-myk-vallendar-uebung-stromausfall.png",
-    "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-2.png",
-    "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-3.png",
-    "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-4.png",
-    "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/vallendar-rheinufer.jpg",
-    "urheber": "LigaDue",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Vallendar1.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b09abcbbb117e5ba75ef12c",
-    "story": "6b09abd634d224b14a9a2448"
-   }
-  },
-  {
-   "id": "neuwied-verkaufsoffener-sonntag-knuspermarkt-2026-11-29",
-   "quelle": "Stadt Neuwied",
-   "url": "https://www.neuwied.de/service/detail-anliegen/verkaufsoffener-sonntag-10075297",
-   "postedAt": "2026-11-27T18:35:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt.png",
-    "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt-2.png",
-    "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt-3.png",
-    "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   },
-   "bufferIds": {
-    "feed": "6b09bb2a446d2e47aaa5197a",
-    "story": "6b09bb35d5bf252ef53b550e"
-   }
-  },
-  {
-   "id": "weihnachtskonzerte-koblenz-andernach-2026-12-03",
-   "quelle": "Veranstaltungskalender meinestadt.de",
-   "url": "https://veranstaltungen.meinestadt.de/koblenz/konzerte/konzerte-allgemein",
-   "postedAt": "2026-11-27T18:35:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach.png",
-    "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-2.png",
-    "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-3.png",
-    "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-4.png",
-    "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b09bb3ec4601a35669e00e1",
-    "story": "6b09bb49437395ca6eead13e"
-   }
-  },
-  {
-   "id": "kreisnr-advent-auf-den-hoefen-naturgenuss-2026",
-   "quelle": "Naturgenuss / WFG Kreis Neuwied (via News Koblenz)",
-   "url": "https://news-koblenz.de/gemuetlicher-hoefe-advent-bei-naturgenuss-erzeugern_57630.html",
-   "postedAt": "2026-11-27T20:35:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied.png",
-    "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-2.png",
-    "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-3.png",
-    "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-4.png",
-    "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/leutesdorf-weinberge-rhein.jpg",
-    "urheber": "Wolkenkratzer",
-    "lizenz": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Leutesdorf_001.JPG"
-   },
-   "bufferIds": {
-    "feed": "6b09d613819e60b3bdccb393",
-    "story": "6b09d61ee19dcd08fbf380ec"
-   }
-  },
-  {
-   "id": "lbm-b49-moselweiss-lay-freigabe-2026-11-30",
-   "quelle": "Landesbetrieb Mobilität Rheinland-Pfalz (27.11.2026)",
-   "url": "https://lbm.rlp.de/service/presse-aktuelles/detail/b-49-sanierung-zwischen-koblenz-moselweiss-und-koblenz-lay-mit-anbau-eines-neuen-rad-und-gehweges-fertiggestellt",
-   "postedAt": "2026-11-28T06:45:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-b49-moselweiss-lay-freigabe.png",
-    "public/social/2026-11-28-b49-moselweiss-lay-freigabe-2.png",
-    "public/social/2026-11-28-b49-moselweiss-lay-freigabe-3.png",
-    "public/social/2026-11-28-b49-moselweiss-lay-freigabe-4.png",
-    "public/social/2026-11-28-b49-moselweiss-lay-freigabe-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/koblenz-mosel-bei-lay.jpg",
-    "urheber": "giggel",
-    "lizenz": "CC BY 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Die_Mosel_bei_Lay_-_Koblenz-G%C3%BCls_%E2%80%93_Karthause_und_Moselwei%C3%9F_(von_vorne)_-_panoramio.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b0a637641454797eaf1bb8a",
-    "story": "6b0a6381eada83daa6c923c8"
-   }
-  },
-  {
-   "id": "koblenz-baumstandorte-zuergelbaeume-2026-11",
-   "quelle": "Stadt Koblenz (via Lebendiges Neuwied, 27.11.2026)",
-   "url": "https://www.lebendiges-neuwied.de/News-Mehr-Schatten-fuer-Koblenz-Neue-Baumstandorte-schaffen-Lebensqualitaet-item-9377.html",
-   "postedAt": "2026-11-28T06:45:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen.png",
-    "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-2.png",
-    "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-3.png",
-    "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-4.png",
-    "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/zuergelbaum-celtis.jpg",
-    "urheber": "Friedrich Haag",
-    "lizenz": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Bad_D%C3%BCrkheim_Kurpark_Z%C3%BCrgelbaum_001_2021_10_10.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b0a63892a2e4f66ca000761",
-    "story": "6b0a639441454797eaf1c7b7"
-   }
-  },
-  {
-   "id": "koblenz-horchheimer-eisenbahnbruecke-radweg-frei-2026-11-30",
-   "quelle": "Stadt Koblenz",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261127-freigabe-des-geh-und-radwegs-auf-der-horchheimer-eisenbahnbruecke/",
-   "postedAt": "2026-11-28T07:25:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei.png",
-    "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-2.png",
-    "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-3.png",
-    "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/horchheimer-eisenbahnbruecke-fussweg.jpg",
-    "urheber": "Naturfreund66",
-    "lizenz": "CC BY 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Horchheimer_Eisenbahnbr%C3%BCcke,_Fu%C3%9Fweg_-_panoramio.jpg"
-   },
-   "bufferIds": {
-    "feed": "6b0a7164d7e53b12ebe1d40a",
-    "story": "6b0a716fcf6d91773004b3ba"
-   }
-  },
-  {
-   "id": "koblenz-mainzer-strasse-baustelle-suedbruecke-2026-11-30",
-   "quelle": "Stadt Koblenz",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261127-strassenbauarbeiten-in-der-mainzer-strasse-unter-der-l-327-suedbruecke/",
-   "postedAt": "2026-11-28T08:20:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle.png",
-    "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle-2.png",
-    "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle-3.png",
-    "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
-    "urheber": "Symbolbild (KI, Higgsfield)",
-    "lizenz": "KI-generiert",
-    "url": ""
-   },
-   "ki": true
-  },
-  {
-   "id": "koblenz-stadtbibliothek-trockenfilzen-2026-12-04",
-   "quelle": "Stadt Koblenz",
-   "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261127-stadtbibliothek-winterliches-trockenfilzen/",
-   "postedAt": "2026-11-28T08:20:00+01:00",
-   "format": "feed+story",
-   "bilder": [
-    "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen.png",
-    "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen-2.png",
-    "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen-3.png",
-    "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen-story.png"
-   ],
-   "foto": {
-    "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
-    "urheber": "Holger Weinandt",
-    "lizenz": "CC BY-SA 3.0 de",
-    "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
-   }
+  "items": [
+    {
+      "id": "hof-advent-2026",
+      "quelle": "News Koblenz",
+      "url": "https://news-koblenz.de/gemuetlicher-hoefe-advent-bei-naturgenuss-erzeugern_57630.html",
+      "postedAt": "2026-11-24T18:58:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "stromsteuer-swn-2027",
+      "quelle": "Stadtwerke Neuwied",
+      "url": "https://www.lebendiges-neuwied.de/",
+      "postedAt": "2026-11-25T18:23:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "neuwied-365-freiheitsrechte",
+      "quelle": "Stadt Neuwied",
+      "url": "https://www.nr-kurier.de/artikel/178196-365-jahre-freiheitsrechte--neuwied-plant-grosses-jubilaeumsjahr",
+      "postedAt": "2026-11-26T10:52:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "wochenende-2026-11-28",
+      "quelle": "Veranstalterangaben",
+      "url": "",
+      "postedAt": "2026-11-27T07:08:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "pdnr-6396468-bronzepferd-funkenhausen",
+      "quelle": "Polizeidirektion Neuwied/Rhein",
+      "url": "https://www.presseportal.de/blaulicht/pm/117709/6396468",
+      "postedAt": "2026-11-23T23:45:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "weihnachtsmaerkte-offen-2026",
+      "quelle": "Koblenzer Weihnachtsmarkt / Veranstalterangaben",
+      "url": "https://www.koblenzer-weihnachtsmarkt.de/en/opening-hours",
+      "postedAt": "2026-11-24T08:00:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "kreis-nr-messzuege-bahnuebergaenge-2026-11-25",
+      "quelle": "Kreisverwaltung Neuwied",
+      "url": "https://www.kreis-neuwied.de/aktuelles/wichtige-hinweise/aktuelle-strassensperrungen-im-landkreis-neuwied/",
+      "postedAt": "2026-11-24T08:12:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "a48-nachtsperrung-bendorf-koblenznord-2026-11-24",
+      "quelle": "Verkehrsinformation (Baustellendaten, Stand 23.11.2026)",
+      "url": "https://www.news.de/auto/860213512/verkehrsmeldung-nw-bendorf-koblenz-mayen-koblenz-zur-verkehrsstoerung-wegen-sperrung-baustelle-von-24-11-2026-bis-25-11-2026-einschraenkungen-im-verkehr-rheinland-pfalz-staugefahr-in-bubenheim-auf-a48/1/",
+      "postedAt": "2026-11-24T09:12:00+01:00",
+      "format": "feed"
+    },
+    {
+      "id": "neuwied-orange-day-2026-11-25",
+      "quelle": "Stadt Neuwied / Runder Tisch gegen Gewalt (PM 23.11.2026)",
+      "url": "https://www.nr-kurier.de/artikel/178650-neuwied-setzt-am-orange-day-ein-zeichen-gegen-gewalt-an-frauen",
+      "postedAt": "2026-11-24T11:15:00+01:00",
+      "format": "story"
+    },
+    {
+      "id": "koblenz-gruenschnitt-geschlossen-2026-11-26",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261120-gruenschnittkompostieranlage-am-26-november-geschlossen/",
+      "postedAt": "2026-11-24T11:15:00+01:00",
+      "format": "story"
+    },
+    {
+      "id": "pdnr-6397006-raiffeisenbruecke-kontrollen",
+      "quelle": "Polizeidirektion Neuwied/Rhein",
+      "url": "https://www.presseportal.de/blaulicht/pm/117709/6397006",
+      "postedAt": "2026-11-24T13:06:00+01:00",
+      "format": "story"
+    },
+    {
+      "id": "koblenz-pfaffendorfer-bruecke-nachtsperrung-2026-11-26",
+      "quelle": "Stadt Koblenz (PM 23.11.2026)",
+      "url": "https://ben-kurier.de/pfaffendorfer-bruecke-nachts-voll-gesperrt/",
+      "postedAt": "2026-11-24T15:10:34+01:00",
+      "format": "story"
+    },
+    {
+      "id": "pdko-6397188-carportbrand-miesenheim",
+      "quelle": "Polizeidirektion Koblenz / PI Andernach",
+      "url": "https://www.presseportal.de/blaulicht/pm/117712/6397188",
+      "postedAt": "2026-11-24T16:10:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "neuwied-schulbezirke-heddesdorf-2029",
+      "quelle": "Stadt Neuwied (Pressemitteilung, via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178694-neuwied-will-schulbezirke-in-heddesdorf-ab-2029-neu-ordnen",
+      "postedAt": "2026-11-24T17:10:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "vg-rengsdorf-hausarztpraxis-strassenhaus",
+      "quelle": "VG Rengsdorf-Waldbreitbach (Pressemitteilung, via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178678-neue-hausarztpraxis-in-strassenhaus-erhaelt-foerderung",
+      "postedAt": "2026-11-24T17:10:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "dwd-glaette-nacht-2026-11-25",
+      "quelle": "Deutscher Wetterdienst (via dpa/AK-Kurier)",
+      "url": "https://www.ak-kurier.de/akkurier/www/artikel/178669-kaeltewelle-in-rheinland-pfalz--glaette-moeglich",
+      "postedAt": "2026-11-24T18:15:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "hzako-6396714-zoll-pakete-blackfriday",
+      "quelle": "Hauptzollamt Koblenz",
+      "url": "https://www.presseportal.de/blaulicht/pm/121250/6396714",
+      "postedAt": "2026-11-24T18:15:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "koblenz-taschendiebstahl-praevention-2026-12-02",
+      "quelle": "Stadt Koblenz / Polizei (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-sicher-durch-die-adventszeit-koblenz-setzt-zeichen-gegen-taschendiebstahl/",
+      "postedAt": "2026-11-24T19:20:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "neuwied-stadtgespraech-demokratie-2026-11-28",
+      "quelle": "Bündnis für Demokratie und Toleranz Neuwied (via NR-Kurier, Fakten neu formuliert)",
+      "url": "https://www.nr-kurier.de/artikel/178665-neuwied-laedt-zum-stadtgespraech-fuer-demokratie-und-toleranz",
+      "postedAt": "2026-11-25T06:09:41+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-stadtgespraech-neuwied.png",
+        "public/social/2026-11-28-stadtgespraech-neuwied-story.png"
+      ]
+    },
+    {
+      "id": "pdko-6397289-unfallflucht-andernach-aktienstrasse",
+      "quelle": "Polizeidirektion Koblenz / PI Andernach",
+      "url": "https://www.presseportal.de/blaulicht/pm/117712/6397289",
+      "postedAt": "2026-11-25T07:20:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "rueckruf-globus-kartoffeln-les-rouges-2026-11",
+      "quelle": "Globus Markthallen / lebensmittelwarnung.de",
+      "url": "https://www.food-monitor.de/2026/11/rueckruf-glykoalkaloide-globus-gold-les-rouges/",
+      "postedAt": "2026-11-25T08:12:00+01:00",
+      "format": "feed+story"
+    },
+    {
+      "id": "k23-rheinbreitbach-b42-badhoenningen-brueckenpruefung-2026-11-26",
+      "quelle": "Verkehrswarndienst RLP / Landesbetrieb Mobilität (via verkehrslage.de, NR-Kurier)",
+      "url": "https://www.verkehrslage.de/ort/rheinbreitbach",
+      "postedAt": "2026-11-25T09:30:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung.png",
+        "public/social/2026-11-26-k23-rheinbreitbach-brueckenpruefung-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-drei-fragezeichen-lesung-2026-12-01",
+      "quelle": "Stadt Koblenz (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-christoph-dittert-liest-aus-die-drei-in-der-stadtbibliothek/",
+      "postedAt": "2026-11-25T11:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-01-drei-fragezeichen-lesung-koblenz.png",
+        "public/social/2026-12-01-drei-fragezeichen-lesung-koblenz-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-stadtradeln-ergebnis-2026",
+      "quelle": "Stadt Koblenz (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261224-stadtradeln-2026-koblenz-zeichnet-die-erfolgreichsten-teams-aus/",
+      "postedAt": "2026-11-25T11:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-fahrrad-ufer.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-11-25-stadtradeln-koblenz-ergebnis.png",
+        "public/social/2026-11-25-stadtradeln-koblenz-ergebnis-story.png"
+      ]
+    },
+    {
+      "id": "bendorf-horchemsweg-sperrung-2026-11-26",
+      "quelle": "Stadt Bendorf (25.11.2026)",
+      "url": "https://www.bendorf.de/stadt-buerger/aktuelles/hubschrauberfluege-am-bikepark-horchemsweg-am-26-november-gesperrt/",
+      "postedAt": "2026-11-25T12:55:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/symbol-forstweg.jpg",
+        "urheber": "Lugrund",
+        "lizenz": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:2024_Luttergrund_P20303.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-26-bendorf-horchemsweg-gesperrt.png",
+        "public/social/2026-11-26-bendorf-horchemsweg-gesperrt-story.png"
+      ]
+    },
+    {
+      "id": "andernach-hochwasserschutzwand-probe-2026-12-01",
+      "quelle": "Stadt Andernach (24.11.2026)",
+      "url": "https://www.andernach.de/aktuelles/aktuelle-meldungen/probeaufbau-hochwasserschutzwand-2026/",
+      "postedAt": "2026-11-25T12:55:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/andernach-rheinanlagen-konrad-adenauer-allee.jpg",
+        "urheber": "Frank Vincentz",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Andernach_-_Konrad-Adenauer-Allee_-_Rheinanlagen_04_ies.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-01-andernach-hochwasserschutzwand-probe.png",
+        "public/social/2026-12-01-andernach-hochwasserschutzwand-probe-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-late-night-shopping-2026-11-27",
+      "quelle": "Stadt Koblenz / Koblenz-Stadtmarketing",
+      "url": "https://www.koblenz.de/aktuelles/late-night-shopping-2026/",
+      "postedAt": "2026-11-25T12:55:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/koblenz-innenstadt-einkaufsstrasse.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Evakuierung_03_Koblenz_2011.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-27-koblenz-late-night-shopping.png",
+        "public/social/2026-11-27-koblenz-late-night-shopping-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-heiligenweg-vollsperrung-2026-12-07",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-vollsperrung-im-heiligenweg-wegen-einhub-einer-hilfsbruecke-der-bahn/",
+      "postedAt": "2026-11-25T13:08:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/koblenz-moselweiss-bahnhalt.jpg",
+        "urheber": "Christian Liebscher",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Clp_20140821_2862_Hp_Koblenz-Moselwei%C3%9F_Bstg.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung.png",
+        "public/social/2026-12-07-koblenz-heiligenweg-vollsperrung-story.png"
+      ]
+    },
+    {
+      "id": "pfaffendorfer-bruecke-stahlbau-geschlossen-2026-11-24",
+      "quelle": "Lebendiges Neuwied (Bericht 25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Pfaffendorfer-Bruecke-Die-letzten-Stahlbauteile-sind-eingehoben-item-9354.html",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/pfaffendorfer-bruecke-koblenz-2014.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Pfaffendorfer_Br%C3%BCcke_01_Koblenz_2014.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-25-pfaffendorfer-bruecke-stahlbau-komplett.png",
+        "public/social/2026-11-25-pfaffendorfer-bruecke-stahlbau-komplett-story.png"
+      ]
+    },
+    {
+      "id": "oberbieber-weihnachtsmarkt-schwanenteich-2026-12-05",
+      "quelle": "Lebendiges Neuwied (25.11.2026)",
+      "url": "https://lebendiges-neuwied.de/News-vier-dot-Oberbieberer-Weihnachtsmarkt-am-Schwanenteich-zwei-Tage-voller-Weihnachtsza-item-9348.html",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-12-05-oberbieber-weihnachtsmarkt-schwanenteich.png",
+        "public/social/2026-12-05-oberbieber-weihnachtsmarkt-schwanenteich-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-gulisastrasse-guels-vollsperrung-2026-12-07",
+      "quelle": "Stadt Koblenz (PM 24.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261124-ausbau-der-gulisastrasse-in-guels-baubeginn-des-vierten-bauabschnittes-steht-bevor/",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-12-07-koblenz-gulisastrasse-vollsperrung.png",
+        "public/social/2026-12-07-koblenz-gulisastrasse-vollsperrung-story.png"
+      ]
+    },
+    {
+      "id": "neuwied-buergerbus-weihnachtspause-2026",
+      "quelle": "Lebendiges Neuwied (25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Neuwieder-Buergerbus-legt-Weihnachtspause-ein-item-9355.html",
+      "postedAt": "2026-11-25T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/ki-bushaltestelle-winter.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bilder": [
+        "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause.png",
+        "public/social/2026-12-17-neuwied-buergerbus-weihnachtspause-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-christmas-garden-ehrenbreitstein-2026",
+      "quelle": "News Koblenz (23.11.2026)",
+      "url": "https://news-koblenz.de/christmas-garden-koblenz-startet-mit-premierenfeier-in-die-sechste-saison_57661.html",
+      "postedAt": "2026-11-25T18:15:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/festung-ehrenbreitstein-koblenz.jpg",
+        "urheber": "Dmitry Tonkonog and Ksenia Fedosova",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:20130826_Festung_Ehrenbreitstein_02.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-25-christmas-garden-ehrenbreitstein.png",
+        "public/social/2026-11-25-christmas-garden-ehrenbreitstein-story.png"
+      ]
+    },
+    {
+      "id": "waldbreitbach-weihnachtsdorf-start-2026-11-27",
+      "quelle": "Lebendiges Neuwied (25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Weihnachten-in-Waldbreitbach-kann-kommen-item-9351.html",
+      "postedAt": "2026-11-25T18:15:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/waldbreitbach-kreuzkapelle.jpg",
+        "urheber": "RomkeHoekstra",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Waldbreitbach_(D%C3%BAtsl%C3%A2n),_Kr%C3%BAskapel_1.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-27-waldbreitbach-weihnachtsdorf.png",
+        "public/social/2026-11-27-waldbreitbach-weihnachtsdorf-story.png"
+      ]
+    },
+    {
+      "id": "neuwied-engers-nussknackermarkt-2026-11-28",
+      "quelle": "NR-Kurier (25.11.2026)",
+      "url": "https://www.nr-kurier.de/artikel/178750-nussknackermarkt-in-engers--vorfreude-und-verkehrsaenderungen",
+      "postedAt": "2026-11-25T19:40:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/schloss-engers-tor.jpg",
+        "urheber": "GFreihalter",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Engers_Schloss_76.JPG"
+      },
+      "bilder": [
+        "public/social/2026-11-28-nussknackermarkt-engers.png",
+        "public/social/2026-11-28-nussknackermarkt-engers-story.png"
+      ]
+    },
+    {
+      "id": "bendorf-regiohub-eroeffnung-2026-12-02",
+      "quelle": "Stadt Bendorf (19.11.2026)",
+      "url": "https://www.bendorf.de/stadt-buerger/aktuelles/regiohub-bendorf-oeffnet-seine-tueren/",
+      "postedAt": "2026-11-25T19:40:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/bendorf-st-medardus.jpg",
+        "urheber": "Chris06",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:St._Medardus_(Bendorf)2.JPG"
+      },
+      "bilder": [
+        "public/social/2026-12-02-regiohub-bendorf.png",
+        "public/social/2026-12-02-regiohub-bendorf-story.png"
+      ]
+    },
+    {
+      "id": "pdnr-6398058-ueberholmanoever-l266-urbach",
+      "quelle": "Polizeidirektion Neuwied (25.11.2026)",
+      "url": "https://www.presseportal.de/blaulicht/pm/117709/6398058",
+      "postedAt": "2026-11-25T21:15:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-25-urbach-l266-ueberholmanoever.png",
+        "public/social/2026-11-25-urbach-l266-ueberholmanoever-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-adventskalender-rathausdach-2026",
+      "quelle": "Stadt Koblenz via Lebendiges Neuwied (06.11.2026)",
+      "url": "https://lebendiges-neuwied.de/News-vierundzwanzig-leuchtende-Tuerchen-am-Rathausdach-item-9245.html",
+      "postedAt": "2026-11-25T22:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach.png",
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach-2.png",
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach-3.png",
+        "public/social/2026-12-01-koblenz-adventskalender-rathausdach-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      }
+    },
+    {
+      "id": "koblenz-bunter-nachmittag-karneval-2027-01-10",
+      "quelle": "Stadt Koblenz (PM 25.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-bunter-nachmittag-fuer-alt-und-jung/",
+      "postedAt": "2026-11-26T06:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2027-01-10-bunter-nachmittag-koblenz.png",
+        "public/social/2027-01-10-bunter-nachmittag-koblenz-2.png",
+        "public/social/2027-01-10-bunter-nachmittag-koblenz-3.png",
+        "public/social/2027-01-10-bunter-nachmittag-koblenz-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-poetikdozentur-brandt-2026-12-03",
+      "quelle": "Stadt Koblenz (PM 25.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-matthias-brandt-ist-joseph-breitbach-poetikdozent-2026/",
+      "postedAt": "2026-11-26T07:30:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/theater-koblenz-laternen.jpg",
+        "urheber": "Thomas Hummel",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Theater_(Koblenz)_01.jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-03-poetikdozentur-koblenz.png",
+        "public/social/2026-12-03-poetikdozentur-koblenz-2.png",
+        "public/social/2026-12-03-poetikdozentur-koblenz-3.png",
+        "public/social/2026-12-03-poetikdozentur-koblenz-story.png"
+      ]
+    },
+    {
+      "id": "ihk-bestenehrung-kreis-neuwied-2026",
+      "quelle": "IHK Koblenz via Lebendiges Neuwied (25.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-einunddreissig-Spitzen-Azubis-aus-dem-Landkreis-Neuwied-ausgezeichnet-item-9349.html",
+      "postedAt": "2026-11-26T07:30:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied.png",
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-2.png",
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-3.png",
+        "public/social/2026-11-26-ihk-bestenehrung-kreis-neuwied-story.png"
+      ]
+    },
+    {
+      "id": "bendorf-huettenzauber-sayner-huette-2026-12-11",
+      "quelle": "Stiftung Sayner Hütte via news-koblenz.de (25.11.2026)",
+      "url": "https://news-koblenz.de/weihnachtlicher-huettenzauber-verzaubert-wieder-die-sayner-huette_57705.html",
+      "postedAt": "2026-11-26T08:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/sayner-huette-giesshalle-innen.jpg",
+        "urheber": "Marion Halft",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:2019_Giesshalle_Sayner_H%C3%BCtte_(02).jpg"
+      },
+      "bilder": [
+        "public/social/2026-12-11-huettenzauber-sayner-huette.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-2.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-3.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-4.png",
+        "public/social/2026-12-11-huettenzauber-sayner-huette-story.png"
+      ]
+    },
+    {
+      "id": "neuwied-feldkirchen-fahr-advent-2026-11-28",
+      "quelle": "Antenne Koblenz (Angaben treffpunkt-feldkirchen.de)",
+      "url": "https://antenne-koblenz.de/feldkirchen-leuchtet-adventsmarkt-mit-lichterumzug-am-28-november/",
+      "postedAt": "2026-11-26T09:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-advent-feldkirchen-fahr.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-2.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-3.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-4.png",
+        "public/social/2026-11-28-advent-feldkirchen-fahr-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      }
+    },
+    {
+      "id": "andernach-burg-namedy-weihnachtszauber-2026-11-28",
+      "quelle": "Schloss Burg Namedy (via Lebendiges Neuwied)",
+      "url": "https://lebendiges-neuwied.de/News-Weihnachtszauber-in-und-um-das-Schloss-Burg-Namedy-herum-item-9279.html",
+      "postedAt": "2026-11-26T10:17:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-2.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-3.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-4.png",
+        "public/social/2026-11-28-burg-namedy-weihnachtszauber-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/andernach-burg-namedy.jpg",
+        "urheber": "Frank Vincentz",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Andernach_-_Schlossstra%C3%9Fe_-_Schloss%2BPark_Burg_Namedy_02_ies.jpg"
+      }
+    },
+    {
+      "id": "neuwied-roentgen-museum-80-jahreskunstausstellung-2026-11-28",
+      "quelle": "Kreis Neuwied / Roentgen-Museum (via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178578-80-jahre-kunst-im-roentgen-museum-neuwied",
+      "postedAt": "2026-11-26T10:17:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-2.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-3.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-4.png",
+        "public/social/2026-11-28-roentgen-museum-jahreskunstausstellung-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/neuwied-roentgen-museum.jpg",
+        "urheber": "tohma (Photo), Olaf Höhnen (Well)",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Roentgen-Museum_Neuwied.jpg"
+      }
+    },
+    {
+      "id": "sgdnord-weihnachtsmarkt-gaskontrolle-2026",
+      "quelle": "SGD Nord (via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178790-weihnachtsmarkt-kontrollen--maengel-in-koblenz--gutes-ergebnis-in-neuwied",
+      "postedAt": "2026-11-26T13:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-2.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-3.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-4.png",
+        "public/social/2026-11-26-weihnachtsmarkt-gaskontrolle-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      }
+    },
+    {
+      "id": "kreis-nr-baumausgabe-515-obstbaeume-2026",
+      "quelle": "Kreisverwaltung Neuwied (via Lebendiges Neuwied)",
+      "url": "https://www.lebendiges-neuwied.de/News-Baeumchen-Wechsel-Dich-ist-nicht-nur-Kinderspiel-item-9362.html",
+      "postedAt": "2026-11-26T14:25:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied.png",
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied-2.png",
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied-3.png",
+        "public/social/2026-11-26-baumausgabe-kreis-neuwied-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/obstwiese-herbst.jpg",
+        "urheber": "liz west",
+        "lizenz": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Autumn_at_Nagog_Hill_Orchard.jpg"
+      }
+    },
+    {
+      "id": "koblenz-guels-blaeserklasse-erwachsene-info-2026-11-28",
+      "quelle": "Musikverein St. Servatius Güls / Stadt Koblenz (via Antenne Koblenz, 06.11.2026)",
+      "url": "https://antenne-koblenz.de/trompete-posaune-klarinette-guels-startet-blaeserklasse-fuer-erwachsene/",
+      "postedAt": "2026-11-26T15:20:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/blechblas-instrumente.jpg",
+        "urheber": "Garry Knight from London, England",
+        "lizenz": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Where_There%27s_Brass_(photo_by_Garry_Knight).jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene.png",
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene-2.png",
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene-3.png",
+        "public/social/2026-11-28-guels-blaeserklasse-erwachsene-story.png"
+      ]
+    },
+    {
+      "id": "neuwied-familiengrundschulzentren-2026-11-26",
+      "quelle": "Stadt Neuwied, Pressemitteilung 26.11.2026 (via NR-Kurier)",
+      "url": "https://www.nr-kurier.de/artikel/178799-neuwied-baut-drei-familiengrundschulzentren-auf",
+      "postedAt": "2026-11-26T16:10:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/klassenzimmer-grundschule.jpg",
+        "urheber": "Abaddon1337",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Orbe_-_Chantemerle_-_salle_de_classe_2.jpg",
+        "bearbeitet": "links beschnitten (Bildschirm mit Personen entfernt)"
+      },
+      "bilder": [
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-2.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-3.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-4.png",
+        "public/social/2026-11-26-neuwied-familiengrundschulzentren-story.png"
+      ]
+    },
+    {
+      "id": "bendorf-weihnachtsmarkt-2026-12-04",
+      "quelle": "Stadt Bendorf (17.11.2026)",
+      "url": "https://www.bendorf.de/stadt-buerger/aktuelles/bendorfer-weihnachtsmarkt-2026-neue-marktbereiche-vertraute-adventsstimmung/",
+      "postedAt": "2026-11-26T17:25:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/bendorf-st-medardus.jpg",
+        "urheber": "Chris06",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:St._Medardus_(Bendorf)2.JPG"
+      },
+      "bilder": [
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-2.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-3.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-4.png",
+        "public/social/2026-12-04-bendorfer-weihnachtsmarkt-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-kulturehrennadel-2026",
+      "quelle": "Stadt Koblenz, Pressemitteilung (25.11.2026)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261125-kulturehrennadel-2026/",
+      "postedAt": "2026-11-26T18:11:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-26-koblenz-kulturehrennadel.png",
+        "public/social/2026-11-26-koblenz-kulturehrennadel-2.png",
+        "public/social/2026-11-26-koblenz-kulturehrennadel-3.png",
+        "public/social/2026-11-26-koblenz-kulturehrennadel-story.png"
+      ]
+    },
+    {
+      "id": "koblenz-ehrenbreitstein-daehler-nikolausmarkt-2026-11-28",
+      "quelle": "Antenne Koblenz (19.11.2026)",
+      "url": "https://antenne-koblenz.de/daehler-nikolausmarkt-auf-dem-kapuzinerplatz-advent-in-ehrenbreitstein/",
+      "postedAt": "2026-11-26T19:11:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/festung-ehrenbreitstein-koblenz.jpg",
+        "urheber": "Dmitry Tonkonog and Ksenia Fedosova",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:20130826_Festung_Ehrenbreitstein_02.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-28-daehler-nikolausmarkt.png",
+        "public/social/2026-11-28-daehler-nikolausmarkt-2.png",
+        "public/social/2026-11-28-daehler-nikolausmarkt-3.png",
+        "public/social/2026-11-28-daehler-nikolausmarkt-4.png",
+        "public/social/2026-11-28-daehler-nikolausmarkt-story.png"
+      ]
+    },
+    {
+      "id": "vallendar-weihnachtsmarkt-2026-11-28",
+      "quelle": "Antenne Koblenz (14.11.2026)",
+      "url": "https://antenne-koblenz.de/vallendar-laedt-zum-weihnachtsmarkt-rund-um-rathausplatz-und-hellenstrasse/",
+      "postedAt": "2026-11-26T20:11:00+01:00",
+      "format": "feed+story",
+      "foto": {
+        "datei": "public/social/fotos/vallendar-rheinufer.jpg",
+        "urheber": "LigaDue",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Vallendar1.jpg"
+      },
+      "bilder": [
+        "public/social/2026-11-28-vallendarer-weihnachtsmarkt.png",
+        "public/social/2026-11-28-vallendarer-weihnachtsmarkt-2.png",
+        "public/social/2026-11-28-vallendarer-weihnachtsmarkt-3.png",
+        "public/social/2026-11-28-vallendarer-weihnachtsmarkt-story.png"
+      ]
+    },
+    {
+      "id": "ppko-6398824-vermisst-neuwied-75-jaehrige",
+      "quelle": "Polizeipräsidium Koblenz",
+      "url": "https://www.presseportal.de/blaulicht/pm/117715/6398824",
+      "postedAt": "2026-11-26T21:10:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-2.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-3.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-4.png",
+        "public/social/2026-11-26-vermisst-neuwied-75-jaehrige-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/neuwied-bahnhof.jpg",
+        "urheber": "Tohma",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Neuwied_Bahnhof.jpg"
+      },
+      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen",
+      "bufferIds": {
+        "feed": "6b089217f0a96d0f2189449b",
+        "story": "6b0892223accdac92cf8f5c2"
+      },
+      "status": "Fahndung beendet (Frau wohlbehalten angetroffen, Polizei-Nachtrag lt. WW-Kurier 27.11.2026 09:55) – Buffer-Löschen nicht möglich (bereits gesendet), Wladi am 27.11. per Push gebeten, auf Instagram manuell zu löschen"
+    },
+    {
+      "id": "kreisnr-l87-rheinbrohl-vollsperrung-2026-12-04",
+      "quelle": "Kreisverwaltung Neuwied (Straßensperrungen)",
+      "url": "https://www.kreis-neuwied.de/aktuelles/wichtige-hinweise/aktuelle-strassensperrungen-im-landkreis-neuwied/",
+      "postedAt": "2026-11-27T06:12:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-04-l87-rheinbrohl-vollsperrung.png",
+        "public/social/2026-12-04-l87-rheinbrohl-vollsperrung-2.png",
+        "public/social/2026-12-04-l87-rheinbrohl-vollsperrung-3.png",
+        "public/social/2026-12-04-l87-rheinbrohl-vollsperrung-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/rheinbrohl-faehrstrasse-unterfuehrung.jpg",
+        "urheber": "GeorgDerReisende",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:F%C3%A4hrstra%C3%9Fe,_2,_Rheinbrohl,_Landkreis_Neuwied.jpg"
+      },
+      "buffer": {
+        "feed": "6b091143062ed764a8e6b961",
+        "story": "6b09114e658222306ce3f63d"
+      }
+    },
+    {
+      "id": "vrm-koblenz-weihnachtsmarkt-gratis-adventssonntage-2026",
+      "quelle": "Verkehrsverbund Rhein-Mosel / Stadt Koblenz (Pressemeldung)",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261126-an-und-abreise-zum-koblenzer-weihnachtsmarkt/",
+      "postedAt": "2026-11-27T07:11:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-2.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-3.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-4.png",
+        "public/social/2026-11-29-koblenz-weihnachtsmarkt-gratis-bus-bahn-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-rathaus-weihnachtsmarkt.jpg",
+        "urheber": "Corradox",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Koblenz_Rathaus-Weihnachtsmarkt.jpg"
+      },
+      "buffer": {
+        "feed": "6b091f17062ed764a8ebee69",
+        "story": "6b091f22062ed764a8ebef6d"
+      }
+    },
+    {
+      "id": "kreisnr-rechte-rheinstrecke-oberleitung-strom-2026-11-30",
+      "quelle": "Kreisverwaltung Neuwied (Pressemitteilung) / Deutsche Bahn",
+      "url": "https://www.kreis-neuwied.de/aktuelles/presse/korridorsanierung-rechter-rhein/",
+      "postedAt": "2026-11-27T08:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom.png",
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-2.png",
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-3.png",
+        "public/social/2026-11-30-rechte-rheinstrecke-oberleitung-strom-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/bahnstrecke-oberleitung-zweigleisig.jpg",
+        "urheber": "Falk2",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:I09_441_Systemtrennstelle.jpg"
+      },
+      "buffer": {
+        "feed": "6b092d00e94385a8fd818ec9",
+        "story": "6b092d0b1fd46e62e7204887"
+      }
+    },
+    {
+      "id": "wochenende-2026-11-28-12-tipps",
+      "quelle": "Städte, Vereine und Veranstalter (aus bereits gelesenen Quellen)",
+      "url": "",
+      "postedAt": "2026-11-27T08:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-dein-wochenende-12-tipps.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-2.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-3.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-4.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-5.png",
+        "public/social/2026-11-28-dein-wochenende-12-tipps-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-rathaus-weihnachtsmarkt.jpg",
+        "urheber": "Corradox",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Koblenz_Rathaus-Weihnachtsmarkt.jpg"
+      },
+      "buffer": {
+        "feed": "6b092df8776ce21276f59572",
+        "story": "6b092e04658222306cef63eb"
+      }
+    },
+    {
+      "id": "kreisnr-lernpaten-keiner-darf-verloren-gehen-2026-12-18",
+      "quelle": "Kreisverwaltung Neuwied (via Lebendiges Neuwied)",
+      "url": "https://www.lebendiges-neuwied.de/News-Kindern-ein-wenig-Zeit-schenken-item-9366.html",
+      "postedAt": "2026-11-27T10:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-lernpaten-kreis-neuwied.png",
+        "public/social/2026-11-27-lernpaten-kreis-neuwied-2.png",
+        "public/social/2026-11-27-lernpaten-kreis-neuwied-3.png",
+        "public/social/2026-11-27-lernpaten-kreis-neuwied-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/klassenzimmer-grundschule.jpg",
+        "urheber": "Abaddon1337",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Orbe_-_Chantemerle_-_salle_de_classe_2.jpg"
+      },
+      "buffer": {
+        "feed": "6b094962776ce2127601c38a",
+        "story": "6b09496de94385a8fd8e2ee1"
+      }
+    },
+    {
+      "id": "pdnr-6399026-bad-hoenningen-kontrolle-polizei-ordnungsamt",
+      "quelle": "Polizeidirektion Neuwied / PI Linz",
+      "url": "https://www.presseportal.de/blaulicht/pm/117709/6399026",
+      "postedAt": "2026-11-27T11:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-2.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-3.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-4.png",
+        "public/social/2026-11-27-bad-hoenningen-kontrolle-polizei-ordnungsamt-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/bad-hoenningen-rathaus.jpg",
+        "urheber": "Raimond Spekking",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Rathaus_Bad_H%C3%B6nningen-075716.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0957451fd46e62e7338d9a",
+        "story": "6b09574f776ce21276083eb5"
+      }
+    },
+    {
+      "id": "koblenz-lebendiger-advent-schlossstrasse-2026-12-01",
+      "quelle": "Johanniter Mittelrhein (via News Koblenz, 27.11.2026)",
+      "url": "https://news-koblenz.de/lebendiger-advent-in-der-koblenzer-schlossstrasse_57760.html",
+      "postedAt": "2026-11-27T12:18:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-2.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-3.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-4.png",
+        "public/social/2026-12-01-lebendiger-advent-schlossstrasse-koblenz-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-innenstadt-einkaufsstrasse.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Evakuierung_03_Koblenz_2011.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0966eb049983dcfbb2f574",
+        "story": "6b0966f61fd46e62e73a6ae0"
+      }
+    },
+    {
+      "id": "lahnstein-nikolausmarkt-theatervorplatz-2026-12-04",
+      "quelle": "News Koblenz (23.11.2026)",
+      "url": "https://news-koblenz.de/nikolausmarkt-bringt-weihnachtszauber-auf-den-theatervorplatz-in-lahnstein_57634.html",
+      "postedAt": "2026-11-27T12:18:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-04-nikolausmarkt-lahnstein.png",
+        "public/social/2026-12-04-nikolausmarkt-lahnstein-2.png",
+        "public/social/2026-12-04-nikolausmarkt-lahnstein-3.png",
+        "public/social/2026-12-04-nikolausmarkt-lahnstein-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/lahnstein-altes-rathaus.jpg",
+        "urheber": "Uwe Barghaan",
+        "lizenz": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Oberlahnstein_Rathaus.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0966ff776ce212760f7e70",
+        "story": "6b09670a658222306c08e406"
+      }
+    },
+    {
+      "id": "neuwied-minski-dezember-2026",
+      "quelle": "Stadt Neuwied / News Koblenz",
+      "url": "https://news-koblenz.de/noch-fuenf-mal-minski-in-diesem-jahr_57755.html",
+      "postedAt": "2026-11-27T13:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-02-neuwied-minski-dezember.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-2.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-3.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-4.png",
+        "public/social/2026-12-02-neuwied-minski-dezember-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/kinosaal-vorhang.jpg",
+        "urheber": "Back ache",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Alhambra_Cinema_Keswick_main_auditorium.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b097447e94385a8fda1ae9a",
+        "story": "6b097453776ce2127615efe8"
+      }
+    },
+    {
+      "id": "wwk-fuehrerschein-umtausch-online-2027-01-19",
+      "quelle": "Kreisverwaltung Westerwaldkreis",
+      "url": "https://www.westerwaldkreis.de/aktuelles/presse/pressemitteilungen/2026/november/fuehrerscheinumtausch-jetzt-bequem-online-betragen/",
+      "postedAt": "2026-11-27T14:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-2.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-3.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-4.png",
+        "public/social/2026-11-27-westerwald-fuehrerschein-umtausch-online-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/montabaur-kreisverwaltung.jpg",
+        "urheber": "el_tommo",
+        "lizenz": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kreisverwaltung_Montabaur.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b09827c1fd46e62e7481507",
+        "story": "6b098286e94385a8fda8c508"
+      }
+    },
+    {
+      "id": "ppko-6399427-vermisst-mayen-89-jaehrige",
+      "quelle": "Polizeipräsidium Koblenz",
+      "url": "https://www.presseportal.de/blaulicht/pm/117715/6399427",
+      "postedAt": "2026-11-27T15:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-2.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-3.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-4.png",
+        "public/social/2026-11-27-vermisst-mayen-89-jaehrige-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/mayen-genovevaburg.jpg",
+        "urheber": "onnola",
+        "lizenz": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Genovevaburg_05.jpg"
+      },
+      "hinweis": "Vermisstenfahndung – bei Aufhebung Buffer-Posts löschen bzw. Wladi melden",
+      "bufferIds": {
+        "feed": "6b09909632c212878fd7a9ea",
+        "story": "6b0990a132c212878fd7af93"
+      },
+      "status": "Fahndung erledigt (PP Koblenz, Erledigung 27.11.2026 23:06, pm 6399589) – Buffer-Löschen nicht möglich (bereits gesendet), Wladi am 28.11. per Push gebeten, auf Instagram manuell zu löschen"
+    },
+    {
+      "id": "neuwied-irlich-weihnachtsmarkt-2026-12-04",
+      "quelle": "NR-Kurier (27.11.2026)",
+      "url": "https://www.nr-kurier.de/artikel/178843-irlicher-weihnachtsmarkt-laedt-zum-festlichen-beisammensein-ein",
+      "postedAt": "2026-11-27T16:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt.png",
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt-2.png",
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt-3.png",
+        "public/social/2026-12-04-irlicher-weihnachtsmarkt-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/neuwied-irlich-st-peter-paul.jpg",
+        "urheber": "Michielverbeek",
+        "lizenz": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Neuwied-Irlich,_Pfarrkirche_Sankt_Peter_und_Paul_Dm_met_spoorbrug_over_de_Wied_vanaf_Andernach_IMG_2353_2024-06-01_13.08.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b099dc434d224b14a931f49",
+        "story": "6b099dcf015034238d37efe8"
+      }
+    },
+    {
+      "id": "koblenz-torhaus-fort-asterstein-2026-12-06",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.lebendiges-neuwied.de/News-Torhaus-am-Fort-Asterstein-wird-am-Nikolaussonntag-eroeffnet-item-9372.html",
+      "postedAt": "2026-11-27T17:12:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-06-koblenz-torhaus-fort-asterstein.png",
+        "public/social/2026-12-06-koblenz-torhaus-fort-asterstein-2.png",
+        "public/social/2026-12-06-koblenz-torhaus-fort-asterstein-3.png",
+        "public/social/2026-12-06-koblenz-torhaus-fort-asterstein-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-fort-asterstein.jpg",
+        "urheber": "Xjvolker",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Fort_Asterstein_Reduit.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b09abb8015034238d3ecf26",
+        "story": "6b09abc3bb117e5ba75ee8d4"
+      }
+    },
+    {
+      "id": "myk-vallendar-uebung-stromausfall-winter-2026-11",
+      "quelle": "Kreisverwaltung Mayen-Koblenz",
+      "url": "https://www.lebendiges-neuwied.de/News-UEbung-simuliert-extremen-Winter-und-Stromausfall-item-9371.html",
+      "postedAt": "2026-11-27T17:12:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-myk-vallendar-uebung-stromausfall.png",
+        "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-2.png",
+        "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-3.png",
+        "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-4.png",
+        "public/social/2026-11-27-myk-vallendar-uebung-stromausfall-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/vallendar-rheinufer.jpg",
+        "urheber": "LigaDue",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Vallendar1.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b09abcbbb117e5ba75ef12c",
+        "story": "6b09abd634d224b14a9a2448"
+      }
+    },
+    {
+      "id": "neuwied-verkaufsoffener-sonntag-knuspermarkt-2026-11-29",
+      "quelle": "Stadt Neuwied",
+      "url": "https://www.neuwied.de/service/detail-anliegen/verkaufsoffener-sonntag-10075297",
+      "postedAt": "2026-11-27T18:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt.png",
+        "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt-2.png",
+        "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt-3.png",
+        "public/social/2026-11-29-neuwied-verkaufsoffener-sonntag-knuspermarkt-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-weihnachtsmarkt-stand.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "bufferIds": {
+        "feed": "6b09bb2a446d2e47aaa5197a",
+        "story": "6b09bb35d5bf252ef53b550e"
+      }
+    },
+    {
+      "id": "weihnachtskonzerte-koblenz-andernach-2026-12-03",
+      "quelle": "Veranstaltungskalender meinestadt.de",
+      "url": "https://veranstaltungen.meinestadt.de/koblenz/konzerte/konzerte-allgemein",
+      "postedAt": "2026-11-27T18:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach.png",
+        "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-2.png",
+        "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-3.png",
+        "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-4.png",
+        "public/social/2026-12-03-weihnachtskonzerte-koblenz-andernach-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/rhein-mosel-halle-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Rhein-Mosel-Halle_02_Koblenz_2013.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b09bb3ec4601a35669e00e1",
+        "story": "6b09bb49437395ca6eead13e"
+      }
+    },
+    {
+      "id": "kreisnr-advent-auf-den-hoefen-naturgenuss-2026",
+      "quelle": "Naturgenuss / WFG Kreis Neuwied (via News Koblenz)",
+      "url": "https://news-koblenz.de/gemuetlicher-hoefe-advent-bei-naturgenuss-erzeugern_57630.html",
+      "postedAt": "2026-11-27T20:35:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-2.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-3.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-4.png",
+        "public/social/2026-11-27-advent-auf-den-hoefen-kreis-neuwied-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/leutesdorf-weinberge-rhein.jpg",
+        "urheber": "Wolkenkratzer",
+        "lizenz": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Leutesdorf_001.JPG"
+      },
+      "bufferIds": {
+        "feed": "6b09d613819e60b3bdccb393",
+        "story": "6b09d61ee19dcd08fbf380ec"
+      }
+    },
+    {
+      "id": "lbm-b49-moselweiss-lay-freigabe-2026-11-30",
+      "quelle": "Landesbetrieb Mobilität Rheinland-Pfalz (27.11.2026)",
+      "url": "https://lbm.rlp.de/service/presse-aktuelles/detail/b-49-sanierung-zwischen-koblenz-moselweiss-und-koblenz-lay-mit-anbau-eines-neuen-rad-und-gehweges-fertiggestellt",
+      "postedAt": "2026-11-28T06:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-2.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-3.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-4.png",
+        "public/social/2026-11-28-b49-moselweiss-lay-freigabe-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/koblenz-mosel-bei-lay.jpg",
+        "urheber": "giggel",
+        "lizenz": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Die_Mosel_bei_Lay_-_Koblenz-G%C3%BCls_%E2%80%93_Karthause_und_Moselwei%C3%9F_(von_vorne)_-_panoramio.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0a637641454797eaf1bb8a",
+        "story": "6b0a6381eada83daa6c923c8"
+      }
+    },
+    {
+      "id": "koblenz-baumstandorte-zuergelbaeume-2026-11",
+      "quelle": "Stadt Koblenz (via Lebendiges Neuwied, 27.11.2026)",
+      "url": "https://www.lebendiges-neuwied.de/News-Mehr-Schatten-fuer-Koblenz-Neue-Baumstandorte-schaffen-Lebensqualitaet-item-9377.html",
+      "postedAt": "2026-11-28T06:45:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-2.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-3.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-4.png",
+        "public/social/2026-11-28-koblenz-mehr-baeume-stadtgruen-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/zuergelbaum-celtis.jpg",
+        "urheber": "Friedrich Haag",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bad_D%C3%BCrkheim_Kurpark_Z%C3%BCrgelbaum_001_2021_10_10.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0a63892a2e4f66ca000761",
+        "story": "6b0a639441454797eaf1c7b7"
+      }
+    },
+    {
+      "id": "koblenz-horchheimer-eisenbahnbruecke-radweg-frei-2026-11-30",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261127-freigabe-des-geh-und-radwegs-auf-der-horchheimer-eisenbahnbruecke/",
+      "postedAt": "2026-11-28T07:25:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei.png",
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-2.png",
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-3.png",
+        "public/social/2026-11-28-koblenz-horchheimer-bruecke-radweg-frei-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/horchheimer-eisenbahnbruecke-fussweg.jpg",
+        "urheber": "Naturfreund66",
+        "lizenz": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Horchheimer_Eisenbahnbr%C3%BCcke,_Fu%C3%9Fweg_-_panoramio.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0a7164d7e53b12ebe1d40a",
+        "story": "6b0a716fcf6d91773004b3ba"
+      }
+    },
+    {
+      "id": "koblenz-mainzer-strasse-baustelle-suedbruecke-2026-11-30",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261127-strassenbauarbeiten-in-der-mainzer-strasse-unter-der-l-327-suedbruecke/",
+      "postedAt": "2026-11-28T08:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle.png",
+        "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle-2.png",
+        "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle-3.png",
+        "public/social/2026-11-28-koblenz-mainzer-strasse-baustelle-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/ki-baustelle-strasse.jpg",
+        "urheber": "Symbolbild (KI, Higgsfield)",
+        "lizenz": "KI-generiert",
+        "url": ""
+      },
+      "ki": true,
+      "bufferIds": {
+        "feed": "6b0a7e93fe7140cdac99c634",
+        "story": "6b0a7e9edb8a1c14ef10fc92"
+      }
+    },
+    {
+      "id": "koblenz-stadtbibliothek-trockenfilzen-2026-12-04",
+      "quelle": "Stadt Koblenz",
+      "url": "https://www.koblenz.de/rathaus/verwaltung/pressemeldungen/261127-stadtbibliothek-winterliches-trockenfilzen/",
+      "postedAt": "2026-11-28T08:20:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen.png",
+        "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen-2.png",
+        "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen-3.png",
+        "public/social/2026-11-28-koblenz-stadtbibliothek-trockenfilzen-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/forum-confluentes-koblenz.jpg",
+        "urheber": "Holger Weinandt",
+        "lizenz": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Forum_Confluentes_%2B_Mittelrhein_01_Koblenz_2013.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0a7ea5cf6d9177300a1660",
+        "story": "6b0a7eb0d7e53b12ebe75531"
+      }
+    }
+  ],
+  "feedCount": {
+    "2026-11-24": 10,
+    "2026-11-25": 21,
+    "2026-11-26": 16,
+    "2026-11-27": 18,
+    "2026-11-23": 1,
+    "2026-11-28": 5
   }
- ],
- "feedCount": {
-  "2026-11-24": 10,
-  "2026-11-25": 21,
-  "2026-11-26": 16,
-  "2026-11-27": 18,
-  "2026-11-23": 1,
-  "2026-11-28": 5
- }
 }
