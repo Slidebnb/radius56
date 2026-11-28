@@ -1351,7 +1351,7 @@
       "id": "linz-weihnachtszauber-2026-11-28",
       "quelle": "Rheinsteig / Romantischer Rhein Tourismus",
       "url": "https://www.rheinsteig.de/en/e-linzer-weihnachtszauber",
-      "postedAt": "2026-11-28T11:40:00+01:00",
+      "postedAt": "2026-11-28T11:13:00+01:00",
       "format": "feed+story",
       "bilder": [
         "public/social/2026-11-28-linzer-weihnachtszauber.png",
@@ -1365,6 +1365,10 @@
         "urheber": "Image-Improver Bonn",
         "lizenz": "CC BY-SA 4.0",
         "url": "https://commons.wikimedia.org/wiki/File:Linz_am_Rhein_Marktplatz_14_Rathaus.jpg"
+      },
+      "bufferIds": {
+        "feed": "6b0aa92bc2d6ca610d9b5e5c",
+        "story": "6b0aa93734e8321d016273b2"
       }
     }
   ],
