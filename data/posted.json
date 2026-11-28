@@ -1370,6 +1370,27 @@
         "feed": "6b0aa92bc2d6ca610d9b5e5c",
         "story": "6b0aa93734e8321d016273b2"
       }
+    },
+    {
+      "id": "hoehr-grenzhausen-keramik-adventsausstellung-2026-11-28",
+      "quelle": "Keramikmuseum Westerwald, WW-Kurier",
+      "url": "https://www.keramikmuseum.de/kalender/2026/advent",
+      "urlZusatz": "https://www.ww-kurier.de/artikel/178432-weihnachtsmaerkte-2026-in-der-region--termine-im--berblick",
+      "postedAt": "2026-11-28T12:40:00+01:00",
+      "format": "feed+story",
+      "bilder": [
+        "public/social/2026-11-28-westerwald-advent-keramik.png",
+        "public/social/2026-11-28-westerwald-advent-keramik-2.png",
+        "public/social/2026-11-28-westerwald-advent-keramik-3.png",
+        "public/social/2026-11-28-westerwald-advent-keramik-4.png",
+        "public/social/2026-11-28-westerwald-advent-keramik-story.png"
+      ],
+      "foto": {
+        "datei": "public/social/fotos/hoehr-grenzhausen-keramikmuseum.jpg",
+        "urheber": "LigaDue",
+        "lizenz": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg"
+      }
     }
   ],
   "feedCount": {
@@ -1378,6 +1399,6 @@
     "2026-11-26": 16,
     "2026-11-27": 18,
     "2026-11-23": 1,
-    "2026-11-28": 9
+    "2026-11-28": 10
   }
 }
